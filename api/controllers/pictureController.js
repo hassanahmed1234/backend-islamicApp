@@ -3,31 +3,24 @@ import { CloudinaryStorage } from 'multer-storage-cloudinary';
 import cloudinary from '../config/pictureUpload.js'; // 👈 direct import
 
 export const pictureUploadController = async (req, res) => {
-
-
   try {
-    // req.file.path ab local path nahi hoga, balkay direct cloudinary ka URL hoga!
-   
+    console.log("FILE:", req.file);
 
-    const result = await cloudinary.uploader.upload(req.file.path, {
-      folder: "profile_pictures"
-    });
-
-    console.log("CLOUDINARY RESULT:", result);
-    
-   
-
-    const imageUrl = result.secure_url; // ✅ ye frontend ko bhejna hai
-
+    const imageUrl = req.file.path; // ✅ Cloudinary URL already here
 
     const updatedUser = await User.findByIdAndUpdate(
       req.body?.userId,
       { image: imageUrl },
       { new: true }
     );
-    res.json({ message: "Uploaded to Cloud successfully!", image: imageUrl });
+
+    res.json({
+      message: "Uploaded successfully!",
+      image: imageUrl
+    });
+
   } catch (error) {
-    console.log('hellooooo')
+    console.log("UPLOAD ERROR:", error);
     res.status(500).json({ error: error.message });
   }
-}
+};
