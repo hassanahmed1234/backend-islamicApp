@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Sleep and Death Protection Dua",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ",
+    "translation": "Ae Allah! Main gham aur pareshani se teri panah mangta hoon",
+    "reference": "Sunan Abu Dawood",
+    "category": "protection"
+  },
+  {
+    "title": "Life and Death Dua",
+    "arabic": "اللَّهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا",
+    "translation": "Ae Allah! Tere naam ke saath main marta aur jeeta hoon",
+    "reference": "Sahih Bukhari 6324",
+    "category": "sleep"
+  },
+  {
+    "title": "Wake Up Dua",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "translation": "Sab tareef Allah ke liye hai jis ne hume maut ke baad zinda kiya aur usi ki taraf laut kar jana hai",
+    "reference": "Sahih Bukhari 6312",
+    "category": "morning"
+  },
+  {
+    "title": "Entering Toilet Dua",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "translation": "Ae Allah! Main napak jinn aur shayateen se teri panah mangta hoon",
+    "reference": "Sahih Bukhari 142",
+    "category": "toilet"
+  },
+  {
+    "title": "Leaving Toilet Dua",
+    "arabic": "غُفْرَانَكَ",
+    "translation": "Ae Allah! Main teri maghfirat chahta hoon",
+    "reference": "Sunan Abu Dawood 30",
+    "category": "toilet"
+  },
+  {
+    "title": "Before Wudu",
+    "arabic": "بِسْمِ اللَّهِ",
+    "translation": "Allah ke naam se",
+    "reference": "Sunan Ibn Majah 397",
+    "category": "wudu"
+  },
+  {
+    "title": "After Wudu",
+    "arabic": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "translation": "Main gawahi deta hoon ke Allah ke siwa koi mabood nahi aur Muhammad ﷺ Allah ke bande aur Rasool hain",
+    "reference": "Sahih Muslim 234",
+    "category": "wudu"
+  },
+  {
+    "title": "Looking in Mirror Dua",
+    "arabic": "اللَّهُمَّ كَمَا أَحْسَنْتَ خَلْقِي فَحَسِّنْ خُلُقِي",
+    "translation": "Ae Allah! Jis tarah tune meri surat achi banayi, mera akhlaq bhi acha bana",
+    "reference": "Musnad Ahmad",
+    "category": "miror"
+  },
+  {
+    "title": "Before Eating Dua",
+    "arabic": "بِسْمِ اللَّهِ وَعَلَى بَرَكَةِ اللَّهِ",
+    "translation": "Allah ke naam ke saath aur Allah ki barkat par",
+    "reference": "Abu Dawood",
+    "category": "food"
+  },
+  {
+    "title": "After Eating Dua",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "translation": "Sab tareef Allah ke liye hai jis ne mujhe ye khana diya aur bina meri taqat ke rizq diya",
+    "reference": "Sunan Abu Dawood 4023",
+    "category": "food"
+  },
+  {
+    "title": "Tasbeeh",
+    "arabic": "سُبْحَانَ اللّٰهِ",
+    "translation": "Allah paak hai",
+    "reference": "Dhikr",
+    "category": "zikr"
+  },
+  {
+    "title": "Takbeer",
+    "arabic": "اللّٰهُ أَكْبَرُ",
+    "translation": "Allah sab se bada hai",
+    "reference": "Dhikr",
+    "category": "zikr"
+  },
+  {
+    "title": "Tahmeed",
+    "arabic": "الْحَمْدُ لِلّٰهِ",
+    "translation": "Sab tareef Allah ke liye hai",
+    "reference": "Dhikr",
+    "category": "zikr"
+  },
+  {
+    "title": "Forgiveness Dua",
+    "arabic": "رَبِّ اغْفِرْ لِي",
+    "translation": "Ae mere Rabb! Mujhe bakhsh de",
+    "reference": "Quranic Dua",
+    "category": "forgiveness"
+  },
+  {
+    "title": "Repentance Dua",
+    "arabic": "أَتُوبُ إِلَيْكَ",
+    "translation": "Main teri taraf tauba karta hoon",
+    "reference": "Dhikr",
+    "category": "tauba"
+  },
+  {
+    "title": "Mercy Dua",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "translation": "Ae Allah! Mere liye apni rehmat ke darwaze khol de",
+    "reference": "Sahih Muslim",
+    "category": "masjid"
+  }
+]
