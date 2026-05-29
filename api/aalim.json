@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Mufti Khurram Iqbal Rehmani",
+    "expertise": "Fiqh & Islamic Finance",
+    "qualification": "MA Islamic Theorology / M phill",
+    "whatsapp": "923128836972",
+    "availableTime": "04:00 PM - 06:00 PM",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlQJkHErySu9Xm4UUcswSVZmrjv6tE8g9sQ&s"
+  },
+  {
+    "id": "2",
+    "name": "Hafiz Hassan Ahmed Qadri",
+    "expertise": "Tafseer & Quranic Sciences",
+    "qualification": "Saleem University Graduate",
+    "whatsapp": "923172018866",
+    "availableTime": "08:00 PM - 10:00 PM",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNUyLaxwzQiLjw8ftVxyCJT4uinR2jM_p6g&s"
+  }
+]

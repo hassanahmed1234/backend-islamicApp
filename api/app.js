@@ -8,6 +8,7 @@ import prayerRoutes from './routes/prayerRoutes.js';
 import getmeRoutes from './routes/getmeRoutes.js';
 import duaRoutes from './routes/duaRoutes.js'
 import pictureRoutes from './routes/pictureRoutes.js'
+import aalimRoutes from './routes/aalimRoutes.js'
 import { rateLimit } from 'express-rate-limit'
 
 const app = express();
@@ -39,6 +40,7 @@ app.use('/api/profile',getmeRoutes);
 app.use('/api/prayer', prayerRoutes);
 app.use('/api/getdua', duaRoutes);
 app.use('/api/user',pictureRoutes);
+app.use('/api/aalim',aalimRoutes);
 app.get("/", (req, res) => {
   res.json({
     message : 'running perfectly'
