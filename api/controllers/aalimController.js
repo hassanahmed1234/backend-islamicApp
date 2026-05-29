@@ -1,10 +1,10 @@
-import aalim from '../models/aalim.js';
+import Scholar from '../models/aalim.js';
 
 // @access  Public
 export const getAalim = async (req, res) => {
   try {
     // Database se saare scholars fetch karein
-    const scholars = await aalim.find().sort({ createdAt: -1 });
+    const scholars = await Scholar.find().sort({ createdAt: -1 });
     
     // Success Response
     res.status(200).json({
