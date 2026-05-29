@@ -1,8 +1,8 @@
 import express from 'express';
-import aalimController from '../controllers/aalimController.js';
+import {getAalim} from '../controllers/aalimController.js';
 
 const router = express.Router();
 
-router.get('/', aalimController);
+router.get('/', getAalim);
 
 export default router;

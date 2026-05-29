@@ -1,7 +1,7 @@
 import aalim from '../models/aalim.js';
 
 // @access  Public
-export default getAalim = async (req, res) => {
+export const getAalim = async (req, res) => {
   try {
     // Database se saare scholars fetch karein
     const scholars = await aalim.find().sort({ createdAt: -1 });
