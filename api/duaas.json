@@ -110,5 +110,26 @@
     "translation": "Ae Allah! Mere liye apni rehmat ke darwaze khol de",
     "reference": "Sahih Muslim",
     "category": "masjid"
-  }
+  },
+  {
+    "title": "Travel Dua",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+    "translation": "Paak hai Woh Zaat jis ne is (sawari/zameen) ko hamare qabu mein kar diya, jabke hum is par qaaboo paane wale na thay. Aur beshak hum apne Rab ki taraf hi lautne wale hain.",
+    "reference": "Sahih Muslim 1342",
+    "category": "travel"
+  },
+  {
+  "title": "Gratitude Dua",
+  "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+  "translation": "Saari tareef Allah ke liye hai jis ne humein maut ke baad zindagi di, aur usi ki taraf dobara uthna hai.",
+  "reference": "Sahih Bukhari 6312",
+  "category": "gratitude"
+},
+{
+  "title": "Dua for Sickness",
+  "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ شِفَاءً لَا يُغَادِرُ سَقَمًا",
+  "translation": "Ae Allah, logo ke Rab! Takleef door farma, shifa de. Tu hi Shifa dene wala hai. Teri shifa ke siwa koi shifa nahi, aisi shifa de jo kisi bimari ko baqi na chhode.",
+  "reference": "Sahih Bukhari 5742",
+  "category": "sickness"
+}
 ]
