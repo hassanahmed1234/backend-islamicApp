@@ -2,20 +2,15 @@ import mongoose from "mongoose";
 
 const notificationSchema = new mongoose.Schema(
   {
-    title: {
-      type: String,
-      required: true,
-    },
+    title: String,
 
-    message: {
-      type: String,
-      required: true,
-    },
+    message: String,
 
-    type: {
-      type: String,
-      default: "general",
-    },
+    type: String,
+
+    time: String,
+
+    day: String,
 
     active: {
       type: Boolean,
@@ -26,7 +21,6 @@ const notificationSchema = new mongoose.Schema(
     timestamps: true,
   }
 );
-
 
 const Notification =
   mongoose.models.Notification ||

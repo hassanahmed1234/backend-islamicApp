@@ -1,0 +1,113 @@
+[
+  {
+    "title": "Good Morning",
+    "message": "Apna din Quran ki tilawat se shuru karein 📖",
+    "type": "quran",
+    "time": "08:00",
+    "active": true
+  },
+  {
+    "title": "Daily Hadith",
+    "message": "Muskurana bhi sadaqah hai 😊",
+    "type": "hadith",
+    "time": "10:00",
+    "active": true
+  },
+  {
+    "title": "Islamic Quiz",
+    "message": "Aaj ka Islamic quiz attempt karein 🧠",
+    "type": "quiz",
+    "time": "12:00",
+    "active": true
+  },
+  {
+    "title": "Quran Reminder",
+    "message": "Sirf 10 minutes Quran parhein ❤️",
+    "type": "quran",
+    "time": "15:00",
+    "active": true
+  },
+  {
+    "title": "Evening Hadith",
+    "message": "Aaj ki hadith zaroor parhein ✨",
+    "type": "hadith",
+    "time": "19:00",
+    "active": true
+  },
+  {
+    "title": "Night Reminder",
+    "message": "Sone se pehle Quran ki tilawat karein 🌙",
+    "type": "quran",
+    "time": "22:00",
+    "active": true
+  },  {
+    "title": "Digital Tasbeeh",
+    "message": "Aaj apni tasbeeh complete karein 🤲",
+    "type": "tasbeeh",
+    "time": "09:00",
+    "active": true
+  },
+  {
+    "title": "Morning Azkar",
+    "message": "Subah ke azkar parhna na bhoolain 🌤️",
+    "type": "azkar",
+    "time": "08:30",
+    "active": true
+  },
+  {
+    "title": "Islamic Scholar",
+    "message": "Aaj ek naye Islamic scholar ki video dekhein 🎓",
+    "type": "scholar",
+    "time": "11:00",
+    "active": true
+  },
+  {
+    "title": "Kids Learning",
+    "message": "Bachon ke liye Islamic stories section explore karein 🧒",
+    "type": "kids",
+    "time": "14:00",
+    "active": true
+  },
+  {
+    "title": "Islamic Quiz",
+    "message": "Apna knowledge test karein aur naye badges hasil karein 🧠",
+    "type": "quiz",
+    "time": "16:00",
+    "active": true
+  },
+  {
+    "title": "Tasbeeh Challenge",
+    "message": "Aaj 100 times SubhanAllah complete karein ✨",
+    "type": "tasbeeh",
+    "time": "18:00",
+    "active": true
+  },
+  {
+    "title": "Kids Quiz",
+    "message": "Bachon ka Islamic quiz ab available hai 🎮",
+    "type": "kids",
+    "time": "17:30",
+    "active": true
+  },
+  {
+    "title": "Scholar Quotes",
+    "message": "Aaj ki Islamic naseehat zaroor parhein 📚",
+    "type": "scholar",
+    "time": "20:00",
+    "active": true
+  },
+  {
+    "title": "Bedtime Dua",
+    "message": "Sone se pehle masnoon dua parhein 🌙",
+    "type": "dua",
+    "time": "22:30",
+    "active": true
+  },
+  {
+    "title": "Daily Islamic Fact",
+    "message": "Aaj ka interesting Islamic fact discover karein 💡",
+    "type": "fact",
+    "time": "13:00",
+    "active": true
+  }
+]
