@@ -23,24 +23,24 @@ export const getNotifications = async (req, res) => {
 
 
 // ADD NEW NOTIFICATION
-export const addNotification = async (req, res) => {
-  try {
-    const { title, message, type } = req.body;
+// export const addNotification = async (req, res) => {
+//   try {
+//     const { title, message, type } = req.body;
 
-    const newNotification = await Notification.create({
-      title,
-      message,
-      type,
-    });
+//     const newNotification = await Notification.create({
+//       title,
+//       message,
+//       type,
+//     });
 
-    res.status(201).json({
-      success: true,
-      newNotification,
-    });
-  } catch (error) {
-    res.status(500).json({
-      success: false,
-      message: error.message,
-    });
-  }
-};
+//     res.status(201).json({
+//       success: true,
+//       newNotification,
+//     });
+//   } catch (error) {
+//     res.status(500).json({
+//       success: false,
+//       message: error.message,
+//     });
+//   }
+// };
