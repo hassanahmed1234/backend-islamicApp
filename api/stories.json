@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Prophet Adam (AS)",
+    "subtitle": "The First Man Created",
+    "duration": "6 min video",
+    "lessons": "Obedience & Forgiveness",
+    "color": "#818CF8",
+    "points": 30,
+    "youtubeVideoId": "uvhAUB2VxMg",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400&auto=format&fit=crop",
+    "isFeatured": true
+  },
+  {
+    "id": "2",
+    "title": "Prophet Nuh (AS)",
+    "subtitle": "The Great Ark & Animals",
+    "duration": "8 min video",
+    "lessons": "Patience & Hard Work",
+    "color": "#34D399",
+    "points": 40,
+    "youtubeVideoId": "w35uuS7MOn8",
+    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=400&auto=format&fit=crop",
+    "isFeatured": true
+  },
+  {
+    "id": "3",
+    "title": "Prophet Ibrahim (AS)",
+    "subtitle": "The Friend of Allah",
+    "duration": "10 min video",
+    "lessons": "Faith & Courage",
+    "color": "#FB923C",
+    "points": 45,
+    "youtubeVideoId": "b_fLp77C6Z4",
+    "image": "https://images.unsplash.com/photo-1604871000636-074fa5117945?q=80&w=400&auto=format&fit=crop",
+    "isFeatured": false
+  },
+  {
+    "id": "4",
+    "title": "Prophet Yunus (AS)",
+    "subtitle": "Inside the Whale",
+    "duration": "7 min video",
+    "lessons": "Repentance & Dua",
+    "color": "#F472B6",
+    "points": 35,
+    "youtubeVideoId": "7A4gLhGbe50",
+    "image": "https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?q=80&w=400&auto=format&fit=crop",
+    "isFeatured": false
+  },
+  {
+    "id": "5",
+    "title": "Prophet Yusuf (AS)",
+    "subtitle": "The Beautiful Dreamer",
+    "duration": "12 min video",
+    "lessons": "Kindness & Sabr",
+    "color": "#22D3EE",
+    "points": 50,
+    "youtubeVideoId": "gI97Zf_wFhQ",
+    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=400&auto=format&fit=crop",
+    "isFeatured": false
+  }
+]
