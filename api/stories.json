@@ -8,7 +8,7 @@
     "color": "#818CF8",
     "points": 30,
     "youtubeVideoId": "uvhAUB2VxMg",
-    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400&auto=format&fit=crop",
+    "image": "https://img.youtube.com/vi/uvhAUB2VxMg/hqdefault.jpg",
     "isFeatured": true
   },
   {
@@ -19,8 +19,8 @@
     "lessons": "Patience & Hard Work",
     "color": "#34D399",
     "points": 40,
-    "youtubeVideoId": "w35uuS7MOn8",
-    "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=400&auto=format&fit=crop",
+    "youtubeVideoId": "ZF_hx5TRcn0",
+    "image": "https://img.youtube.com/vi/ZF_hx5TRcn0/hqdefault.jpg",
     "isFeatured": true
   },
   {
@@ -31,9 +31,9 @@
     "lessons": "Faith & Courage",
     "color": "#FB923C",
     "points": 45,
-    "youtubeVideoId": "b_fLp77C6Z4",
-    "image": "https://images.unsplash.com/photo-1604871000636-074fa5117945?q=80&w=400&auto=format&fit=crop",
-    "isFeatured": false
+    "youtubeVideoId": "-5HQ9iH0zQY",
+    "image": "https://img.youtube.com/vi/-5HQ9iH0zQY/hqdefault.jpg",
+     "isFeatured": true
   },
   {
     "id": "4",
@@ -43,9 +43,9 @@
     "lessons": "Repentance & Dua",
     "color": "#F472B6",
     "points": 35,
-    "youtubeVideoId": "7A4gLhGbe50",
-    "image": "https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?q=80&w=400&auto=format&fit=crop",
-    "isFeatured": false
+    "youtubeVideoId": "4hKbaQ17rFs",
+    "image": "https://img.youtube.com/vi/4hKbaQ17rFs/hqdefault.jpg",
+     "isFeatured": true
   },
   {
     "id": "5",
@@ -55,8 +55,92 @@
     "lessons": "Kindness & Sabr",
     "color": "#22D3EE",
     "points": 50,
-    "youtubeVideoId": "gI97Zf_wFhQ",
-    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=400&auto=format&fit=crop",
-    "isFeatured": false
+    "youtubeVideoId": "19SbvfIKu_w",
+    "image": "https://img.youtube.com/vi/19SbvfIKu_w/hqdefault.jpg",
+     "isFeatured": true
+  },
+  {
+    "id": "6",
+    "title": "Prophet Musa (AS)",
+    "subtitle": "The Brave Messenger",
+    "duration": "11 min video",
+    "lessons": "Courage & Trust in Allah",
+    "color": "#10B981",
+    "points": 55,
+    "youtubeVideoId": "-9aOCv_28T0",
+    "image": "https://img.youtube.com/vi/-9aOCv_28T0/hqdefault.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": "7",
+    "title": "Prophet Isa (AS)",
+    "subtitle": "The Miracle Child",
+    "duration": "9 min video",
+    "lessons": "Mercy & Compassion",
+    "color": "#6366F1",
+    "points": 45,
+    "youtubeVideoId": "guocukTc9zQ",
+    "image": "https://img.youtube.com/vi/guocukTc9zQ/hqdefault.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": "8",
+    "title": "Prophet Suleiman (AS)",
+    "subtitle": "King of Wisdom",
+    "duration": "13 min video",
+    "lessons": "Wisdom & Gratitude",
+    "color": "#F59E0B",
+    "points": 60,
+    "youtubeVideoId": "JbfEZMdgZ_A",
+    "image": "https://img.youtube.com/vi/JbfEZMdgZ_A/hqdefault.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": "9",
+    "title": "Prophet Ayyub (AS)",
+    "subtitle": "The Patient Servant",
+    "duration": "8 min video",
+    "lessons": "Patience & Faith",
+    "color": "#EC4899",
+    "points": 40,
+    "youtubeVideoId": "9ZIYQhfSe6s",
+    "image": "https://img.youtube.com/vi/9ZIYQhfSe6s/hqdefault.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": "10",
+    "title": "Prophet Dawood (AS)",
+    "subtitle": "The Powerful Voice",
+    "duration": "10 min video",
+    "lessons": "Strength & Worship",
+    "color": "#0EA5E9",
+    "points": 50,
+    "youtubeVideoId": "9NOpJ8aalkM",
+    "image": "https://img.youtube.com/vi/9NOpJ8aalkM/hqdefault.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": "11",
+    "title": "Prophet Zakariya (AS)",
+    "subtitle": "The Hopeful Prayer",
+    "duration": "7 min video",
+    "lessons": "Hope & Dua",
+    "color": "#8B5CF6",
+    "points": 35,
+    "youtubeVideoId": "RFbt-2DxQwA",
+    "image": "https://img.youtube.com/vi/RFbt-2DxQwA/hqdefault.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": "12",
+    "title": "Prophet Yahya (AS)",
+    "subtitle": "The Pure Heart",
+    "duration": "6 min video",
+    "lessons": "Purity & Obedience",
+    "color": "#14B8A6",
+    "points": 30,
+    "youtubeVideoId": "_jkZPYXIn4s",
+    "image": "https://img.youtube.com/vi/_jkZPYXIn4s/hqdefault.jpg",
+    "isFeatured": true
   }
 ]
