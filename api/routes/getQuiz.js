@@ -3,6 +3,6 @@ import { getQuiz } from '../controllers/quizController.js';
 
 const router = express.Router();
 
-router.get('/',getQuiz);
+router.get('/:level',getQuiz);
 
 export default router;
