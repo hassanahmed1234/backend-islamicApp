@@ -1,0 +1,1407 @@
+[
+  {
+    "level": 1,
+    "question": "Islam ke buniyadi pillars kitne hain?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "5",
+    "explanation": "Islam ke 5 buniyadi arkan hain."
+  },
+  {
+    "level": 1,
+    "question": "Kalma Tayyaba ka pehla hissa kya hai?",
+    "options": ["Allahu Akbar", "La ilaha illallah", "SubhanAllah", "Astaghfirullah"],
+    "correctAnswer": "La ilaha illallah",
+    "explanation": "Ye Kalma Tayyaba ka pehla hissa hai."
+  },
+  {
+    "level": 1,
+    "question": "Namaz din mein kitni martaba farz hai?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": "5",
+    "explanation": "Har Muslim par 5 waqt ki namaz farz hai."
+  },
+  {
+    "level": 1,
+    "question": "Roza kis mahine mein rakha jata hai?",
+    "options": ["Muharram", "Ramadan", "Rajab", "Safar"],
+    "correctAnswer": "Ramadan",
+    "explanation": "Roza Ramadan mein rakha jata hai."
+  },
+  {
+    "level": 1,
+    "question": "Hajj kis city mein hota hai?",
+    "options": ["Madinah", "Makkah", "Taif", "Jerusalem"],
+    "correctAnswer": "Makkah",
+    "explanation": "Hajj Makkah mein hota hai."
+  },
+  {
+    "level": 1,
+    "question": "Quran kis zaban mein nazil hua?",
+    "options": ["Urdu", "Arabic", "English", "Persian"],
+    "correctAnswer": "Arabic",
+    "explanation": "Quran Arabic zaban mein nazil hua."
+  },
+  {
+    "level": 1,
+    "question": "Azan dene wale pehle sahabi kaun thay?",
+    "options": ["Hazrat Ali (RA)", "Hazrat Bilal (RA)", "Hazrat Umar (RA)", "Hazrat Usman (RA)"],
+    "correctAnswer": "Hazrat Bilal (RA)",
+    "explanation": "Hazrat Bilal (RA) Islam ke pehle moazzin thay."
+  },
+  {
+    "level": 1,
+    "question": "Islam ka matlab kya hai?",
+    "options": ["Jang", "Aman", "Safar", "Tijarat"],
+    "correctAnswer": "Aman",
+    "explanation": "Islam aman aur ita'at ka deen hai."
+  },
+  {
+    "level": 1,
+    "question": "Muslim namaz mein kis taraf rukh karte hain?",
+    "options": ["Madinah", "Kaaba", "Taif", "Jerusalem"],
+    "correctAnswer": "Kaaba",
+    "explanation": "Muslim Kaaba ki taraf rukh karte hain."
+  },
+  {
+    "level": 1,
+    "question": "Zakat kis par farz hoti hai?",
+    "options": ["Har insan par", "Sirf bachon par", "Sahib-e-Nisab par", "Sirf tajiron par"],
+    "correctAnswer": "Sahib-e-Nisab par",
+    "explanation": "Zakat sahib-e-nisab Muslim par farz hoti hai."
+  },
+  {
+    "level": 2,
+    "question": "Nabi ﷺ par pehli wahi kahan nazil hui?",
+    "options": ["Masjid-e-Nabwi", "Ghar-e-Hira", "Taif", "Mina"],
+    "correctAnswer": "Ghar-e-Hira",
+    "explanation": "Pehli wahi Ghar-e-Hira mein nazil hui."
+  },
+  {
+    "level": 2,
+    "question": "Hijrat ke baad Nabi ﷺ kis city mein aaye?",
+    "options": ["Makkah", "Taif", "Madinah", "Jerusalem"],
+    "correctAnswer": "Madinah",
+    "explanation": "Hijrat ke baad Nabi ﷺ Madinah aaye."
+  },
+  {
+    "level": 2,
+    "question": "Nabi ﷺ ka laqab kya tha?",
+    "options": ["Al-Ameen", "Al-Farooq", "Zun-Noorain", "Asadullah"],
+    "correctAnswer": "Al-Ameen",
+    "explanation": "Aap ﷺ ko Al-Ameen kaha jata tha."
+  },
+  {
+    "level": 2,
+    "question": "Nabi ﷺ ki wiladat kis city mein hui?",
+    "options": ["Madinah", "Makkah", "Taif", "Jerusalem"],
+    "correctAnswer": "Makkah",
+    "explanation": "Aap ﷺ ki wiladat Makkah mein hui."
+  },
+  {
+    "level": 2,
+    "question": "Nabi ﷺ par kis umar mein wahi nazil hui?",
+    "options": ["25", "30", "40", "50"],
+    "correctAnswer": "40",
+    "explanation": "40 saal ki umar mein wahi nazil hui."
+  },
+  {
+    "level": 2,
+    "question": "Nabi ﷺ ke walid ka naam kya tha?",
+    "options": ["Abu Talib", "Abdullah", "Hamza", "Abbas"],
+    "correctAnswer": "Abdullah",
+    "explanation": "Aap ﷺ ke walid ka naam Abdullah tha."
+  },
+  {
+    "level": 2,
+    "question": "Nabi ﷺ ki walida ka naam kya tha?",
+    "options": ["Amina", "Khadija", "Aisha", "Fatima"],
+    "correctAnswer": "Amina",
+    "explanation": "Aap ﷺ ki walida ka naam Amina tha."
+  },
+  {
+    "level": 2,
+    "question": "Hijrat kis city se hui?",
+    "options": ["Taif", "Madinah", "Makkah", "Jerusalem"],
+    "correctAnswer": "Makkah",
+    "explanation": "Hijrat Makkah se hui."
+  },
+  {
+    "level": 2,
+    "question": "Nabi ﷺ ki pehli biwi ka naam kya tha?",
+    "options": ["Aisha (RA)", "Fatima (RA)", "Khadija (RA)", "Hafsa (RA)"],
+    "correctAnswer": "Khadija (RA)",
+    "explanation": "Hazrat Khadija (RA) Nabi ﷺ ki pehli biwi thin."
+  },
+  {
+    "level": 2,
+    "question": "Nabi ﷺ ka inteqal kis city mein hua?",
+    "options": ["Makkah", "Taif", "Madinah", "Jerusalem"],
+    "correctAnswer": "Madinah",
+    "explanation": "Aap ﷺ ka inteqal Madinah mein hua."
+  },
+  {
+    "level": 3,
+    "question": "Quran ki pehli Surah konsi hai?",
+    "options": ["Surah Baqarah", "Surah Yaseen", "Surah Fatiha", "Surah Ikhlas"],
+    "correctAnswer": "Surah Fatiha",
+    "explanation": "Surah Fatiha Quran ki pehli Surah hai."
+  },
+  {
+    "level": 3,
+    "question": "Quran mein kitne pare hain?",
+    "options": ["20", "25", "30", "40"],
+    "correctAnswer": "30",
+    "explanation": "Quran mein 30 pare hain."
+  },
+  {
+    "level": 3,
+    "question": "Sabse badi Surah konsi hai?",
+    "options": ["Surah Yaseen", "Surah Baqarah", "Surah Rahman", "Surah Ikhlas"],
+    "correctAnswer": "Surah Baqarah",
+    "explanation": "Surah Baqarah Quran ki sabse badi Surah hai."
+  },
+  {
+    "level": 3,
+    "question": "Sabse choti Surah konsi hai?",
+    "options": ["Surah Kausar", "Surah Nas", "Surah Falaq", "Surah Ikhlas"],
+    "correctAnswer": "Surah Kausar",
+    "explanation": "Surah Kausar sabse choti Surah hai."
+  },
+  {
+    "level": 3,
+    "question": "Quran kis raat mein nazil hona shuru hua?",
+    "options": ["Shab-e-Barat", "Lailatul Qadr", "Eid", "Jumma"],
+    "correctAnswer": "Lailatul Qadr",
+    "explanation": "Quran Lailatul Qadr mein nazil hona shuru hua."
+  },
+  {
+    "level": 3,
+    "question": "Quran mein kitni Surah hain?",
+    "options": ["100", "114", "120", "99"],
+    "correctAnswer": "114",
+    "explanation": "Quran mein 114 Surah hain."
+  },
+  {
+    "level": 3,
+    "question": "Surah Ikhlas mein Allah ki wahdaniyat bayan hui hai?",
+    "options": ["Yes", "No", "Partially", "Unknown"],
+    "correctAnswer": "Yes",
+    "explanation": "Surah Ikhlas tawheed ko bayan karti hai."
+  },
+  {
+    "level": 3,
+    "question": "Quran kis Nabi par nazil hua?",
+    "options": ["Musa (AS)", "Isa (AS)", "Muhammad ﷺ", "Ibrahim (AS)"],
+    "correctAnswer": "Muhammad ﷺ",
+    "explanation": "Quran Nabi Muhammad ﷺ par nazil hua."
+  },
+  {
+    "level": 3,
+    "question": "Surah Yaseen ko kya kaha jata hai?",
+    "options": ["Qalb-ul-Quran", "Noor", "Shifa", "Rahmat"],
+    "correctAnswer": "Qalb-ul-Quran",
+    "explanation": "Surah Yaseen ko Quran ka dil kaha jata hai."
+  },
+  {
+    "level": 3,
+    "question": "Ayat-ul-Kursi kis Surah mein hai?",
+    "options": ["Surah Yaseen", "Surah Fatiha", "Surah Baqarah", "Surah Mulk"],
+    "correctAnswer": "Surah Baqarah",
+    "explanation": "Ayat-ul-Kursi Surah Baqarah mein hai."
+  },
+  {
+    "level": 4,
+    "question": "Sabse authentic Hadith collection konsi mani jati hai?",
+    "options": ["Sunan Abu Dawood", "Jami Tirmidhi", "Sahih Bukhari", "Musnad Ahmad"],
+    "correctAnswer": "Sahih Bukhari",
+    "explanation": "Sahih Bukhari ko sabse authentic Hadith collection mana jata hai."
+  },
+  {
+    "level": 4,
+    "question": "Hadith kise kehte hain?",
+    "options": ["Quran ki ayat", "Sahaba ke aqwal", "Nabi ﷺ ke aqwal aur afaal", "Islamic history"],
+    "correctAnswer": "Nabi ﷺ ke aqwal aur afaal",
+    "explanation": "Hadith Nabi ﷺ ke aqwal, afaal aur taqreer ko kehte hain."
+  },
+  {
+    "level": 4,
+    "question": "Sahih Muslim kis ne compile ki?",
+    "options": ["Imam Abu Hanifa", "Imam Muslim", "Imam Malik", "Imam Ahmad"],
+    "correctAnswer": "Imam Muslim",
+    "explanation": "Sahih Muslim ko Imam Muslim ne compile kiya."
+  },
+  {
+    "level": 4,
+    "question": "Hadith ki kitni mashhoor books ko Sihah Sitta kehte hain?",
+    "options": ["4", "5", "6", "7"],
+    "correctAnswer": "6",
+    "explanation": "Islam mein 6 mashhoor Hadith books ko Sihah Sitta kaha jata hai."
+  },
+  {
+    "level": 4,
+    "question": "Wahi ke baad Islam ka doosra source kya hai?",
+    "options": ["History", "Poetry", "Hadith", "Science"],
+    "correctAnswer": "Hadith",
+    "explanation": "Quran ke baad Hadith Islam ka aham source hai."
+  },
+  {
+    "level": 4,
+    "question": "Imam Tirmidhi kis cheez ke liye mashhoor hain?",
+    "options": ["Tafseer", "Fiqh", "Hadith collection", "Poetry"],
+    "correctAnswer": "Hadith collection",
+    "explanation": "Imam Tirmidhi Hadith collection ke liye mashhoor hain."
+  },
+  {
+    "level": 4,
+    "question": "Hadith likhne wale ko kya kehte hain?",
+    "options": ["Mufassir", "Muhaddith", "Faqih", "Qari"],
+    "correctAnswer": "Muhaddith",
+    "explanation": "Hadith collect aur narrate karne wale ko Muhaddith kehte hain."
+  },
+  {
+    "level": 4,
+    "question": "Sabse pehli wahi ka lafz kya tha?",
+    "options": ["Iqra", "Allah", "Rahman", "Bismillah"],
+    "correctAnswer": "Iqra",
+    "explanation": "Pehli wahi ka pehla lafz 'Iqra' tha."
+  },
+  {
+    "level": 4,
+    "question": "Hadith mein sanad ka kya matlab hai?",
+    "options": ["Matn", "Narrators ki chain", "Book name", "Translation"],
+    "correctAnswer": "Narrators ki chain",
+    "explanation": "Sanad narrators ki chain ko kehte hain."
+  },
+  {
+    "level": 4,
+    "question": "Imam Bukhari ka poora naam kya tha?",
+    "options": ["Muhammad bin Ismail", "Ahmad bin Hanbal", "Abu Hanifa", "Imam Malik"],
+    "correctAnswer": "Muhammad bin Ismail",
+    "explanation": "Imam Bukhari ka naam Muhammad bin Ismail tha."
+  },
+  {
+    "level": 5,
+    "question": "Sabse pehle Nabi kaun thay?",
+    "options": [
+      "Prophet Ibrahim (AS)",
+      "Prophet Musa (AS)",
+      "Prophet Adam (AS)",
+      "Prophet Nuh (AS)"
+    ],
+    "correctAnswer": "Prophet Adam (AS)",
+    "explanation": "Prophet Adam (AS) sabse pehle Nabi thay."
+  },
+  {
+    "level": 5,
+    "question": "Kashti wale Nabi kaun thay?",
+    "options": [
+      "Prophet Ibrahim (AS)",
+      "Prophet Musa (AS)",
+      "Prophet Nuh (AS)",
+      "Prophet Yusuf (AS)"
+    ],
+    "correctAnswer": "Prophet Nuh (AS)",
+    "explanation": "Prophet Nuh (AS) ki kashti mashhoor hai."
+  },
+  {
+    "level": 5,
+    "question": "Aag mein daale jane wale Nabi kaun thay?",
+    "options": [
+      "Prophet Musa (AS)",
+      "Prophet Ibrahim (AS)",
+      "Prophet Isa (AS)",
+      "Prophet Dawood (AS)"
+    ],
+    "correctAnswer": "Prophet Ibrahim (AS)",
+    "explanation": "Namrood ne Prophet Ibrahim (AS) ko aag mein dala tha."
+  },
+  {
+    "level": 5,
+    "question": "Bani Israel ko Firon se kis Nabi ne nijat dilayi?",
+    "options": [
+      "Prophet Yusuf (AS)",
+      "Prophet Isa (AS)",
+      "Prophet Musa (AS)",
+      "Prophet Haroon (AS)"
+    ],
+    "correctAnswer": "Prophet Musa (AS)",
+    "explanation": "Prophet Musa (AS) ne Bani Israel ko nijat dilayi."
+  },
+  {
+    "level": 5,
+    "question": "Khoobsurati ke liye mashhoor Nabi kaun thay?",
+    "options": [
+      "Prophet Yusuf (AS)",
+      "Prophet Dawood (AS)",
+      "Prophet Suleman (AS)",
+      "Prophet Isa (AS)"
+    ],
+    "correctAnswer": "Prophet Yusuf (AS)",
+    "explanation": "Prophet Yusuf (AS) apni khoobsurati ke liye mashhoor thay."
+  },
+  {
+    "level": 5,
+    "question": "Zaboor kis Nabi par nazil hui?",
+    "options": [
+      "Prophet Musa (AS)",
+      "Prophet Dawood (AS)",
+      "Prophet Isa (AS)",
+      "Prophet Ibrahim (AS)"
+    ],
+    "correctAnswer": "Prophet Dawood (AS)",
+    "explanation": "Zaboor Prophet Dawood (AS) par nazil hui."
+  },
+  {
+    "level": 5,
+    "question": "Jinnat par hukumat kis Nabi ko mili?",
+    "options": [
+      "Prophet Suleman (AS)",
+      "Prophet Musa (AS)",
+      "Prophet Isa (AS)",
+      "Prophet Yusuf (AS)"
+    ],
+    "correctAnswer": "Prophet Suleman (AS)",
+    "explanation": "Allah ne Prophet Suleman (AS) ko jinnat par hukumat di."
+  },
+  {
+    "level": 5,
+    "question": "Injeel kis Nabi par nazil hui?",
+    "options": [
+      "Prophet Musa (AS)",
+      "Prophet Dawood (AS)",
+      "Prophet Isa (AS)",
+      "Prophet Ibrahim (AS)"
+    ],
+    "correctAnswer": "Prophet Isa (AS)",
+    "explanation": "Injeel Prophet Isa (AS) par nazil hui."
+  },
+  {
+    "level": 5,
+    "question": "Sabse zyada imtehan kis Nabi ne bardasht kiye?",
+    "options": [
+      "Prophet Ayub (AS)",
+      "Prophet Musa (AS)",
+      "Prophet Yusuf (AS)",
+      "Prophet Nuh (AS)"
+    ],
+    "correctAnswer": "Prophet Ayub (AS)",
+    "explanation": "Prophet Ayub (AS) sabr aur imtehan ke liye mashhoor hain."
+  },
+  {
+    "level": 5,
+    "question": "Quran mein sabse zyada kis Nabi ka zikr aya hai?",
+    "options": [
+      "Prophet Ibrahim (AS)",
+      "Prophet Musa (AS)",
+      "Prophet Isa (AS)",
+      "Prophet Yusuf (AS)"
+    ],
+    "correctAnswer": "Prophet Musa (AS)",
+    "explanation": "Quran mein Prophet Musa (AS) ka sabse zyada zikr aya hai."
+  },
+  {
+    "level": 6,
+    "question": "Pehle Khalifa-e-Rashid kaun thay?",
+    "options": [
+      "Hazrat Umar (RA)",
+      "Hazrat Ali (RA)",
+      "Hazrat Abu Bakr (RA)",
+      "Hazrat Usman (RA)"
+    ],
+    "correctAnswer": "Hazrat Abu Bakr (RA)",
+    "explanation": "Hazrat Abu Bakr (RA) pehle Khalifa-e-Rashid thay."
+  },
+  {
+    "level": 6,
+    "question": "Hazrat Umar (RA) kis laqab se mashhoor thay?",
+    "options": [
+      "As-Siddiq",
+      "Al-Farooq",
+      "Zun-Noorain",
+      "Asadullah"
+    ],
+    "correctAnswer": "Al-Farooq",
+    "explanation": "Hazrat Umar (RA) Al-Farooq ke laqab se mashhoor thay."
+  },
+  {
+    "level": 6,
+    "question": "Zun-Noorain kis sahabi ka laqab hai?",
+    "options": [
+      "Hazrat Ali (RA)",
+      "Hazrat Umar (RA)",
+      "Hazrat Abu Bakr (RA)",
+      "Hazrat Usman (RA)"
+    ],
+    "correctAnswer": "Hazrat Usman (RA)",
+    "explanation": "Hazrat Usman (RA) ko Zun-Noorain kaha jata hai."
+  },
+  {
+    "level": 6,
+    "question": "Asadullah kis sahabi ka laqab hai?",
+    "options": [
+      "Hazrat Ali (RA)",
+      "Hazrat Bilal (RA)",
+      "Hazrat Khalid bin Waleed (RA)",
+      "Hazrat Hamza (RA)"
+    ],
+    "correctAnswer": "Hazrat Ali (RA)",
+    "explanation": "Hazrat Ali (RA) ko Asadullah kaha jata hai."
+  },
+  {
+    "level": 6,
+    "question": "Quran ko ek mushaf ki shakal mein kis Khalifa ne jama kiya?",
+    "options": [
+      "Hazrat Ali (RA)",
+      "Hazrat Umar (RA)",
+      "Hazrat Abu Bakr (RA)",
+      "Hazrat Usman (RA)"
+    ],
+    "correctAnswer": "Hazrat Abu Bakr (RA)",
+    "explanation": "Quran ko pehli martaba Hazrat Abu Bakr (RA) ke daur mein jama kiya gaya."
+  },
+  {
+    "level": 6,
+    "question": "Islamic calendar kis Khalifa ke daur mein shuru hua?",
+    "options": [
+      "Hazrat Abu Bakr (RA)",
+      "Hazrat Umar (RA)",
+      "Hazrat Usman (RA)",
+      "Hazrat Ali (RA)"
+    ],
+    "correctAnswer": "Hazrat Umar (RA)",
+    "explanation": "Islamic Hijri calendar Hazrat Umar (RA) ke daur mein shuru hua."
+  },
+  {
+    "level": 6,
+    "question": "Hazrat Ali (RA) kitne number ke Khalifa thay?",
+    "options": ["1st", "2nd", "3rd", "4th"],
+    "correctAnswer": "4th",
+    "explanation": "Hazrat Ali (RA) chauthe Khalifa-e-Rashid thay."
+  },
+  {
+    "level": 6,
+    "question": "Siddiq ka laqab kis sahabi ko diya gaya?",
+    "options": [
+      "Hazrat Umar (RA)",
+      "Hazrat Ali (RA)",
+      "Hazrat Abu Bakr (RA)",
+      "Hazrat Usman (RA)"
+    ],
+    "correctAnswer": "Hazrat Abu Bakr (RA)",
+    "explanation": "Hazrat Abu Bakr (RA) ko As-Siddiq kaha jata hai."
+  },
+  {
+    "level": 6,
+    "question": "Hazrat Usman (RA) ne Quran ke kitne standard nuskhay tayar karwaye?",
+    "options": ["2", "4", "6", "8"],
+    "correctAnswer": "6",
+    "explanation": "Hazrat Usman (RA) ne Quran ke standard nuskhay tayar karwaye."
+  },
+  {
+    "level": 6,
+    "question": "Khalifa-e-Rashideen ki total tadaad kitni hai?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "4",
+    "explanation": "Khalifa-e-Rashideen 4 hain."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Badr kis hijri saal mein hua?",
+    "options": ["1 AH", "2 AH", "3 AH", "5 AH"],
+    "correctAnswer": "2 AH",
+    "explanation": "Ghazwa-e-Badr Ramadan 2 AH mein hua tha."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Uhud kis hijri saal mein hua?",
+    "options": ["1 AH", "2 AH", "3 AH", "5 AH"],
+    "correctAnswer": "3 AH",
+    "explanation": "Ghazwa-e-Uhud 3 AH mein hua."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Khandaq ko aur kis naam se jana jata hai?",
+    "options": [
+      "Ghazwa-e-Tabuk",
+      "Ghazwa-e-Ahzab",
+      "Ghazwa-e-Hunain",
+      "Ghazwa-e-Khyber"
+    ],
+    "correctAnswer": "Ghazwa-e-Ahzab",
+    "explanation": "Ghazwa-e-Khandaq ko Ghazwa-e-Ahzab bhi kehte hain."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Badr mein Muslims ki tadaad kitni thi?",
+    "options": ["313", "500", "700", "1000"],
+    "correctAnswer": "313",
+    "explanation": "Ghazwa-e-Badr mein Muslims ki tadaad 313 thi."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Uhud mein kis sahabi ne Nabi ﷺ ka difa kiya?",
+    "options": [
+      "Hazrat Bilal (RA)",
+      "Hazrat Talha (RA)",
+      "Hazrat Salman (RA)",
+      "Hazrat Abu Hurairah (RA)"
+    ],
+    "correctAnswer": "Hazrat Talha (RA)",
+    "explanation": "Hazrat Talha (RA) ne Ghazwa-e-Uhud mein bahaduri dikhayi."
+  },
+  {
+    "level": 7,
+    "question": "Khandaq khodne ka mashwara kis sahabi ne diya?",
+    "options": [
+      "Hazrat Umar (RA)",
+      "Hazrat Salman Farsi (RA)",
+      "Hazrat Ali (RA)",
+      "Hazrat Bilal (RA)"
+    ],
+    "correctAnswer": "Hazrat Salman Farsi (RA)",
+    "explanation": "Khandaq ka mashwara Hazrat Salman Farsi (RA) ne diya."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Khyber kis ke khilaf hua?",
+    "options": [
+      "Romans",
+      "Persians",
+      "Yahood",
+      "Munafiqeen"
+    ],
+    "correctAnswer": "Yahood",
+    "explanation": "Ghazwa-e-Khyber Yahood ke khilaf hua."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Hunain kis qabeelay ke khilaf hua?",
+    "options": [
+      "Quraish",
+      "Hawazin",
+      "Romans",
+      "Persians"
+    ],
+    "correctAnswer": "Hawazin",
+    "explanation": "Ghazwa-e-Hunain qabeela Hawazin ke khilaf hua."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Tabuk kis superpower ke khilaf tayyari thi?",
+    "options": [
+      "Persia",
+      "Rome",
+      "Egypt",
+      "Yemen"
+    ],
+    "correctAnswer": "Rome",
+    "explanation": "Ghazwa-e-Tabuk Rome ke khilaf tayyari thi."
+  },
+  {
+    "level": 7,
+    "question": "Ghazwa-e-Badr ko kis naam se bhi jana jata hai?",
+    "options": [
+      "Yawm-ul-Furqan",
+      "Fatah-e-Makkah",
+      "Hijrat",
+      "Sulah Hudaibiya"
+    ],
+    "correctAnswer": "Yawm-ul-Furqan",
+    "explanation": "Ghazwa-e-Badr ko Yawm-ul-Furqan bhi kaha jata hai."
+  },
+  {
+    "level": 8,
+    "question": "Sultan Salahuddin Ayubi kis cheez ke liye mashhoor hain?",
+    "options": [
+      "Poetry",
+      "Jerusalem ki fateh",
+      "Trade",
+      "Architecture"
+    ],
+    "correctAnswer": "Jerusalem ki fateh",
+    "explanation": "Salahuddin Ayubi Jerusalem ki fateh ke liye mashhoor hain."
+  },
+  {
+    "level": 8,
+    "question": "Islamic Golden Age kis field mein mashhoor tha?",
+    "options": [
+      "Science",
+      "Medicine",
+      "Technology",
+      "All of these"
+    ],
+    "correctAnswer": "All of these",
+    "explanation": "Islamic Golden Age science, medicine aur technology mein mashhoor tha."
+  },
+  {
+    "level": 8,
+    "question": "Fatah-e-Makkah kis hijri saal mein hui?",
+    "options": ["6 AH", "7 AH", "8 AH", "10 AH"],
+    "correctAnswer": "8 AH",
+    "explanation": "Fatah-e-Makkah 8 AH mein hui."
+  },
+  {
+    "level": 8,
+    "question": "Misaq-e-Madinah kis ne tayar kiya tha?",
+    "options": [
+      "Hazrat Umar (RA)",
+      "Hazrat Abu Bakr (RA)",
+      "Nabi ﷺ",
+      "Hazrat Ali (RA)"
+    ],
+    "correctAnswer": "Nabi ﷺ",
+    "explanation": "Misaq-e-Madinah Nabi ﷺ ne tayar kiya tha."
+  },
+  {
+    "level": 8,
+    "question": "Andalus mein Muslim hukumat kis country mein thi?",
+    "options": [
+      "Turkey",
+      "Spain",
+      "Iran",
+      "Egypt"
+    ],
+    "correctAnswer": "Spain",
+    "explanation": "Andalus aaj ke Spain mein tha."
+  },
+  {
+    "level": 8,
+    "question": "Taj Mahal kis Muslim badshah ne banwaya?",
+    "options": [
+      "Akbar",
+      "Aurangzeb",
+      "Shah Jahan",
+      "Babur"
+    ],
+    "correctAnswer": "Shah Jahan",
+    "explanation": "Taj Mahal Shah Jahan ne banwaya."
+  },
+  {
+    "level": 8,
+    "question": "Ottoman Empire kis city ko apna markaz banata tha?",
+    "options": [
+      "Makkah",
+      "Baghdad",
+      "Istanbul",
+      "Damascus"
+    ],
+    "correctAnswer": "Istanbul",
+    "explanation": "Ottoman Empire ka markaz Istanbul tha."
+  },
+  {
+    "level": 8,
+    "question": "Qustuntunia kis Muslim ruler ne fatah ki?",
+    "options": [
+      "Salahuddin Ayubi",
+      "Muhammad bin Qasim",
+      "Sultan Mehmed II",
+      "Tipu Sultan"
+    ],
+    "correctAnswer": "Sultan Mehmed II",
+    "explanation": "Qustuntunia Sultan Mehmed II ne fatah ki."
+  },
+  {
+    "level": 8,
+    "question": "Pakistan mein Islam sabse pehle kis ke zariye aya?",
+    "options": [
+      "Tipu Sultan",
+      "Muhammad bin Qasim",
+      "Salahuddin Ayubi",
+      "Babur"
+    ],
+    "correctAnswer": "Muhammad bin Qasim",
+    "explanation": "Muhammad bin Qasim Sindh mein Islam laaye."
+  },
+  {
+    "level": 8,
+    "question": "Dar-ul-Hikmah kis city mein mashhoor library thi?",
+    "options": [
+      "Makkah",
+      "Baghdad",
+      "Madinah",
+      "Cairo"
+    ],
+    "correctAnswer": "Baghdad",
+    "explanation": "Dar-ul-Hikmah Baghdad mein mashhoor ilm ka markaz tha."
+  },
+  {
+    "level": 9,
+    "question": "Ashra Mubashra kise kehte hain?",
+    "options": [
+      "10 Jannati Sahaba",
+      "10 Muhaddith",
+      "10 Ghazwat",
+      "10 Fuqaha"
+    ],
+    "correctAnswer": "10 Jannati Sahaba",
+    "explanation": "Ashra Mubashra un 10 sahaba ko kehte hain jinko jannat ki basharat mili."
+  },
+  {
+    "level": 9,
+    "question": "Hazrat Bilal (RA) kis cheez ke liye mashhoor thay?",
+    "options": [
+      "Tijarat",
+      "Azan",
+      "Poetry",
+      "Writing"
+    ],
+    "correctAnswer": "Azan",
+    "explanation": "Hazrat Bilal (RA) Islam ke pehle moazzin thay."
+  },
+  {
+    "level": 9,
+    "question": "Hazrat Khalid bin Waleed (RA) ka laqab kya tha?",
+    "options": [
+      "Asadullah",
+      "Saifullah",
+      "Farooq",
+      "Siddiq"
+    ],
+    "correctAnswer": "Saifullah",
+    "explanation": "Hazrat Khalid bin Waleed (RA) ko Saifullah kaha jata hai."
+  },
+  {
+    "level": 9,
+    "question": "Sabse zyada Hadith riwayat karne wale sahabi kaun thay?",
+    "options": [
+      "Hazrat Umar (RA)",
+      "Hazrat Ali (RA)",
+      "Hazrat Abu Hurairah (RA)",
+      "Hazrat Bilal (RA)"
+    ],
+    "correctAnswer": "Hazrat Abu Hurairah (RA)",
+    "explanation": "Hazrat Abu Hurairah (RA) ne sabse zyada Hadith riwayat ki."
+  },
+  {
+    "level": 9,
+    "question": "Nabi ﷺ ke cousin aur damad kaun thay?",
+    "options": [
+      "Hazrat Umar (RA)",
+      "Hazrat Usman (RA)",
+      "Hazrat Ali (RA)",
+      "Hazrat Talha (RA)"
+    ],
+    "correctAnswer": "Hazrat Ali (RA)",
+    "explanation": "Hazrat Ali (RA) Nabi ﷺ ke cousin aur damad thay."
+  },
+  {
+    "level": 9,
+    "question": "Hazrat Hamza (RA) ka laqab kya tha?",
+    "options": [
+      "Saifullah",
+      "Asadullah",
+      "Farooq",
+      "Zun-Noorain"
+    ],
+    "correctAnswer": "Asadullah",
+    "explanation": "Hazrat Hamza (RA) ko Asadullah kaha jata tha."
+  },
+  {
+    "level": 9,
+    "question": "Hijrat ke safar mein Nabi ﷺ ke saath kaun thay?",
+    "options": [
+      "Hazrat Umar (RA)",
+      "Hazrat Abu Bakr (RA)",
+      "Hazrat Ali (RA)",
+      "Hazrat Bilal (RA)"
+    ],
+    "correctAnswer": "Hazrat Abu Bakr (RA)",
+    "explanation": "Hijrat ke safar mein Hazrat Abu Bakr (RA) saath thay."
+  },
+  {
+    "level": 9,
+    "question": "Hazrat Salman Farsi (RA) kis country se thay?",
+    "options": [
+      "Iran",
+      "Turkey",
+      "Egypt",
+      "Yemen"
+    ],
+    "correctAnswer": "Iran",
+    "explanation": "Hazrat Salman Farsi (RA) Iran se thay."
+  },
+  {
+    "level": 9,
+    "question": "Hazrat Zaid bin Haritha (RA) kis nisbat se mashhoor thay?",
+    "options": [
+      "Adopted son",
+      "Poet",
+      "Trader",
+      "King"
+    ],
+    "correctAnswer": "Adopted son",
+    "explanation": "Hazrat Zaid bin Haritha (RA) Nabi ﷺ ke adopted son thay."
+  },
+  {
+    "level": 9,
+    "question": "Hazrat Musab bin Umair (RA) kis kaam ke liye mashhoor thay?",
+    "options": [
+      "Trade",
+      "Teaching Islam in Madinah",
+      "Poetry",
+      "Architecture"
+    ],
+    "correctAnswer": "Teaching Islam in Madinah",
+    "explanation": "Hazrat Musab bin Umair (RA) Madinah mein Islam sikhane ke liye mashhoor thay."
+  },
+  {
+    "level": 10,
+    "question": "Islam mein sach bolne ko kya samjha jata hai?",
+    "options": [
+      "Burai",
+      "Gunah",
+      "Achhi adat",
+      "Makrooh"
+    ],
+    "correctAnswer": "Achhi adat",
+    "explanation": "Sach bolna Islam mein behtareen akhlaq mein se hai."
+  },
+  {
+    "level": 10,
+    "question": "Walidain ke saath husn-e-sulook ka hukum Quran mein diya gaya hai?",
+    "options": [
+      "Yes",
+      "No",
+      "Sirf Hadith mein",
+      "Sirf Sunnah mein"
+    ],
+    "correctAnswer": "Yes",
+    "explanation": "Quran mein walidain ke saath husn-e-sulook ka hukum diya gaya hai."
+  },
+  {
+    "level": 10,
+    "question": "Jhoot bolna Islam mein kya hai?",
+    "options": [
+      "Sunnah",
+      "Gunah",
+      "Nafl",
+      "Jaiz"
+    ],
+    "correctAnswer": "Gunah",
+    "explanation": "Jhoot bolna Islam mein gunah hai."
+  },
+  {
+    "level": 10,
+    "question": "Muskurana kis category mein aata hai?",
+    "options": [
+      "Gunah",
+      "Sadqah",
+      "Makrooh",
+      "Farz"
+    ],
+    "correctAnswer": "Sadqah",
+    "explanation": "Dusron ke liye muskurana bhi sadqah hai."
+  },
+  {
+    "level": 10,
+    "question": "Gheebat karna Islam mein kya hai?",
+    "options": [
+      "Achhi adat",
+      "Jaiz",
+      "Gunah",
+      "Farz"
+    ],
+    "correctAnswer": "Gunah",
+    "explanation": "Gheebat Islam mein mana hai."
+  },
+  {
+    "level": 10,
+    "question": "Safai ko Islam mein kya kaha gaya hai?",
+    "options": [
+      "Iman ka hissa",
+      "Makrooh",
+      "Nafl",
+      "Optional"
+    ],
+    "correctAnswer": "Iman ka hissa",
+    "explanation": "Safai ko nisf iman kaha gaya hai."
+  },
+  {
+    "level": 10,
+    "question": "Padosiyon ke huqooq ada karna Islam mein zaroori hai?",
+    "options": [
+      "Yes",
+      "No",
+      "Optional",
+      "Sirf ameeron ke liye"
+    ],
+    "correctAnswer": "Yes",
+    "explanation": "Islam mein padosiyon ke huqooq ki bahut ahmiyat hai."
+  },
+  {
+    "level": 10,
+    "question": "Amanat mein khayanat karna kya hai?",
+    "options": [
+      "Sunnah",
+      "Gunah",
+      "Sadqah",
+      "Jaiz"
+    ],
+    "correctAnswer": "Gunah",
+    "explanation": "Amanat mein khayanat karna gunah hai."
+  },
+  {
+    "level": 10,
+    "question": "Islam mein sabr ko kya samjha jata hai?",
+    "options": [
+      "Kamzori",
+      "Quwwat",
+      "Gunah",
+      "Makrooh"
+    ],
+    "correctAnswer": "Quwwat",
+    "explanation": "Sabr Islam mein bohat badi quwwat hai."
+  },
+  {
+    "level": 10,
+    "question": "Maaf kar dena Islam mein kaisa amal hai?",
+    "options": [
+      "Bura",
+      "Kamzori",
+      "Behtareen akhlaq",
+      "Makrooh"
+    ],
+    "correctAnswer": "Behtareen akhlaq",
+    "explanation": "Maaf karna Islam mein behtareen akhlaq hai."
+  },
+  {
+    "level": 11,
+    "question": "Wuzu tootne se namaz ka kya hukum hota hai?",
+    "options": [
+      "Namaz mukammal hoti hai",
+      "Namaz toot jati hai",
+      "Sunnah ban jati hai",
+      "Makrooh hoti hai"
+    ],
+    "correctAnswer": "Namaz toot jati hai",
+    "explanation": "Wuzu tootne se namaz toot jati hai."
+  },
+  {
+    "level": 11,
+    "question": "Tayammum kis surat mein kiya jata hai?",
+    "options": [
+      "Pani zyada ho",
+      "Pani na ho",
+      "Safar na ho",
+      "Namaz na ho"
+    ],
+    "correctAnswer": "Pani na ho",
+    "explanation": "Jab pani na ho ya istemal mumkin na ho to tayammum kiya jata hai."
+  },
+  {
+    "level": 11,
+    "question": "Namaz mein qibla ki taraf rukh karna kya hai?",
+    "options": [
+      "Mustahab",
+      "Farz",
+      "Makrooh",
+      "Nafl"
+    ],
+    "correctAnswer": "Farz",
+    "explanation": "Namaz mein qibla ki taraf rukh karna farz hai."
+  },
+  {
+    "level": 11,
+    "question": "Witr ki namaz kitni rakat hoti hai?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3",
+    "explanation": "Witr ki namaz 3 rakat hoti hai."
+  },
+  {
+    "level": 11,
+    "question": "Zakat kitne percent hoti hai?",
+    "options": ["1%", "2.5%", "5%", "10%"],
+    "correctAnswer": "2.5%",
+    "explanation": "Zakat maal ka 2.5% hoti hai."
+  },
+  {
+    "level": 11,
+    "question": "Jumma ki namaz kis din ada ki jati hai?",
+    "options": [
+      "Monday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "correctAnswer": "Friday",
+    "explanation": "Jumma ki namaz Friday ko ada ki jati hai."
+  },
+  {
+    "level": 11,
+    "question": "Roza kis waqt shuru hota hai?",
+    "options": [
+      "Sunrise",
+      "Fajr",
+      "Zuhr",
+      "Maghrib"
+    ],
+    "correctAnswer": "Fajr",
+    "explanation": "Roza Fajr se shuru hota hai."
+  },
+  {
+    "level": 11,
+    "question": "Namaz-e-Janaza mein ruku aur sajda hota hai?",
+    "options": [
+      "Yes",
+      "No",
+      "Kabhi kabhi",
+      "Sirf Eid par"
+    ],
+    "correctAnswer": "No",
+    "explanation": "Namaz-e-Janaza mein ruku aur sajda nahi hota."
+  },
+  {
+    "level": 11,
+    "question": "Masah kis par kiya jata hai?",
+    "options": [
+      "Pair",
+      "Sar",
+      "Kandhe",
+      "Chehra"
+    ],
+    "correctAnswer": "Sar",
+    "explanation": "Wuzu mein sar ka masah kiya jata hai."
+  },
+  {
+    "level": 11,
+    "question": "Namaz ki pehli condition kya hai?",
+    "options": [
+      "Roza",
+      "Taharat",
+      "Zakat",
+      "Hajj"
+    ],
+    "correctAnswer": "Taharat",
+    "explanation": "Namaz ke liye taharat zaroori hai."
+  },
+  {
+    "level": 12,
+    "question": "Sulah Hudaibiya kis hijri saal mein hui?",
+    "options": ["5 AH", "6 AH", "7 AH", "8 AH"],
+    "correctAnswer": "6 AH",
+    "explanation": "Sulah Hudaibiya 6 AH mein hui."
+  },
+  {
+    "level": 12,
+    "question": "Nabi ﷺ ne pehla Islamic state kis city mein establish ki?",
+    "options": [
+      "Makkah",
+      "Taif",
+      "Madinah",
+      "Jerusalem"
+    ],
+    "correctAnswer": "Madinah",
+    "explanation": "Pehli Islamic state Madinah mein establish hui."
+  },
+  {
+    "level": 12,
+    "question": "Nabi ﷺ ke kitne bete thay?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "3",
+    "explanation": "Nabi ﷺ ke 3 bete thay."
+  },
+  {
+    "level": 12,
+    "question": "Nabi ﷺ ki sabse choti beti kaun thin?",
+    "options": [
+      "Zainab (RA)",
+      "Fatima (RA)",
+      "Ruqayyah (RA)",
+      "Umm Kulsoom (RA)"
+    ],
+    "correctAnswer": "Fatima (RA)",
+    "explanation": "Hazrat Fatima (RA) sabse choti beti thin."
+  },
+  {
+    "level": 12,
+    "question": "Miraj kis Nabi ko hui?",
+    "options": [
+      "Prophet Musa (AS)",
+      "Prophet Isa (AS)",
+      "Prophet Muhammad ﷺ",
+      "Prophet Ibrahim (AS)"
+    ],
+    "correctAnswer": "Prophet Muhammad ﷺ",
+    "explanation": "Miraj Nabi Muhammad ﷺ ko hui."
+  },
+  {
+    "level": 12,
+    "question": "Nabi ﷺ ne kitne saal Makkah mein dawat di?",
+    "options": ["10", "13", "15", "20"],
+    "correctAnswer": "13",
+    "explanation": "Nabi ﷺ ne 13 saal Makkah mein dawat di."
+  },
+  {
+    "level": 12,
+    "question": "Madinah mein Nabi ﷺ ne pehli masjid konsi banayi?",
+    "options": [
+      "Masjid-e-Nabwi",
+      "Masjid-e-Quba",
+      "Masjid-e-Aqsa",
+      "Masjid-e-Qiblatain"
+    ],
+    "correctAnswer": "Masjid-e-Quba",
+    "explanation": "Masjid-e-Quba pehli masjid thi."
+  },
+  {
+    "level": 12,
+    "question": "Nabi ﷺ ka nikah Hazrat Aisha (RA) se kis ke baad hua?",
+    "options": [
+      "Hijrat",
+      "Wahi",
+      "Hazrat Khadija (RA) ke inteqal",
+      "Fatah-e-Makkah"
+    ],
+    "correctAnswer": "Hazrat Khadija (RA) ke inteqal",
+    "explanation": "Hazrat Khadija (RA) ke inteqal ke baad nikah hua."
+  },
+  {
+    "level": 12,
+    "question": "Nabi ﷺ ne kitne Hajj ada kiye?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "1",
+    "explanation": "Nabi ﷺ ne ek Hajj ada kiya jo Hajjat-ul-Wida tha."
+  },
+  {
+    "level": 12,
+    "question": "Hajjat-ul-Wida kis hijri saal mein hua?",
+    "options": ["8 AH", "9 AH", "10 AH", "11 AH"],
+    "correctAnswer": "10 AH",
+    "explanation": "Hajjat-ul-Wida 10 AH mein hua."
+  },
+  {
+    "level": 13,
+    "question": "Algebra ke founder Muslim scientist kaun thay?",
+    "options": [
+      "Ibn Sina",
+      "Al-Khwarizmi",
+      "Al-Biruni",
+      "Ibn Rushd"
+    ],
+    "correctAnswer": "Al-Khwarizmi",
+    "explanation": "Al-Khwarizmi ko Algebra ka founder mana jata hai."
+  },
+  {
+    "level": 13,
+    "question": "Canon of Medicine kis Muslim scientist ne likhi?",
+    "options": [
+      "Ibn Sina",
+      "Al-Razi",
+      "Al-Kindi",
+      "Jabir bin Hayyan"
+    ],
+    "correctAnswer": "Ibn Sina",
+    "explanation": "Ibn Sina ne Canon of Medicine likhi."
+  },
+  {
+    "level": 13,
+    "question": "Chemistry ke father kis Muslim scientist ko kaha jata hai?",
+    "options": [
+      "Al-Biruni",
+      "Jabir bin Hayyan",
+      "Ibn Khaldun",
+      "Al-Farabi"
+    ],
+    "correctAnswer": "Jabir bin Hayyan",
+    "explanation": "Jabir bin Hayyan ko father of chemistry kaha jata hai."
+  },
+  {
+    "level": 13,
+    "question": "Al-Biruni kis field mein mashhoor thay?",
+    "options": [
+      "Astronomy",
+      "Medicine",
+      "Poetry",
+      "Trade"
+    ],
+    "correctAnswer": "Astronomy",
+    "explanation": "Al-Biruni astronomy aur science mein mashhoor thay."
+  },
+  {
+    "level": 13,
+    "question": "Ibn Khaldun kis subject ke expert thay?",
+    "options": [
+      "History",
+      "Physics",
+      "Chemistry",
+      "Biology"
+    ],
+    "correctAnswer": "History",
+    "explanation": "Ibn Khaldun history aur sociology mein mashhoor thay."
+  },
+  {
+    "level": 13,
+    "question": "Optics par kaam karne wale Muslim scientist kaun thay?",
+    "options": [
+      "Ibn al-Haytham",
+      "Al-Khwarizmi",
+      "Ibn Sina",
+      "Al-Razi"
+    ],
+    "correctAnswer": "Ibn al-Haytham",
+    "explanation": "Ibn al-Haytham optics ke expert thay."
+  },
+  {
+    "level": 13,
+    "question": "Al-Razi kis field mein mashhoor thay?",
+    "options": [
+      "Medicine",
+      "Poetry",
+      "Astronomy",
+      "Mathematics"
+    ],
+    "correctAnswer": "Medicine",
+    "explanation": "Al-Razi medicine mein mashhoor thay."
+  },
+  {
+    "level": 13,
+    "question": "Algorithm ka lafz kis Muslim scientist ke naam se nikla?",
+    "options": [
+      "Ibn Sina",
+      "Al-Khwarizmi",
+      "Jabir bin Hayyan",
+      "Al-Farabi"
+    ],
+    "correctAnswer": "Al-Khwarizmi",
+    "explanation": "Algorithm ka lafz Al-Khwarizmi se nikla."
+  },
+  {
+    "level": 13,
+    "question": "Muslim scientists ka golden age kis period mein tha?",
+    "options": [
+      "Middle Ages",
+      "Modern Age",
+      "Stone Age",
+      "Industrial Age"
+    ],
+    "correctAnswer": "Middle Ages",
+    "explanation": "Muslim scientists Middle Ages mein mashhoor thay."
+  },
+  {
+    "level": 13,
+    "question": "Jabir bin Hayyan kis science se related thay?",
+    "options": [
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Geography"
+    ],
+    "correctAnswer": "Chemistry",
+    "explanation": "Jabir bin Hayyan chemistry se related thay."
+  },
+  {
+    "level": 14,
+    "question": "Islam mein sabse pehli Muslim woman kaun thin?",
+    "options": [
+      "Hazrat Aisha (RA)",
+      "Hazrat Fatima (RA)",
+      "Hazrat Khadija (RA)",
+      "Hazrat Hafsa (RA)"
+    ],
+    "correctAnswer": "Hazrat Khadija (RA)",
+    "explanation": "Hazrat Khadija (RA) Islam mein sabse pehli Muslim thin."
+  },
+  {
+    "level": 14,
+    "question": "Hazrat Aisha (RA) kis cheez ke liye mashhoor thin?",
+    "options": [
+      "Tijarat",
+      "Hadith aur ilm",
+      "Poetry",
+      "Jang"
+    ],
+    "correctAnswer": "Hadith aur ilm",
+    "explanation": "Hazrat Aisha (RA) ilm aur Hadith ki bohat badi scholar thin."
+  },
+  {
+    "level": 14,
+    "question": "Hazrat Fatima (RA) kis ki beti thin?",
+    "options": [
+      "Hazrat Umar (RA)",
+      "Nabi Muhammad ﷺ",
+      "Hazrat Abu Bakr (RA)",
+      "Hazrat Usman (RA)"
+    ],
+    "correctAnswer": "Nabi Muhammad ﷺ",
+    "explanation": "Hazrat Fatima (RA) Nabi ﷺ ki beti thin."
+  },
+  {
+    "level": 14,
+    "question": "Islam mein aurat ka maqam kya hai?",
+    "options": [
+      "Nicha",
+      "Barabar izzat",
+      "Koi haq nahi",
+      "Sirf ghar tak limited"
+    ],
+    "correctAnswer": "Barabar izzat",
+    "explanation": "Islam mein aurat ko bohat buland maqam diya gaya hai."
+  },
+  {
+    "level": 14,
+    "question": "Hazrat Maryam (AS) ka zikr kis kitab mein hai?",
+    "options": [
+      "Torah",
+      "Quran",
+      "Zaboor",
+      "Injeel"
+    ],
+    "correctAnswer": "Quran",
+    "explanation": "Hazrat Maryam (AS) ka zikr Quran mein hai."
+  },
+  {
+    "level": 14,
+    "question": "Nabi ﷺ ki sabse choti beti kaun thin?",
+    "options": [
+      "Hazrat Zainab (RA)",
+      "Hazrat Ruqayyah (RA)",
+      "Hazrat Fatima (RA)",
+      "Hazrat Umm Kulthum (RA)"
+    ],
+    "correctAnswer": "Hazrat Fatima (RA)",
+    "explanation": "Hazrat Fatima (RA) sabse choti aur bohat azeem beti thin."
+  },
+  {
+    "level": 14,
+    "question": "Islam mein hijab ka kya concept hai?",
+    "options": [
+      "Fashion",
+      "Modesty aur protection",
+      "Optional decoration",
+      "Old tradition only"
+    ],
+    "correctAnswer": "Modesty aur protection",
+    "explanation": "Hijab Islam mein haya aur protection ka zariya hai."
+  },
+  {
+    "level": 14,
+    "question": "Hazrat Khadija (RA) ka profession kya tha?",
+    "options": [
+      "Doctor",
+      "Trader",
+      "Teacher",
+      "Farmer"
+    ],
+    "correctAnswer": "Trader",
+    "explanation": "Hazrat Khadija (RA) ek successful trader thin."
+  },
+  {
+    "level": 14,
+    "question": "Islam mein maa ka maqam kya hai?",
+    "options": [
+      "Low",
+      "Normal",
+      "Bahut buland",
+      "Optional respect"
+    ],
+    "correctAnswer": "Bahut buland",
+    "explanation": "Islam mein maa ka maqam bohat high hai."
+  },
+  {
+    "level": 14,
+    "question": "Hazrat Aisha (RA) ki umr kitni thi nikah ke waqt (riwayat ke mutabiq)?",
+    "options": ["6", "9", "12", "15"],
+    "correctAnswer": "9",
+    "explanation": "Riwayat ke mutabiq Hazrat Aisha (RA) 9 saal ki thin."
+  }
+]

@@ -9,6 +9,7 @@ import getmeRoutes from './routes/getmeRoutes.js';
 import duaRoutes from './routes/duaRoutes.js'
 import pictureRoutes from './routes/pictureRoutes.js'
 import aalimRoutes from './routes/aalimRoutes.js'
+import getQuiz from './routes/getQuiz.js'
 import storiesRoutes from './routes/storiesRoutes.js'
 import notificationRoutes from "./routes/notificationRoutes.js";
 
@@ -45,6 +46,7 @@ app.use('/api/getdua', duaRoutes);
 app.use('/api/user',pictureRoutes);
 app.use('/api/aalim',aalimRoutes);
 app.use('/api/stories',storiesRoutes);
+app.use('/get-quiz',getQuiz);
 app.use("/api/notifications", notificationRoutes);
 app.get("/", (req, res) => {
   res.json({
