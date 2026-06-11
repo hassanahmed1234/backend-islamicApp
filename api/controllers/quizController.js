@@ -2,20 +2,20 @@ import Question from "../models/Quiz.js";
 
 
 export const getQuiz = async (req, res) => {
-  try {
+    try {
         // Frontend se level query parameter get karein (?level=2)
-        const { level } = req.query;
+        const { level } = req.params;
 
         if (!level) {
-            return res.status(400).json({ 
-                success: false, 
-                message: "Level parameter missing hai." 
+            return res.status(400).json({
+                success: false,
+                message: "Level parameter missing hai."
             });
         }
 
         // MongoDB Query: Sirf requested level ke questions fetch honge
         const filteredQuestions = await Question.find({ level: parseInt(level) })
-                                                .select('-__v'); // Faltu mongoose fields hide krne k liye
+            .select('-__v'); 
 
         res.status(200).json({
             success: true,
@@ -25,10 +25,10 @@ export const getQuiz = async (req, res) => {
         });
 
     } catch (error) {
-        res.status(500).json({ 
-            success: false, 
-            message: "Server par koi masla hai.", 
-            error: error.message 
+        res.status(500).json({
+            success: false,
+            message: "Server par koi masla hai.",
+            error: error.message
         });
     }
 };
