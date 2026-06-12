@@ -1403,5 +1403,1824 @@
     "options": ["6", "9", "12", "15"],
     "correctAnswer": "9",
     "explanation": "Riwayat ke mutabiq Hazrat Aisha (RA) 9 saal ki thin."
+  },
+  {
+    "level": 15,
+    "question": "Quran Majeed mein total kitni Manzilein hain?",
+    "options": ["5", "7", "9", "11"],
+    "correctAnswer": "7",
+    "explanation": "Tilawat ki sahulat ke liye Quran Majeed ko 7 manzilon mein taqseem kiya gaya hai taake 1 hafte mein khatam kiya ja sake."
+  },
+  {
+    "level": 15,
+    "question": "Quran ki kis Surah ko 'Quran ka Dil' (Heart of Quran) kaha jata hai?",
+    "options": ["Surah Al-Fatiha", "Surah Yaseen", "Surah Al-Mulk", "Surah Al-Ikhlas"],
+    "correctAnswer": "Surah Yaseen",
+    "explanation": "Hadees ke mutabiq Surah Yaseen Quran Majeed ka dil hai."
+  },
+  {
+    "level": 15,
+    "question": "Tafseer ki sabsay pehli aur bunyadi qism kaunsi hai?",
+    "options": ["Tafseer bil-Ray (Aqal se)", "Tafseer bil-Ma'thur (Quran/Hadees se)", "Tafseer bil-Ishara", "Modern Tafseer"],
+    "correctAnswer": "Tafseer bil-Ma'thur (Quran/Hadees se)",
+    "explanation": "Quran ki tafseer khud Quran ki doosri ayat ya Hadees e Nabwi ﷺ se karna sabsay afzal aur bunyadi tareeqa hai."
+  },
+  {
+    "level": 15,
+    "question": "Quran Majeed ki sabsay lambi Ayat kis Surah mein hai?",
+    "options": ["Surah Al-Baqarah", "Surah Ali 'Imran", "Surah Al-Ma'idah", "Surah An-Nisa"],
+    "correctAnswer": "Surah Al-Baqarah",
+    "explanation": "Surah Al-Baqarah ki Ayat number 282 (Ayat al-Mudayanah) Quran ki sabsay lambi ayat hai jo len-den ke baare mein hai."
+  },
+  {
+    "level": 15,
+    "question": "Kis Surah ko 'Uroos al-Quran' (Quran ki Dulhan) kaha jata hai?",
+    "options": ["Surah Al-Waqiah", "Surah Al-Rahman", "Surah Al-Sajdah", "Surah Al-Kahf"],
+    "correctAnswer": "Surah Al-Rahman",
+    "explanation": "Surah Al-Rahman ko uski khubsoorat rawani aur usloob ki wajah se Uroos al-Quran kaha jata hai."
+  },
+  {
+    "level": 15,
+    "question": "Quran Majeed mein 'Zun-Noon' (Machli wale) kis Nabi ko kaha gaya hai?",
+    "options": ["Hazrat Yusuf (AS)", "Hazrat Yunus (AS)", "Hazrat Musa (AS)", "Hazrat Isa (AS)"],
+    "correctAnswer": "Hazrat Yunus (AS)",
+    "explanation": "Hazrat Yunus (AS) ko machli ke pet mein rehne ki wajah se Zun-Noon ya Sahibil-Hoot kaha jata hai."
+  },
+  {
+    "level": 15,
+    "question": "Hazrat Abu Bakr (RA) ke daur mein Quran ko jama karne ki zimmedari kis Sahabi ko di gayi?",
+    "options": ["Hazrat Zaid bin Thabit (RA)", "Hazrat Ubayy bin Ka'b (RA)", "Hazrat Ali (RA)", "Hazrat Abdullah bin Masood (RA)"],
+    "correctAnswer": "Hazrat Zaid bin Thabit (RA)",
+    "explanation": "Hazrat Zaid bin Thabit (RA) katib-e-wahi the, unhon ne hi sabsay pehle Quran ko ek jild (Mushaf) mein jama kiya."
+  },
+  {
+    "level": 15,
+    "question": "Quran Majeed mein total kitne Sajda-e-Tilawat hain?",
+    "options": ["12", "14", "15", "16"],
+    "correctAnswer": "14",
+    "explanation": "Aksar ilm-e-tafseer aur fiqh ke mutabiq Quran Majeed mein total 14 tilawat ke sajde hain."
+  },
+  {
+    "level": 15,
+    "question": "Quran ki kis Surah ke shuru mein Bismillah nahi hai?",
+    "options": ["Surah Al-Anfal", "Surah At-Tawbah", "Surah Yunus", "Surah Al-Namal"],
+    "correctAnswer": "Surah At-Tawbah",
+    "explanation": "Surah At-Tawbah ke shuru mein Bismillah nahi likhi jati kyunki yeh Surah Al-Anfal ka tasalsul hai ya isme azab ka zikr hai."
+  },
+  {
+    "level": 15,
+    "question": "Kis Sahabi ka naam Quran Majeed mein wazeh taur par aaya hai?",
+    "options": ["Hazrat Abu Bakr (RA)", "Hazrat Zaid bin Harithah (RA)", "Hazrat Umar (RA)", "Hazrat Bilal (RA)"],
+    "correctAnswer": "Hazrat Zaid bin Harithah (RA)",
+    "explanation": "Surah Al-Ahzab (Ayat 37) mein Hazrat Zaid (RA) ka naam wazeh taur par zikr kiya gaya hai."
+  },
+  {
+    "level": 16,
+    "question": "Hadees ke sabsay authentic (mustanad) 6 kitabon ke majmuay ko kya kehte hain?",
+    "options": ["Sihah-e-Sitta", "Kutub-e-Arbah", "Musnad", "Sunan"],
+    "correctAnswer": "Sihah-e-Sitta",
+    "explanation": "Hadith ki 6 sabsay authentic kitabon ko 'Sihah-e-Sitta' kaha jata hai jisme Bukhari aur Muslim sar-e-fihrist hain."
+  },
+  {
+    "level": 16,
+    "question": "Sihah-e-Sitta mein sabsay pehli aur sabsay afzal kitab kaunsi mani jati hai?",
+    "options": ["Sahih Muslim", "Sahih Al-Bukhari", "Sunan Abi Dawud", "Sunan At-Tirmidhi"],
+    "correctAnswer": "Sahih Al-Bukhari",
+    "explanation": "Imam Bukhari ki Sahih Al-Bukhari ko Quran ke baad sabsay sacchi kitab mana jata hai."
+  },
+  {
+    "level": 16,
+    "question": "Hadees ke do bunyadi hisse hote hain, ek hai 'Matn' aur doosra kya hota hai?",
+    "options": ["Rawi", "Sanad", "Fiqh", "Usool"],
+    "correctAnswer": "Sanad",
+    "explanation": "Sanad (Chain of Narrators) raoriyon ke silsile ko kehte hain aur Matn (Text) Nabi ﷺ ke alfaaz ko kehte hain."
+  },
+  {
+    "level": 16,
+    "question": "Sabsay zyada Ahadees riwayat karne wale Sahabi kaun hain?",
+    "options": ["Hazrat Umar (RA)", "Hazrat Abu Hurairah (RA)", "Hazrat Abdullah bin Umar (RA)", "Hazrat Anas bin Malik (RA)"],
+    "correctAnswer": "Hazrat Abu Hurairah (RA)",
+    "explanation": "Hazrat Abu Hurairah (RA) ne sabsay zyada yani 5,374 Ahadees riwayat ki hain."
+  },
+  {
+    "level": 16,
+    "question": "Aisi Hadees jisme raoriyon ka silsila kahin se toota na ho aur bilkul muttasil ho, kya kehlati hai?",
+    "options": ["Hadees Mursal", "Hadees Mutawatir", "Hadees Musnad / Sahih", "Hadees Dhaeef"],
+    "correctAnswer": "Hadees Musnad / Sahih",
+    "explanation": "Muttasil sanad wali Hadees jisme koi rawi missing na ho, use sahih ya musnad kehte hain."
+  },
+  {
+    "level": 16,
+    "question": "Hadees-e-Qudsi se kya muraad hai?",
+    "options": ["Jo Sahabi ka qaul ho", "Jis ka matn Allah ka ho aur alfaaz Nabi ﷺ ke hon", "Jo sirf jannat ke baare mein ho", "Jo Imam Bukhari ne likhi ho"],
+    "correctAnswer": "Jis ka matn Allah ka ho aur alfaaz Nabi ﷺ ke hon",
+    "explanation": "Hadees-e-Qudsi mein baat Allah ki taraf se ilham hoti hai lekin use bayaan Nabi ﷺ apne alfaaz mein karte hain."
+  },
+  {
+    "level": 16,
+    "question": "Imam Malik ki mashhoor Hadees ki kitab ka naam kya hai?",
+    "options": ["Al-Muwatta", "Musnad Ahmad", "Sunan Ibn Majah", "Sunan Al-Nasa'i"],
+    "correctAnswer": "Al-Muwatta",
+    "explanation": "Muwatta Imam Malik Hadees ki sabsay pehli bashaeda jama ki gayi kitabon mein se ek hai."
+  },
+  {
+    "level": 16,
+    "question": "Aisi Hadees jise har daur mein itne logon ne riwayat kiya ho ke unka jhoot par jama hona na-mumkin ho, kya kehlati hai?",
+    "options": ["Hadees-e-Ahad", "Hadees-e-Mutawatir", "Hadees-e-Gharib", "Hadees-e-Aziz"],
+    "correctAnswer": "Hadees-e-Mutawatir",
+    "explanation": "Hadees-e-Mutawatir par poori ummat ka ijma hota hai kyunki uske raoriyon ki taudad har zamaane mein bohot zyada hoti hai."
+  },
+  {
+    "level": 16,
+    "question": "Kutub-e-Arbah (4 mustanad kitabein) kis fiqhi/Islami maktab-e-fikr mein rayej hain?",
+    "options": ["Fiqh Hanafi", "Fiqh Jafria (Shia)", "Fiqh Shafi'i", "Fiqh Hanbali"],
+    "correctAnswer": "Fiqh Jafria (Shia)",
+    "explanation": "Fiqh Jafria mein Hadees ke 4 bade majmuon ko Kutub-e-Arbah kaha jata hai, jaise Al-Kafi."
+  },
+  {
+    "level": 16,
+    "question": "Sahih Al-Bukhari aur Sahih Muslim mein jo Ahadees common hon, unhe kya kaha jata hai?",
+    "options": ["Muttafaqun Alaih", "Marfoo", "Mauquf", "Maqbool"],
+    "correctAnswer": "Muttafaqun Alaih",
+    "explanation": "Muttafaqun Alaih ka matlab hai 'Agreed Upon', yani aisi Hadees jis par Imam Bukhari aur Imam Muslim dono ne ittefaq kiya ho."
+  },
+  {
+    "level": 17,
+    "question": "Islam ka sabsay pehla Qibla kaunsa shehar tha?",
+    "options": ["Makkah", "Jerusalem (Al-Quds)", "Madinah", "Kufah"],
+    "correctAnswer": "Jerusalem (Al-Quds)",
+    "explanation": "Masjid al-Aqsa jo ke Al-Quds (Jerusalem) mein hai, Musalmanon ka sabsay pehla Qibla tha."
+  },
+  {
+    "level": 17,
+    "question": "Masjid-e-Quba kis shehar mein waqe hai?",
+    "options": ["Makkah", "Madinah", "Taif", "Jeddah"],
+    "correctAnswer": "Madinah",
+    "explanation": "Masjid-e-Quba Islam ki sabsay pehli masjid hai jo Madinah Munawwarah ke qareeb waqe hai."
+  },
+  {
+    "level": 17,
+    "question": "Ghar-e-Hira aur Ghar-e-Thawr kis shehar ke pahadon mein hain?",
+    "options": ["Madinah", "Makkah", "Taif", "Riyadh"],
+    "correctAnswer": "Makkah",
+    "explanation": "Dono muqaddas gharein Makkah Mukarramah ke pahadon (Jabal-an-Noor aur Jabal-e-Thawr) mein hain."
+  },
+  {
+    "level": 17,
+    "question": "Ghazwa-e-Badr ka maidan Madinah se takreeban kitne fasle par hai?",
+    "options": ["20 km", "150 km", "400 km", "50 km"],
+    "correctAnswer": "150 km",
+    "explanation": "Badr ka maidan Madinah Munawwarah se takreeban 150 kilometer South-West mein waqe hai."
+  },
+  {
+    "level": 17,
+    "question": "Maidan-e-Arafat jahan Hajj ka sabsay bada rukn hota hai, kis shehar mein hai?",
+    "options": ["Makkah", "Madinah", "Mina", "Taif"],
+    "correctAnswer": "Makkah",
+    "explanation": "Maidan-e-Arafat Makkah Mukarramah ke hudood ke qareeb waqe hai jahan 9 Dhul-Hijjah ko haji jama hote hain."
+  },
+  {
+    "level": 17,
+    "question": "Islam ki tareekh ka pehla Capital (Darul Khilafa) kaunsa shehar bana?",
+    "options": ["Makkah", "Madinah", "Damascus", "Baghdad"],
+    "correctAnswer": "Madinah",
+    "explanation": "Nabi ﷺ ke hijrat karne ke baad Madinah Munawwarah hi sabsay pehla Islami Capital bana."
+  },
+  {
+    "level": 17,
+    "question": "Kaba ke chaaron konon mein se kis kone par 'Hajar-e-Aswad' nasab hai?",
+    "options": ["Rukn-e-Iraqi", "Rukn-e-Shami", "Rukn-e-Yamani", "Rukn-e-Aswad"],
+    "correctAnswer": "Rukn-e-Aswad",
+    "explanation": "Hajar-e-Aswad Khana Kaba ke Eastern corner par nasab hai jahan se tawaaf shuru hota hai."
+  },
+  {
+    "level": 17,
+    "question": "Hazrat Musa (AS) ko kis muqaddas pahad par Moojza aur Turah ata hui?",
+    "options": ["Jabal-e-Noor", "Koh-e-Toor (Mount Sinai)", "Jabal-e-Uhud", "Jabal-e-Ararat"],
+    "correctAnswer": "Koh-e-Toor (Mount Sinai)",
+    "explanation": "Koh-e-Toor Egypt (Misr) ke Sinai region mein hai jahan Hazrat Musa (AS) Allah se qalam karte the."
+  },
+  {
+    "level": 17,
+    "question": "Nabi ﷺ ne nubuwwat ke daur mein kis mulk ki taraf Sahaba ko pehli Hijrat ka hukm diya?",
+    "options": ["Habsha (Abyssinia)", "Egypt", "Syria", "Yemen"],
+    "correctAnswer": "Habsha (Abyssinia)",
+    "explanation": "Makkah ke zulm se tang aakar Sahaba ne sabsay pehle Habsha (Africa) ki taraf hijrat ki jahan ka raja Najashi tha."
+  },
+  {
+    "level": 17,
+    "question": "Pahad-e-Uhud jahan Ghazwa-e-Uhud lada gaya, kis shehar mein hai?",
+    "options": ["Makkah", "Madinah", "Taif", "Khaibar"],
+    "correctAnswer": "Madinah",
+    "explanation": "Jabal-e-Uhud Madinah Munawwarah ke North mein ek bohot bada aur mashhoor pahad hai."
+  },
+  {
+    "level": 18,
+    "question": "Islamic (Hijri) Calendar ka sabsay pehla mahina kaunsa hota hai?",
+    "options": ["Ramadan", "Muharram", "Safar", "Shawal"],
+    "correctAnswer": "Muharram",
+    "explanation": "Hijri saal ka aghaaz Muharram-ul-Haram se hota hai."
+  },
+  {
+    "level": 18,
+    "question": "Hijri Calendar kis Sahabi ke daur-e-khilafat mein bashaeda shuru kiya gaya?",
+    "options": ["Hazrat Abu Bakr (RA)", "Hazrat Umar (RA)", "Hazrat Uthman (RA)", "Hazrat Ali (RA)"],
+    "correctAnswer": "Hazrat Umar (RA)",
+    "explanation": "Hazrat Umar (RA) ne apne daur-e-khilafat mein Hijrat-e-Madinah ko bunyad bana kar Islami calendar shuru kiya."
+  },
+  {
+    "level": 18,
+    "question": "Hajj ka muqaddas fariza kis Islami mahine mein ada kiya jata hai?",
+    "options": ["Dhul-Qadah", "Dhul-Hijjah", "Rajab", "Ramadan"],
+    "correctAnswer": "Dhul-Hijjah",
+    "explanation": "Dhul-Hijjah Islami calendar ka aakhri mahina hai aur iski 8 se 12 tareekh tak Hajj ada kiya jata hai."
+  },
+  {
+    "level": 18,
+    "question": "Eid-ul-Fitr kis Islami mahine ki pehli tareekh ko manayi jati hai?",
+    "options": ["Ramadan", "Shawal", "Shaban", "Muharram"],
+    "correctAnswer": "Shawal",
+    "explanation": "Ramadan ke roze khatam hone ke baad 1st Shawal ko Eid-ul-Fitr manayi jati hai."
+  },
+  {
+    "level": 18,
+    "question": "Quran Majeed mein wazeh taur par kis wahid mahine ka naam aaya hai?",
+    "options": ["Muharram", "Ramadan", "Rajab", "Rabi-ul-Awwal"],
+    "correctAnswer": "Ramadan",
+    "explanation": "Surah Al-Baqarah mein 'Shahru Ramadan' (Ramadan ka mahina) wazeh taur par zikr kiya gaya hai."
+  },
+  {
+    "level": 18,
+    "question": "Nabi ﷺ ki wiladat-e-ba-sa'adat kis Islami mahine mein hui?",
+    "options": ["Rabi-ul-Awwal", "Rabi-ul-Thani", "Rajab", "Ramadan"],
+    "correctAnswer": "Rabi-ul-Awwal",
+    "explanation": "Nabi e Kareem ﷺ ki wiladat 12 Rabi-ul-Awwal ko shehar Makkah mein hui."
+  },
+  {
+    "level": 18,
+    "question": "Islam mein kitne mahino ko 'Hurmat wale mahine' (Sacred Months) kaha gaya hai?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "4",
+    "explanation": "Quran ke mutabiq 4 mahine (Muharram, Rajab, Dhul-Qadah, Dhul-Hijjah) hurmat wale hain jinme jung haram thi."
+  },
+  {
+    "level": 18,
+    "question": "Shab-e-Barat kis Islami mahine ki 15wi raat ko hoti hai?",
+    "options": ["Rajab", "Shaban", "Ramadan", "Safar"],
+    "correctAnswer": "Shaban",
+    "explanation": "Shaban-ul-Muazzam ki 15wi raat ko Shab-e-Barat kaha jata hai jisme ibadat ka khas ikhtimam kiya jata hai."
+  },
+  {
+    "level": 18,
+    "question": "Hijri Calendar solar (suraj) hota hai ya lunar (chand)?",
+    "options": ["Solar (Suraj ka)", "Lunar (Chand ka)", "Dono ka mix", "Star based"],
+    "correctAnswer": "Lunar (Chand ka)",
+    "explanation": "Islami calendar chand ki mutharrik ruyat par chalta hai, isliye isme saal ke 354 ya 355 din hote hain."
+  },
+  {
+    "level": 18,
+    "question": "Makkah kis mahine mein fatah hua tha?",
+    "options": ["Ramadan", "Shawal", "Muharram", "Dhul-Hijjah"],
+    "correctAnswer": "Ramadan",
+    "explanation": "Fatah-e-Makkah 20 Ramadan 8 Hijri ko nabi ﷺ ki kiyadat mein hua tha."
+  },
+  {
+    "level": 19,
+    "question": "Ghazwa-e-Uhud mein Musalmanon ke kis dastaey ke peechay hatne se ladaey ka rukh badla tha?",
+    "options": ["Teer-andaz (Archers)", "Ghud-sawar (Cavalry)", "Zirha-posh (Infantry)", "Jasoos (Spies)"],
+    "correctAnswer": "Teer-andaz (Archers)",
+    "explanation": "Nabi ﷺ ne 50 teer-andazon ko darray par thairne ka hukm diya tha, lekin fateh ke ghuman mein unke jagah chorne se Khalid bin Waleed ne peechay se hamla kar diya."
+  },
+  {
+    "level": 19,
+    "question": "Ghazwa-e-Khandaq (Ahzab) mein madinah ke gird khandaq khodne ka mashwara kis sahabi ne diya tha?",
+    "options": ["Hazrat Abu Bakr", "Hazrat Salman Farsi", "Hazrat Ali", "Hazrat Bilal Farsi"],
+    "correctAnswer": "Hazrat Salman Farsi",
+    "explanation": "Hazrat Salman Farsi (RA) ne Iran ke military defense ke mutabiq khandaq khodne ki tajaweez pesh ki thi."
+  },
+  {
+    "level": 19,
+    "question": "Kis Ghazwa ko 'Yand-ul-Furqan' (Haq aur baatil ka faisla karne wala din) kaha gaya hai?",
+    "options": ["Ghazwa-e-Badr", "Ghazwa-e-Uhud", "Ghazwa-e-Khaibar", "Ghazwa-e-Hunain"],
+    "correctAnswer": "Ghazwa-e-Badr",
+    "explanation": "Quran Majeed mein Ghazwa-e-Badr ke din ko Yaum-ul-Furqan kaha gaya hai kyunki isne Islam ki taqat ka faisla kiya."
+  },
+  {
+    "level": 19,
+    "question": "Ghazwa-e-Tabook kis mulk/taqat ke khilaf ladne ke liye nikalne ka elaan tha?",
+    "options": ["Sassanid Empire (Persia)", "Byzantine Empire (Romans)", "Quraish", "Banu Qurayza"],
+    "correctAnswer": "Byzantine Empire (Romans)",
+    "explanation": "Ghazwa-e-Tabook Roman Empire (Shahi Caesar) ke mumkina hamle ko rokne ke liye 9 Hijri mein pesh aaya."
+  },
+  {
+    "level": 19,
+    "question": "Khaibar ke mashhoor aur mazboot qila 'Qamus' ko kis Sahabi ne fatah kiya tha?",
+    "options": ["Hazrat Umar", "Hazrat Ali", "Hazrat Khalid bin Waleed", "Hazrat Saad bin Abi Waqas"],
+    "correctAnswer": "Hazrat Ali",
+    "explanation": "Nabi ﷺ ne farmaya tha ke kal mein usko alam (jhanda) doonga jo Allah aur uske Rasool se mohabbat karta hai, aur phir Hazrat Ali ne Qila Qamus fatah kiya."
+  },
+  {
+    "level": 19,
+    "question": "Ghazwa-e-Hunain mein Musalmanon ko shuru mein kis cheez par ghuroor tha jo unki kamzori bani?",
+    "options": ["Zyada Taudad (Numbers)", "Behtar Hathiyar", "Ziyada Maal", "Pahadi Alaqay"],
+    "correctAnswer": "Zyada Taudad (Numbers)",
+    "explanation": "Musalmanon ki taudad 12,000 thi lekin dushman ke achanak teer-andazi ke hamle ne shuru mein unhe parayshan kar diya, jiska zikr Quran mein bhi hai."
+  },
+  {
+    "level": 19,
+    "question": "Nabi e Kareem ﷺ ne apne poore daur-e-nubuwwat mein total kitne Ghazwat (jinme unhone khud shirkat ki) lade?",
+    "options": ["17", "23", "27", "32"],
+    "correctAnswer": "27",
+    "explanation": "Tareekh-e-Islam ke mutabiq total Ghazwat ki taudad 27 hai jabke Saraya (safari muhimmat) isse kahin zyada hain."
+  },
+  {
+    "level": 19,
+    "question": "Battle of Mutah mein sabsay pehle Islami jhanda kis sahabi ke paas tha jo shaheed hue?",
+    "options": ["Hazrat Jaafar Tayyar", "Hazrat Zaid bin Harithah", "Hazrat Abdullah bin Rawahah", "Hazrat Khalid bin Waleed"],
+    "correctAnswer": "Hazrat Zaid bin Harithah",
+    "explanation": "Nabi ﷺ ne tarteeb muqarrar ki thi ke pehle Zaid, phir Jaafar aur phir Abdullah bin Rawahah jhanda sambhalenge."
+  },
+  {
+    "level": 19,
+    "question": "Ghazwa-e-Badr mein Quraish ke lashkar ka sabsay bada sardaar aur sipah-salar kaun tha jo maara gaya?",
+    "options": ["Abu Lahab", "Abu Sufyan", "Abu Jahl", "Utbah bin Rabiah"],
+    "correctAnswer": "Abu Jahl",
+    "explanation": "Abu Jahl (Amr bin Hisham) Badr ki ladaey mein do ansaari bachon ke hathon zakhmi hua aur phir maara gaya."
+  },
+  {
+    "level": 19,
+    "question": "Ghazwa-e-Zat-ur-Riqa ka naam 'Zat-ur-Riqa' (Chithdon wali) kyun rakha gaya?",
+    "options": ["Wahan chithde bikhre the", "Sahaba ne zakhmi pairon par kapde lapaitay the", "Dushman ne phate kapde pehne the", "Wahan ke pahad phate hue the"],
+    "correctAnswer": "Sahaba ne zakhmi pairon par kapde lapaitay the",
+    "explanation": "Safar ki shiddat aur pathrili zameen ki wajah se Sahaba ke jootay phat gaye the aur unhone pairon par kapdon ke chithde (rags) lapaitay the."
+  },
+  {
+    "level": 20,
+    "question": "Hazrat Abu Bakr (RA) ne apne do-sala daur-e-khilafat mein sabsay pehle kis fitne ka khatma kiya?",
+    "options": ["Fitna-e-Irtidad (Murtadeen & Jhoote Nabi)", "Kharjiyat", "Roman Invasion", "Baghdad Rebellions"],
+    "correctAnswer": "Fitna-e-Irtidad (Murtadeen & Jhoote Nabi)",
+    "explanation": "Nabi ﷺ ke parda farmane ke baad Musaylimah Kazzab jaise jhoote nabiyon aur zakat se inkar karne walon ka khatma Hazrat Abu Bakr ne jang-e-yamama ke zariye kiya."
+  },
+  {
+    "level": 20,
+    "question": "Hazrat Umar (RA) ne kis non-Muslim ke hathon jam-e-shahadat nosh kiya?",
+    "options": ["Ibn Muljam", "Abu Lu'lu' Feroz", "Muthanna", "Hormuzan"],
+    "correctAnswer": "Abu Lu'lu' Feroz",
+    "explanation": "Abu Lu'lu' Feroz ek majoosi (fire-worshipper) ghulam tha jisne namaz-e-fajr ke dauran Hazrat Umar par khanjar se hamla kiya."
+  },
+  {
+    "level": 20,
+    "question": "Hazrat Uthman (RA) ko unke ghar mein us waqt shaheed kiya gaya jab wo kis ibadat mein mashghool the?",
+    "options": ["Tilawat-e-Quran", "Sajda-e-Nafal", "Tahajjud", "Dua"],
+    "correctAnswer": "Tilawat-e-Quran",
+    "explanation": "Hazrat Uthman (RA) roze se the aur Quran Majeed ki tilawat kar rahe the jab balwaeyon ne unke ghar par hamla karke unhe shaheed kiya."
+  },
+  {
+    "level": 20,
+    "question": "Hazrat Ali (RA) ne apna Darul Khilafa (Capital) Madinah se badal kar kis shehar ko banaya tha?",
+    "options": ["Damascus", "Kufah", "Basra", "Baghdad"],
+    "correctAnswer": "Kufah",
+    "explanation": "Geopolitical halat aur askari zaroorat ke pesh-e-nazar Hazrat Ali ne Islami saltanat ka capital Kufah (Iraq) muntakhib kiya."
+  },
+  {
+    "level": 20,
+    "question": "Hazrat Umar (RA) ke daur mein fatah hone wale sabsay muqaddas shehar 'Jerusalem' ki chabiyan lene wo khud kyun gaye internal policy ke tehat?",
+    "options": ["Wahan ke Isaiyon ne shart rakhi thi", "Wo sair karna chahte the", "Sahaba ne unhe majboor kiya", "Dushman ka darr tha"],
+    "correctAnswer": "Wahan ke Isaiyon ne shart rakhi thi",
+    "explanation": "Jerusalem (Al-Quds) ke Christian Patriarch Sophronius ne shart rakhi thi ke wo shehar ki chabi sirf us shakhs ko denge jiski sifaat unki muqaddas kitabon mein hain."
+  },
+  {
+    "level": 20,
+    "question": "Hazrat Uthman (RA) ko 'Zun-Noorain' kyun kaha jata hai?",
+    "options": ["Unke paas do talwarein thin", "Nabi ﷺ ki do betiyan unke nikah mein aayin", "Unhone do bar hijrat ki", "Wo do saltanaton ke badshah the"],
+    "correctAnswer": "Nabi ﷺ ki do betiyan unke nikah mein aayin",
+    "explanation": "Hazrat Uthman ke nikah mein pehle Hazrat Ruqayya thin, unki wafat ke baad Nabi ﷺ ne Hazrat Umme Kulthoom ka nikah bhi unse kiya."
+  },
+  {
+    "level": 20,
+    "question": "Battle of Qadisiyyah kis Caliph ke daur mein ladi gayi jisne Persian Empire ko khak mein mila diya?",
+    "options": ["Hazrat Abu Bakr", "Hazrat Umar", "Hazrat Uthman", "Hazrat Ali"],
+    "correctAnswer": "Hazrat Umar",
+    "explanation": "Hazrat Umar ke daur mein Saad bin Abi Waqas ki kiyadat mein Jang-e-Qadisiyyah ladi gayi jisme rustom maara gaya."
+  },
+  {
+    "level": 20,
+    "question": "Hazrat Abu Bakr (RA) ka asal naam kya tha?",
+    "options": ["Abdullah", "Ubaidullah", "Siddique", "Atique"],
+    "correctAnswer": "Abdullah",
+    "explanation": "Hazrat Abu Bakr ka asal naam Abdullah bin Abi Quhafa tha, 'Abu Bakr' unki kuniyyat thi aur 'Siddique' unka laqab."
+  },
+  {
+    "level": 20,
+    "question": "Khulafa-e-Rashideen ka poora daur-e-khilafat takreeban kitne saal par muheet raha?",
+    "options": ["20 saal", "25 saal", "30 saal", "40 saal"],
+    "correctAnswer": "30 saal",
+    "explanation": "Hadees ke mutabiq 'Khilafat-e-Rashidah 30 saal rahegi', jo Hazrat Abu Bakr se shuru hokar Hazrat Ali (aur chand maah Hazrat Hasan) par mukammal hui."
+  },
+  {
+    "level": 20,
+    "question": "Hazrat Ali (RA) par khanjar se fatal hamla kis khariji ne kiya tha?",
+    "options": ["Abdur Rahman ibn Muljam", "Shimr", "Abu Lu'lu'", "Musab bin Zubair"],
+    "correctAnswer": "Abdur Rahman ibn Muljam",
+    "explanation": "Ibn Muljam jo ke ek extremist khariji tha, usne Kufah ki masjid mein namaz ke dauran Hazrat Ali par zehar-alood khanjar se waar kiya."
+  },
+  {
+    "level": 21,
+    "question": "Islami Shariat mein 'Ahkam-e-Sharia' (Legal rulings) ke buniyaadi sources (Maakhaz) kitne hain?",
+    "options": ["2", "4", "6", "8"],
+    "correctAnswer": "4",
+    "explanation": "Char buniyaadi sources hain: Quran, Sunnah, Ijma (Consensus), aur Qiyas (Analogical deduction)."
+  },
+  {
+    "level": 21,
+    "question": "Fiqh mein 'Ijma' se kya muraad hai?",
+    "options": ["Kisi masle par aam logon ka razi hona", "Kisi masle par mujtahideen/ulema ka ittefaq", "Apni zaati raye dena", "Dushman se sulah karna"],
+    "correctAnswer": "Kisi masle par mujtahideen/ulema ka ittefaq",
+    "explanation": "Kisi bhi daur mein kisi naye masle par tamam Islami juraists (Mujtahideen) ka ittefaq-e-raye 'Ijma' kehlata hai."
+  },
+  {
+    "level": 21,
+    "question": "Aisa fail (action) jiska karna zaroori ho aur uske chorne par azab ho, use Fiqh mein kya kehte hain?",
+    "options": ["Fard", "Mustahab", "Mubah", "Makrooh"],
+    "correctAnswer": "Fard",
+    "explanation": "Fard wo hukm-e-shari hai jo daleel-e-qati se sabit ho, jaise Namaz aur Roza. Iska chorna gunah-e-kabeera hai."
+  },
+  {
+    "level": 21,
+    "question": "Fiqh Hanafi ke baani 'Imam Abu Hanifa' ka asal naam kya tha?",
+    "options": ["Nu'man bin Thabit", "Malik bin Anas", "Muhammad bin Idris", "Ahmad bin Hanbal"],
+    "correctAnswer": "Nu'man bin Thabit",
+    "explanation": "Imam-e-Azam Abu Hanifa ka asal naam Nu'man bin Thabit tha, unka taaluq Kufah (Iraq) se tha."
+  },
+  {
+    "level": 21,
+    "question": "Aisi cheez jo buraey ya haram tak pohanchati ho, use rokna Fiqh mein kya kehlata hai?",
+    "options": ["Sadd al-Dharai", "Istihsan", "Urf", "Maslahah Mursalah"],
+    "correctAnswer": "Sadd al-Dharai",
+    "explanation": "Sadd al-Dharai ka matlab hai 'Blocking the means', yani aisi mubah cheezon par pabandi lagana jo haram ka sabab ban sakti hain."
+  },
+  {
+    "level": 21,
+    "question": "Charon mashhoor Sunni Imamon mein se sabsay aakhri Imam kaun hain chronologically?",
+    "options": ["Imam Malik", "Imam Shafi'i", "Imam Ahmad bin Hanbal", "Imam Abu Hanifa"],
+    "correctAnswer": "Imam Ahmad bin Hanbal",
+    "explanation": "Tarteeb yeh hai: Abu Hanifa, Malik, Shafi'i, aur aakhri mein Imam Ahmad bin Hanbal (Paidaish 164 Hijri)."
+  },
+  {
+    "level": 21,
+    "question": "Fiqh mein 'Mubah' (Halal/Allowable) action ka kya rule hai?",
+    "options": ["Karne par sawab, na karne par azab", "Karne par gunah", "Karne ya na karne dono par koi gunah ya sawab nahi", "Karna haram hai"],
+    "correctAnswer": "Karne ya na karne dono par koi gunah ya sawab nahi",
+    "explanation": "Mubah wo neutral fail hai jisme shariat ne ijazat di ho, jaise chalna, sona, ya koi pasandida halal khana khana."
+  },
+  {
+    "level": 21,
+    "question": "Imam Shafi'i ki mashhoor kitab 'Al-Risala' kis topic par sabsay pehli master-piece mani jati hai?",
+    "options": ["Usool al-Fiqh (Principles of Jurisprudence)", "Ilm al-Hadees", "Tafseer", "Seerah"],
+    "correctAnswer": "Usool al-Fiqh (Principles of Jurisprudence)",
+    "explanation": "Al-Risala tareekh ki sabsay pehli kitab hai jo Usool-e-Fiqh ke rules ko codify karne ke liye likhi gayi."
+  },
+  {
+    "level": 21,
+    "question": "Shariat mein 'Hadd' (Plural: Hudood) se kya muraad hai?",
+    "options": ["Wo sazaein jo judge apni raye se teh kare", "Wo sazaein jo Quran o Sunnah mein fix hain", "Khas qisam ki dua", "Safar ki limit"],
+    "correctAnswer": "Wo sazaein jo Quran o Sunnah mein fix hain",
+    "explanation": "Hudood wo sazaein hain jo Allah ki taraf se muqarrar hain (jaise chori par haath kaatna), isme koi tabdeeli nahi ho sakti."
+  },
+  {
+    "level": 21,
+    "question": "Agar kisi naye masle par clear nass (text) na ho, toh purane masle se analogy nikalna kya kehlati hai?",
+    "options": ["Qiyas", "Ijtihad", "Taqlid", "Fatwa"],
+    "correctAnswer": "Qiyas",
+    "explanation": "Qiyas (Deduction) ka matlab hai ke illat (reason) common hone ki wajah se naye masle par purane jaisa hi hukm lagana."
+  },
+  {
+    "level": 22,
+    "question": "Quran Majeed mein total kitne Prophets (Anbiya) ka zikr unke naam ke sath aaya hai?",
+    "options": ["25", "124,000", "313", "99"],
+    "correctAnswer": "25",
+    "explanation": "Waise toh Anbiya bohot hain, lekin Quran mein explicitly sirf 25 Anbiya e Karam ka zikr naam ke sath aaya hai."
+  },
+  {
+    "level": 22,
+    "question": "Hazrat Ibrahim (AS) ko kis badshah ne aag mein phekwaya tha?",
+    "options": ["Firaun", "Namrood", "Shaddad", "Abu Jahl"],
+    "correctAnswer": "Namrood",
+    "explanation": "Babylon (Iraq) ke sarkaash badshah Namrood ne Hazrat Ibrahim (AS) ko haq bayaan karne par aag mein daala tha."
+  },
+  {
+    "level": 22,
+    "question": "Kis Nabi ko 'Abul Anbiya' (Prophets ke Baap) kaha jata hai kyunki unki nasal se aage bohot Nabi aaye?",
+    "options": ["Hazrat Adam", "Hazrat Nooh", "Hazrat Ibrahim", "Hazrat Ishaq"],
+    "correctAnswer": "Hazrat Ibrahim",
+    "explanation": "Hazrat Ibrahim (AS) ke dono beton (Ismail aur Ishaq) ki nasal se aage chalkar saare mashhoor Anbiya paida hue."
+  },
+  {
+    "level": 22,
+    "question": "Hazrat Yusuf (AS) ko unke bhaiyon ne kis kuay (well) mein phek diya tha jo kis ilaqay mein tha?",
+    "options": ["Egypt", "Kanaan (Palestine)", "Makkah", "Madyan"],
+    "correctAnswer": "Kanaan (Palestine)",
+    "explanation": "Hazrat Yusuf ka khandaan Kanaan (Palestine) mein rehta tha jahan unke bhaiyon ne hasad mein unhe kuay mein dala."
+  },
+  {
+    "level": 22,
+    "question": "Hazrat Musa (AS) ke us asa (staff/stick) ka kya naam tha jo moojza ban kar azdaha ban jata tha?",
+    "options": ["Al-Asa", "Zulfiqar", "Taboot-e-Sakina", "Asa-e-Musa"],
+    "correctAnswer": "Asa-e-Musa",
+    "explanation": "Hazrat Musa ka asa unka mashhoor moojza tha jo Firaun ke jadugaron ke samne sabsay bada azdaha ban gaya tha."
+  },
+  {
+    "level": 22,
+    "question": "Hazrat Nooh (AS) ki kashti (Ark) toofan ke baad kis pahad par aakar ruki thi?",
+    "options": ["Jabal-e-Noor", "Mount Judi", "Mount Sinai", "Mount Ararat"],
+    "correctAnswer": "Mount Judi",
+    "explanation": "Surah Hud (Ayat 44) ke mutabiq Hazrat Nooh ki kashti 'Judi' naam ke pahad par aakar thair gayi thi."
+  },
+  {
+    "level": 22,
+    "question": "Kis Nabi ko Allah ne parindon ki boliyan sikhayin thin aur hawaon par hukumat di thi?",
+    "options": ["Hazrat Dawood", "Hazrat Sulaiman", "Hazrat Yusuf", "Hazrat Khidr"],
+    "correctAnswer": "Hazrat Sulaiman",
+    "explanation": "Hazrat Sulaiman (AS) Hazrat Dawood ke bete the, unhe jinnon, hawaon aur tamam janwaron par hukumat ata ki gayi thi."
+  },
+  {
+    "level": 22,
+    "question": "Hazrat Ayub (AS) kis buniyaadi sifat ke liye poori insaniyat mein misaal diye jate hain?",
+    "options": ["Sabr (Patience)", "Khubsoorati", "Taqat", "Daulat"],
+    "correctAnswer": "Sabr (Patience)",
+    "explanation": "Hazrat Ayub (AS) ko sakht bimaroon aur azmaishon se guzara gaya lekin unka 'Sabr-e-Ayub' tareekh mein misaal ban gaya."
+  },
+  {
+    "level": 22,
+    "question": "Hazrat Yahya (AS) aur Hazrat Isa (AS) aapas mein rishte mein kya lagte the?",
+    "options": ["Bhai (Brothers)", "Khala-zaad bhai (Cousins)", "Chacha-Bhatija", "Baap-Beta"],
+    "correctAnswer": "Khala-zaad bhai (Cousins)",
+    "explanation": "Hazrat Yahya ki maa aur Hazrat Isa ki maa (Hazrat Maryam) aapas mein behnein thin, isliye wo cousins the."
+  },
+  {
+    "level": 22,
+    "question": "Hazrat Yunus (AS) takreeban kitne din machli ke pait (belly) mein mahfooz rahe the?",
+    "options": ["3 din", "40 din (Aksar riwayat)", "7 din", "12 din"],
+    "correctAnswer": "40 din (Aksar riwayat)",
+    "explanation": "Mufassireen ke mutabiq Hazrat Yunus machli ke pait mein rahe aur unhone 'La ilaha illa anta subhanaka...' ki dua parhi."
+  },
+  {
+    "level": 23,
+    "question": "Nabi e Kareem ﷺ ki sabsay pehli bivi kaun thin jinhone sabsay pehle Islam qubool kiya?",
+    "options": ["Hazrat Aisha", "Hazrat Khadija-tul-Kubra", "Hazrat Hafsa", "Hazrat Sawda"],
+    "correctAnswer": "Hazrat Khadija-tul-Kubra",
+    "explanation": "Hazrat Khadija (RA) ne wahi ke aghaaz par hi Nabi ﷺ ka sath diya aur aurton mein sabsay pehle iman layin."
+  },
+  {
+    "level": 23,
+    "question": "Azwaj-e-Mutaharat mein se 'Hazrat Hafsa (RA)' kis mashhoor Sahabi aur Caliph ki beti thin?",
+    "options": ["Hazrat Abu Bakr", "Hazrat Umar bin Khattab", "Hazrat Uthman", "Hazrat Ali"],
+    "correctAnswer": "Hazrat Umar bin Khattab",
+    "explanation": "Hazrat Hafsa (RA) Hazrat Umar ki beti thin, wo ek parhi likhi khatoon thin aur unke paas Quran ka asal mushaf mahfooz rakha gaya tha."
+  },
+  {
+    "level": 23,
+    "question": "Nabi ﷺ ke saare bache (sawaye Hazrat Ibrahim ke) kis Ummul Moomineen ke pait se paida hue?",
+    "options": ["Hazrat Aisha", "Hazrat Khadija", "Hazrat Zainab", "Hazrat Umme Salama"],
+    "correctAnswer": "Hazrat Khadija",
+    "explanation": "Hazrat Khadija se Nabi ﷺ ki 4 betiyan aur 2 bete paida hue. Sirf Ibrahim Hazrat Maria Qibtia se paida hue the."
+  },
+  {
+    "level": 23,
+    "question": "Kis Ummul Moomineen ko unki sakhawat aur ghareebon ki madad ki wajah se 'Umm-ul-Masakeen' (Mothers of Poor) kaha jata tha?",
+    "options": ["Hazrat Zainab bin Khuzaimah", "Hazrat Safiyyah", "Hazrat Juwayriyah", "Hazrat Maymoonah"],
+    "correctAnswer": "Hazrat Zainab bin Khuzaimah",
+    "explanation": "Hazrat Zainab bint Khuzaimah ka yeh laqab zamana-e-jahiliyat se hi unki besh-baha sakhawat ki wajah se mashhoor tha."
+  },
+  {
+    "level": 23,
+    "question": "Hazrat Safiyyah (RA) ka taaluq Madinah ke kis mashhoor Jewish kabile se tha nikah se pehle?",
+    "options": ["Banu Qaynuqa", "Banu Nadir", "Banu Qurayza", "Khaibar Tribes"],
+    "correctAnswer": "Banu Nadir",
+    "explanation": "Hazrat Safiyyah Banu Nadir ke sardar Huyayy bin Akhtab ki beti thin, jo Ghazwa-e-Khaibar ke baad azad ki gayin aur unse nikah hua."
+  },
+  {
+    "level": 23,
+    "question": "Nabi e Kareem ﷺ ki wafat ke baad sabsay aakhri mein wafat pane wali Ummul Moomineen kaun thin?",
+    "options": ["Hazrat Aisha", "Hazrat Umme Salama", "Hazrat Maymoonah", "Hazrat Sawda"],
+    "correctAnswer": "Hazrat Umme Salama",
+    "explanation": "Hazrat Umme Salama (RA) takreeban 61 Hijri (Karbala ke baad) wafat paayin, jo Azwaj mein sabsay aakhri wafat thi."
+  },
+  {
+    "level": 23,
+    "question": "Kis Ummul Moomineen ke baare mein aata hai ke unki wajah se unka poora kabila 'Banu Mustaliq' azad aur Musalman ho gaya?",
+    "options": ["Hazrat Juwayriyah", "Hazrat Sawda", "Hazrat Raihana", "Hazrat Zainab bint Jahsh"],
+    "correctAnswer": "Hazrat Juwayriyah",
+    "explanation": "Hazrat Juwayriyah bint al-Harith se jab Nabi ﷺ ne nikah kiya, toh Sahaba ne kaha ke ab yeh Nabi ke sasurali hain, aur saare qaidee azad kar diye."
+  },
+  {
+    "level": 23,
+    "question": "Hazrat Aisha (RA) par jab munafiqon ne jhooti tohmat lagayi (Waqia-e-Ifk), toh unki pakizgi mein kis Surah mein Ayatein nazil huin?",
+    "options": ["Surah Al-Noor", "Surah Al-Ahzab", "Surah An-Nisa", "Surah Al-Baqarah"],
+    "correctAnswer": "Surah Al-Noor",
+    "explanation": "Surah Al-Noor ki shuruat ki das se zyada ayatein Hazrat Aisha ki buraat aur unki pakizgi par gawah ban kar nazil huin."
+  },
+  {
+    "level": 23,
+    "question": "Hazrat Umme Habeeba (RA) jo Nabi ﷺ ki bivi thin, Abu Sufyan ki beti thin. Unka asal naam kya tha?",
+    "options": ["Ramlah", "Hind", "Fatima", "Asma"],
+    "correctAnswer": "Ramlah",
+    "explanation": "Hazrat Umme Habeeba ka asal naam Ramlah bint Abi Sufyan tha, unhone Habsha ki taraf hijrat bhi ki thi."
+  },
+  {
+    "level": 23,
+    "question": "Nabi e Kareem ﷺ ne kis Ummul Moomineen ka nikah Allah ke hukm par unke zaad beton (Hazrat Zaid) ki talaq ke baad kiya?",
+    "options": ["Hazrat Zainab bint Jahsh", "Hazrat Sawda", "Hazrat Hafsa", "Hazrat Maymoonah"],
+    "correctAnswer": "Hazrat Zainab bint Jahsh",
+    "explanation": "Surah Al-Ahzab mein iska zikr hai, jahan sadiyon purani rasm (le-palak bete ki bivi se nikah na karna) ko khatam karne ke liye yeh nikah hua."
+  },
+  {
+    "level": 24,
+    "question": "Wahi (Revelation) lane wale sabsay afzal Farishtay (Angel) ka naam kya hai?",
+    "options": ["Hazrat Mikail", "Hazrat Jibrail", "Hazrat Israfil", "Hazrat Izrail"],
+    "correctAnswer": "Hazrat Jibrail",
+    "explanation": "Hazrat Jibrail (AS) tamam farishton ke sardar hain aur Anbiya tak Allah ka paigham/wahi pohanchane par muqarrar the."
+  },
+  {
+    "level": 24,
+    "question": "Barish barasane aur makhluq tak Rizq (Sustenance) pohanchane par kaunse Farishtay muqarrar hain?",
+    "options": ["Hazrat Izrail", "Hazrat Mikail", "Hazrat Israfil", "Hazrat Munkar"],
+    "correctAnswer": "Hazrat Mikail",
+    "explanation": "Hazrat Mikail (AS) ki zimmedari kainaat mein mausamon ka nizaam, barish aur makhluqat ke rizq ka intezam karna hai."
+  },
+  {
+    "level": 24,
+    "question": "Qayamat ke din 'Soor' (Trumpet) phoonkne wale Farishtay ka naam kya hai?",
+    "options": ["Hazrat Israfil", "Hazrat Jibrail", "Hazrat Nakir", "Hazrat Malik"],
+    "correctAnswer": "Hazrat Israfil",
+    "explanation": "Hazrat Israfil (AS) Soor haath mein liye Allah ke hukm ka intezar kar rahe hain, jiske phoonkne se qayamat aayegi."
+  },
+  {
+    "level": 24,
+    "question": "Maut ke Farishtay (Angel of Death) ka asli naam Islami terminology mein kya hai?",
+    "options": ["Izrail", "Malak al-Maut", "Munkar", "Ridwan"],
+    "correctAnswer": "Malak al-Maut",
+    "explanation": "Quran mein unhe 'Malak al-Maut' (Maut ka farishta) kaha gaya hai, aam zubaan mein log Izrail kehte hain."
+  },
+  {
+    "level": 24,
+    "question": "Insaan ke dono kandhon (shoulders) par naikiyan aur buraiyan likhne wale Farishton ko kya kaha jata hai?",
+    "options": ["Munkar Nakir", "Kiraman Katibeen", "Harut Marut", "Zabaniya"],
+    "correctAnswer": "Kiraman Katibeen",
+    "explanation": "Kiraman Katibeen ka matlab hai 'Honorable Scribes' (Izzat wale likhne wale), jo insaan ke har fail ko record karte hain."
+  },
+  {
+    "level": 24,
+    "question": "Qabar (Grave) mein aakar sabsay pehle 3 buniyaadi sawal poochne wale Farishtey kaun hain?",
+    "options": ["Munkar aur Nakir", "Jibrail aur Mikail", "Malik aur Ridwan", "Rafeeq aur Raqeeb"],
+    "correctAnswer": "Munkar aur Nakir",
+    "explanation": "Munkar aur Nakir do farishtay hain jo qabar mein murda shakhs se uska Rab, Deen aur Nabi ﷺ ke baare mein poochte hain."
+  },
+  {
+    "level": 24,
+    "question": "Jannat (Paradise) ke darogha (Chief Keeper/Gatekeeper) Farishtay ka naam kya hai?",
+    "options": ["Malik", "Ridwan", "Israfil", "Mikail"],
+    "correctAnswer": "Ridwan",
+    "explanation": "Jannat ke sabsay bade farishtay aur gatekeeper ka naam Hazrat Ridwan (AS) hai."
+  },
+  {
+    "level": 24,
+    "question": "Jahannam (Hellfire) ke sabsay bade darogha aur incharge Farishtay ka naam kya hai?",
+    "options": ["Malik", "Ridwan", "Zabaniya", "Nakir"],
+    "correctAnswer": "Malik",
+    "explanation": "Surah Zukhruf mein zikr hai ke jahannami pukaarenge 'Yaa Malik!' (Ay Malik! Apne Rab se kaho hamara kissa khatam kare)."
+  },
+  {
+    "level": 24,
+    "question": "Allah ka sabsay bada Arsh (Throne) uthane wale Farishton ko kya kaha jata hai?",
+    "options": ["Hamalat al-Arsh", "Mu'aqqibat", "Malaika", "Illiyyin"],
+    "correctAnswer": "Hamalat al-Arsh",
+    "explanation": "Quran ke mutabiq is daur mein 4 aur Qayamat ke din 8 bade farishtay Allah ka Arsh uthaye hue honge."
+  },
+  {
+    "level": 24,
+    "question": "Farishtay kis cheez se paida kiye gaye hain?",
+    "options": ["Mitti (Clay)", "Aag (Smokeless Fire)", "Noor (Light)", "Hawa (Air)"],
+    "correctAnswer": "Noor (Light)",
+    "explanation": "Hadees e Nabwi ke mutabiq Farishtay Noor se paida kiye gaye hain, Jinn Aag se aur Adam Mitti se."
+  },
+  {
+    "level": 25,
+    "question": "Ashara Mubasharah se kya muraad hai?",
+    "options": ["10 jhoote nabi", "10 Sahaba jinhe zindagi mein hi jannat ki basharat mili", "10 zaroori surahs", "10 badri sahaba"],
+    "correctAnswer": "10 Sahaba jinhe zindagi mein hi jannat ki basharat mili",
+    "explanation": "Nabi e Kareem ﷺ ne ek hi majlis mein 10 muqaddas Sahaba ka naam lekar unhe jannat ki pakki gawaahi di thi."
+  },
+  {
+    "level": 25,
+    "question": "Ashara Mubasharah mein Khulafa-e-Rashideen ke ilawa kaun shamil hain?",
+    "options": ["Hazrat Bilal", "Hazrat Talha bin Ubaidullah", "Hazrat Khalid bin Waleed", "Hazrat Hamza"],
+    "correctAnswer": "Hazrat Talha bin Ubaidullah",
+    "explanation": "Hazrat Talha aur Hazrat Zubair dono Ashara Mubasharah ke sabsay unche rukun hain."
+  },
+  {
+    "level": 25,
+    "question": "Nabi ﷺ ne kis Ashara Mubasharah sahabi ko 'Ameen-ul-Ummah' (Ummat ka sabsay bhorosay mand shakhs) ka laqab diya?",
+    "options": ["Hazrat Abu Ubaidah bin Al-Jarrah", "Hazrat Saad bin Abi Waqas", "Hazrat Abdur Rahman bin Auf", "Hazrat Saeed bin Zaid"],
+    "correctAnswer": "Hazrat Abu Ubaidah bin Al-Jarrah",
+    "explanation": "Hadees mein aata hai: 'Har ummat ka ek ameen hota hai, aur meri ummat ke ameen Abu Ubaidah hain.'"
+  },
+  {
+    "level": 25,
+    "question": "Musalmanon mein sabsay pehle Allah ki raah mein teer (arrow) chalane wale Ashara Mubasharah sahabi kaun the?",
+    "options": ["Hazrat Saad bin Abi Waqas", "Hazrat Zubair bin Al-Awwam", "Hazrat Umar", "Hazrat Ali"],
+    "correctAnswer": "Hazrat Saad bin Abi Waqas",
+    "explanation": "Hazrat Saad bin Abi Waqas ne sabsay pehle Islam ke liye teer chalaya, unhone hi baad mein Iraq fatah kiya."
+  },
+  {
+    "level": 25,
+    "question": "Hazrat Abdur Rahman bin Auf (RA) Ashara Mubasharah mein sabsay zyada kis cheez ke liye mashhoor the?",
+    "options": ["Sakhawat aur Business/Tijarat", "Shayari", "Teer-andazi", "Khetibaari"],
+    "correctAnswer": "Sakhawat aur Business/Tijarat",
+    "explanation": "Wo bohot bade tajir the aur unka sara maal wo Islam ki raah mein sakhawat ke sath lutaye dete the."
+  },
+  {
+    "level": 25,
+    "question": "Hazrat Zubair bin Al-Awwam (RA) ko Nabi ﷺ ne kya laqab diya tha?",
+    "options": ["Hawari-ur-Rasool (Disciple)", "Saifullah", "Asadullah", "Siddique"],
+    "correctAnswer": "Hawari-ur-Rasool (Disciple)",
+    "explanation": "Nabi ﷺ ne farmaya: 'Har Nabi ka ek Hawari (sacha sathi) hota hai, aur mera hawari Zubair hai.'"
+  },
+  {
+    "level": 25,
+    "question": "Ashara Mubasharah ke sahabi Hazrat Saeed bin Zaid (RA) kis mashhoor Caliph ke behnoi (Sister's husband) the?",
+    "options": ["Hazrat Abu Bakr", "Hazrat Umar bin Khattab", "Hazrat Uthman", "Hazrat Ali"],
+    "correctAnswer": "Hazrat Umar bin Khattab",
+    "explanation": "Hazrat Saeed bin Zaid ka nikah Hazrat Umar ki behen Fatima bint al-Khattab se hua tha, unhi ke ghar Umar Islam laye the."
+  },
+  {
+    "level": 25,
+    "question": "Hazrat Talha bin Ubaidullah ko Ghazwa-e-Uhud mein Nabi ﷺ ki hifazat karte hue kitne zakhm aaye the?",
+    "options": ["Takreeban 70 se zyada", "5 zakhm", "Koi nahi", "12 zakhm"],
+    "correctAnswer": "Takreeban 70 se zyada",
+    "explanation": "Ghazwa-e-Uhud mein Hazrat Talha ne Nabi ﷺ ke liye dhaal ka kaam kiya aur unka ek haath bhi upahaj (paralyzed) ho gaya tha."
+  },
+  {
+    "level": 25,
+    "question": "Ashara Mubasharah mein sabsay aakhri mein kis sahabi ki wafat hui?",
+    "options": ["Hazrat Saad bin Abi Waqas", "Hazrat Ali", "Hazrat Abu Ubaidah", "Hazrat Abdur Rahman bin Auf"],
+    "correctAnswer": "Hazrat Saad bin Abi Waqas",
+    "explanation": "Hazrat Saad bin Abi Waqas ki wafat takreeban 55 Hijri mein hui, jo Ashara Mubasharah ke sabsay aakhri sathi the."
+  },
+  {
+    "level": 25,
+    "question": "Hazrat Abu Bakr ke ilawa wo kaunse sahabi hain jo badshah 'Abdur Rahman bin Auf' ke chacha-zaad the?",
+    "options": ["Hazrat Saad bin Abi Waqas", "Hazrat Saeed bin Zaid", "Hazrat Uthman", "Hazrat Talha"],
+    "correctAnswer": "Hazrat Saad bin Abi Waqas",
+    "explanation": "Hazrat Saad aur Hazrat Abdur Rahman bin Auf dono Banu Zuhrah kabile se aapas mein qareebi rishtedar the."
+  },
+  {
+    "level": 26,
+    "question": "Qayamat ki sabsay badi Alamat (Major Sign) kaunsi mani jati hai jiske baad toubah ka darwaza band ho jayega?",
+    "options": ["Suraj ka West (Maghrib) se nikalna", "Dajjal ka aana", "Yajooj Majooj ka nikalna", "Dhuan"],
+    "correctAnswer": "Suraj ka West (Maghrib) se nikalna",
+    "explanation": "Jab suraj apni mamool ki jagah ke bajaye maghrib se niklega, toh kainaat ka nizaam badal jayega aur phir kisi ka iman qubool nahi hoga."
+  },
+  {
+    "level": 26,
+    "question": "Dajjal (Antichrist) ka khatma aur qatal kaunse Nabi asmaan se utar kar karenge?",
+    "options": ["Hazrat Isa (AS)", "Hazrat Musa (AS)", "Hazrat Khidr", "Hazrat Mahdi"],
+    "correctAnswer": "Hazrat Isa (AS)",
+    "explanation": "Hazrat Isa (AS) Damascus ki jami masjid ke minare par utrenge aur Lud (Israel) ke muqam par Dajjal ko qatal karenge."
+  },
+  {
+    "level": 26,
+    "question": "Yajooj Majooj (Gog and Magog) kis Nabi/Badshah ki banayi hui deewar ke peechay qaid hain?",
+    "options": ["Hazrat Sulaiman", "Dhul-Qarnayn", "Hazrat Musa", "Namrood"],
+    "correctAnswer": "Dhul-Qarnayn",
+    "explanation": "Dhul-Qarnayn ne pighle hue tambe aur lohe se ek mazboot deewar banakar Yajooj Majooj ko qaid kiya tha jise wo roz chaatte hain."
+  },
+  {
+    "level": 26,
+    "question": "Qayamat se pehle aane wale sacha Islami leader 'Imam Mahdi' ka asal naam kya hoga?",
+    "options": ["Muhammad bin Abdullah", "Ahmad bin Ali", "Haroon al-Rasheed", "Isa bin Maryam"],
+    "correctAnswer": "Muhammad bin Abdullah",
+    "explanation": "Hadees ke mutabiq Imam Mahdi ka naam Nabi ﷺ ke naam par (Muhammad) aur unke baap ka naam (Abdullah) hoga aur unka taaluq Ahle-Bait se hoga."
+  },
+  {
+    "level": 26,
+    "question": "Aakhir-uz-Zaman mein zameen se nikalne wale ek ajeeb janwar ko kya kaha gaya hai jo logon se baatein karega?",
+    "options": ["Dabbat-ul-Ard", "Buraq", "Al-Jassasah", "Camel of Salih"],
+    "correctAnswer": "Dabbat-ul-Ard",
+    "explanation": "Surah Namal mein zikr hai ke Qayamat ke qareeb ek makhsoos janwar 'Dabbat-ul-Ard' nikalega jo momin aur kafir ke chehre par nishan lagayega."
+  },
+  {
+    "level": 26,
+    "question": "Qayamat ki choti nishaniyon (Minor Signs) mein se ek kaunsi hai jo aaj kal aam hai?",
+    "options": ["Charwahon ka unchi imaratain (Buildings) banana", "Suraj ka kaala hona", "Asmaan ka phatna", "Aag lagna"],
+    "correctAnswer": "Charwahon ka unchi imaratain (Buildings) banana",
+    "explanation": "Hadees-e-Jibrail mein zikr hai ke nange pair chalne wale charwahe (Bedouins) ek doosre se unchi imaratein banane mein muqabla karenge."
+  },
+  {
+    "level": 26,
+    "question": "Dajjal ki fitne se bachne ke liye har Juma ko kis Surah ki tilawat ki taakeed ki gayi hai?",
+    "options": ["Surah Al-Kahf", "Surah Al-Mulk", "Surah Yaseen", "Surah Al-Baqarah"],
+    "correctAnswer": "Surah Al-Kahf",
+    "explanation": "Hadees ke mutabiq jo Surah Kahf ka aghaaz aur ikhtitam (ya pehli 10 ayat) yaad karega, wo Dajjal ke fitne se mahfooz rahega."
+  },
+  {
+    "level": 26,
+    "question": "Qayamat se pehle asmaan se ek dhuan nikalega jo poori zameen ko ghaer lega, use kya kehte hain?",
+    "options": ["Al-Dukhan", "Al-Khasf", "Al-Rajifah", "Al-Saih"],"correctAnswer": "Al-Dukhan",
+    "explanation": "Surah Dukhan mein iska zikr hai, yeh ek aisi nishani hai jo logon par parayshani ban kar chha jayegi."
+  },
+  {
+    "level": 26,
+    "question": "Dajjal sabsay pehle kis jagah se nikalega (riwayat ke mutabiq)?",
+    "options": ["Khurasan / Isfahan (East)", "Makkah", "Washington", "Yemen"],
+    "correctAnswer": "Khurasan / Isfahan (East)",
+    "explanation": "Ahadees ke mutabiq Dajjal Mashriq (East) ki taraf se, khas taur par Khurasan ya Isfahan (Iran) ke ilaqay se zahir hoga."
+  },
+  {
+    "level": 26,
+    "question": "Major signs mein se teen 'Khasf' honge. Khasf ka kya matlab hai?",
+    "options": ["Zameen ka dhasna (Landsliding/Sinking)", "Zilzila aana", "Asmaan se pathar girna", "Samundar ka ubalna"],
+    "correctAnswer": "Zameen ka dhasna (Landsliding/Sinking)",
+    "explanation": "Teen bade khasf honge: ek Mashriq mein, ek Maghrib mein, aur ek Jazeerah-tul-Arab mein jahan zameen dhas jayegi."
+  },
+  {
+    "level": 27,
+    "question": "Abbasid daur mein Baghdad mein banaya gaya sabsay bada Library aur Science Center kya kehlata tha?",
+    "options": ["Bayt al-Hikmah (House of Wisdom)", "Darul Uloom", "Nizamiyya", "Al-Azhar"],
+    "correctAnswer": "Bayt al-Hikmah (House of Wisdom)",
+    "explanation": "Caliph Haroon al-Rasheed aur Al-Mamun ke daur mein Bayt al-Hikmah khola gaya jahan duniya bhar ki kitabon ka Arabic translation hua."
+  },
+  {
+    "level": 27,
+    "question": "Algebra (Al-Jabr) ke baani aur sabsay bade Muslim mathematician kaun hain?",
+    "options": ["Al-Khwarizmi", "Ibn al-Haytham", "Al-Biruni", "Ibn Sina"],
+    "correctAnswer": "Al-Khwarizmi",
+    "explanation": "Muhammad ibn Musa al-Khwarizmi ne sabsay pehle Algebra par kitab likhi aur unhi ke naam se 'Algorithm' word bana."
+  },
+  {
+    "level": 27,
+    "question": "Duniya ka sabsay pehla Hospital (Bimaristan) aur Medicine ka nizaam kis Islami daur mein codify hua?",
+    "options": ["Umayyad Era", "Abbasid Era", "Ottoman Era", "Mughal Era"],
+    "correctAnswer": "Abbasid Era",
+    "explanation": "Baghdad aur Cairo mein Haroon al-Rasheed ke daur mein bashaeda advanced muft hospitals banaye gaye the."
+  },
+  {
+    "level": 27,
+    "question": "Optics (Light aur Camera) ke baani aur 'Kitab al-Manazir' ke musannif kaunse Muslim scientist hain?",
+    "options": ["Ibn al-Haytham", "Al-Razi", "Jabir bin Hayyan", "Al-Kindi"],
+    "correctAnswer": "Ibn al-Haytham",
+    "explanation": "Alhazen (Ibn al-Haytham) ne pehli baar Pinhole camera banaya aur sabit kiya ke roshni aankh se nahi balki object se aati hai."
+  },
+  {
+    "level": 27,
+    "question": "Chemistry ke baani (Father of Chemistry) kis Muslim scientist ko mana jata hai jinhone Nitric acid ijad kiya?",
+    "options": ["Jabir bin Hayyan", "Ibn Ruschd", "Al-Farabi", "Ibn Khaldun"],
+    "correctAnswer": "Jabir bin Hayyan",
+    "explanation": "Geber (Jabir bin Hayyan) ne sabsay pehle laboratory distillation, crystallization aur acids ka nizaam ijad kiya."
+  },
+  {
+    "level": 27,
+    "question": "Medical science ki sabsay mashhoor kitab 'The Canon of Medicine' (Al-Qanun fi al-Tibb) kis Muslim scholar ne likhi thi?",
+    "options": ["Ibn Sina (Avicenna)", "Al-Razi", "Ibn Zuhr", "Al-Ghazali"],
+    "correctAnswer": "Ibn Sina (Avicenna)",
+    "explanation": "Ibn Sina ki yeh kitab sadiyon tak Europe ke universities mein medical ki buniyaadi textbook rahi."
+  },
+  {
+    "level": 27,
+    "question": "Sociology (Samaaj) aur Tareekh ke asoolon par sabsay pehli 'Muqaddimah' kitab likhne wale scholar kaun hain?",
+    "options": ["Ibn Khaldun", "Al-Biruni", "Ibn Battuta", "Al-Idrisi"],
+    "correctAnswer": "Ibn Khaldun",
+    "explanation": "Ibn Khaldun ko modern Sociology aur Economics ka asli founder mana jata hai unki kitab Muqaddimah ki wajah se."
+  },
+  {
+    "level": 27,
+    "question": "Duniya ki sabsay purani aur pehli University 'University of al-Qarawiyyin' Morroco mein kis Muslim khatoon ne banayi thi?",
+    "options": ["Fatima al-Fihri", "Mariam al-Asturlabiya", "Shajar al-Durr", "Razia Sultana"],
+    "correctAnswer": "Fatima al-Fihri",
+    "explanation": "859 AD mein Fatima al-Fihri naam ki ek ameer aur parhi-likhi khatoon ne apne maal se yeh university banayi jo aaj bhi chal rahi hai."
+  },
+  {
+    "level": 27,
+    "question": "Spain (Andalus) mein waqe Musalmanon ki sabsay khubsoorat aur tareekhi imarat kaunsi hai?",
+    "options": ["Alhambra Palace (Qasr al-Hamra)", "Taj Mahal", "Blue Mosque", "Dome of the Rock"],
+    "correctAnswer": "Alhambra Palace (Qasr al-Hamra)",
+    "explanation": "Granada (Spain) mein waqe Alhambra Palace Muslim architecture aur calligraphy ka sabsay behtareen shaahkar hai."
+  },
+  {
+    "level": 27,
+    "question": "Pendulum aur Earth ka circumference (Zameen ka ghera) nikalne wale mashhoor geographer kaun the?",
+    "options": ["Al-Biruni", "Al-Battani", "Ibn Yunus", "Al-Zahrawi"],
+    "correctAnswer": "Al-Biruni",
+    "explanation": "Al-Biruni ne Pakistan ke Pind Dadan Khan (Nandana) ke muqam par baith kar zameen ka radius bilkul accurate nikala tha."
+  },
+  {
+    "level": 28,
+    "question": "Imam Bukhari (RA) ne apni Sahih Al-Bukhari ko takreeban kitne lakh ahadees mein se select karke jama kiya?",
+    "options": ["6 Lakh", "1 Lakh", "50,000", "2 Lakh"],
+    "correctAnswer": "6 Lakh",
+    "explanation": "Imam Bukhari ne 6,000,000 ahadees mein se kadi scrutiny aur istikhara karne ke baad takreeban 7,563 ahadees select kin."
+  },
+  {
+    "level": 28,
+    "question": "Sahaba ke daur mein sabsay pehla likha gaya Hadees ka majmua 'Sahifa Sadiqah' kis sahabi ne taiyar kiya tha?",
+    "options": ["Hazrat Abdullah bin Amr bin Al-Aas", "Hazrat Abu Hurairah", "Hazrat Ali", "Hazrat Anas bin Malik"],
+    "correctAnswer": "Hazrat Abdullah bin Amr bin Al-Aas",
+    "explanation": "Hazrat Abdullah bin Amr bin Al-Aas Nabi ﷺ ki ijazat se har baat likh liya karte the, unke majmuay ka naam Sahifa Sadiqah tha."
+  },
+  {
+    "level": 28,
+    "question": "Hadees ke raoriyon (narrators) ke shajre aur unki sachai check karne wale ilm ko kya kehte hain?",
+    "options": ["Ilm al-Rijal (Biographical evaluation)", "Ilm al-Fiqh", "Ilm al-Kalam", "Ilm al-Sarf"],
+    "correctAnswer": "Ilm al-Rijal (Biographical evaluation)",
+    "explanation": "Ilm al-Rijal mein har rawi ki life, uski memory aur uski honety ka poora record check kiya jata hai taake hadees check ho sake."
+  },
+  {
+    "level": 28,
+    "question": "Imam Muslim (RA) ka taaluq kis shehar/ilaqay se tha jahan unki qabar hai?",
+    "options": ["Nishapur (Iran)", "Bukhara", "Baghdad", "Cairo"],
+    "correctAnswer": "Nishapur (Iran)",
+    "explanation": "Imam Muslim Nishapur (Khurasan, Iran) ke rehne wale the aur unka poora naam Muslim ibn al-Hajjaj tha."
+  },
+  {
+    "level": 28,
+    "question": "Sihah-e-Sitta mein 'Sunan At-Tirmidhi' ke musannif Imam Tirmidhi kis mashhoor Muhaddis ke sabsay khas shagird (student) the?",
+    "options": ["Imam Bukhari", "Imam Muslim", "Imam Malik", "Imam Abu Hanifa"],
+    "correctAnswer": "Imam Bukhari",
+    "explanation": "Imam Tirmidhi ne Hadees ka aksar hissa aur usool Imam Bukhari se seekha aur unki wafat par bohot roye."
+  },
+  {
+    "level": 28,
+    "question": "Aisi Hadees jis ki sanad (chain) nabi ﷺ ke bajaye kisi Sahabi par ruk jaye, use kya kehte hain?",
+    "options": ["Hadees Mauqoof", "Hadees Marfoo", "Hadees Maqtoo", "Hadees Mursal"],
+    "correctAnswer": "Hadees Mauqoof",
+    "explanation": "Marfoo nabi ﷺ tak jati hai, Mauqoof sahabi ka qaul hoti hai, aur Maqtoo tabiee ka fail/qaul hoti hai."
+  },
+  {
+    "level": 28,
+    "question": "Sabsay pehle kis Umayyad Caliph ne sarkari satah par Hadees ko jama karne ka order diya tha?",
+    "options": ["Umar bin Abdul Aziz", "Muawiyah I", "Abdul Malik", "Haroon al-Rasheed"],
+    "correctAnswer": "Umar bin Abdul Aziz",
+    "explanation": "Hazrat Umar bin Abdul Aziz (RA) ne dar lagne par ke ilm khatam na ho jaye, ulema ko hadees codify karne ke sarkaari orders diye."
+  },
+  {
+    "level": 28,
+    "question": "Hadees ki sabsay pehli criteria 'Sahih' hone ke liye sanad mein kya cheez zaroori hai?",
+    "options": ["Adalat aur Dhabt (Memory & Character)", "Rawi ka ameer hona", "Rawi ka makkah mein hona", "Sanad ka chota hona"],
+    "correctAnswer": "Adalat aur Dhabt (Memory & Character)",
+    "explanation": "Rawi ka Adil (characterewise perfect) aur Dhabit (excellent retention/memory wala) hona shart hai."
+  },
+  {
+    "level": 28,
+    "question": "Imam Bukhari ki 'Sahih Al-Bukhari' ka poora asli aur technical naam kya hai?",
+    "options": ["Al-Jami' al-Musnad al-Sahih al-Mukhtasar...", "Kitab al-Hadees", "Sunan al-Bukhari", "Muwatta Al-Bukhari"],
+    "correctAnswer": "Al-Jami' al-Musnad al-Sahih al-Mukhtasar...",
+    "explanation": "Iska poora naam 'Al-Jami' al-Musnad al-Sahih al-Mukhtasar min Umuri Rasoolillahi ﷺ wa Sunanihi wa Ayyamihi' hai."
+  },
+  {
+    "level": 28,
+    "question": "Kutub al-Sittah (Sihah Sitta) mein shamil 'Sunan Ibn Majah' ke author kis country se the?",
+    "options": ["Qazvin (Iran)", "Egypt", "Syria", "Yemen"],
+    "correctAnswer": "Qazvin (Iran)",
+    "explanation": "Imam Ibn Majah Qazvin (Modern day Iran) ke rehne wale the aur unki Sunan ko 6th main book mana jata hai."
+  },
+  {
+    "level": 29,
+    "question": "Islam mein kis gunah ko sabsay bada aur 'Gunah-e-Azeem' kaha gaya hai jo kabhi maaf nahi hoga agar baghair toubah ke marein?",
+    "options": ["Shirk (Allah ke sath kisi ko shareek karna)", "Chori", "Jhoot", "Gheebat"],
+    "correctAnswer": "Shirk (Allah ke sath kisi ko shareek karna)",
+    "explanation": "Surah Nisa mein saaf zikr hai ke Allah shirk ke gunah ko hargiz maaf nahi karega, iske ilawa jiski chahe maghfirat karde."
+  },
+  {
+    "level": 29,
+    "question": "Nabi ﷺ ne kis gunah ko 'Apni sagi maa se zina karne' ke barabar sangeen gunah bataya hai?",
+    "options": ["Riba (Sood/Interest) khana", "Chugli karna", "Sona pehnna", "Yateem ka maal"],
+    "correctAnswer": "Riba (Sood/Interest) khana",
+    "explanation": "Hadees ke mutabiq sood ke 73 darje hain aur sabsay chota darja aisa hai jaise koi apni maa se buraey kare."
+  },
+  {
+    "level": 29,
+    "question": "Quran Majeed mein kisi pak-daman aurat par jhooti tohmat (Slander) lagane wale ki kya saza muqarrar hai?",
+    "options": ["80 Koday (Lashes)", "Maut", "100 koday", "Umar qaid"],
+    "correctAnswer": "80 Koday (Lashes)",
+    "explanation": "Surah Al-Noor ke mutabiq jo log shareef aurton par tohmat lagayein aur 4 gawah na layein, unhe 80 koday maaro aur unki gawaahi hamesha ke liye radd kardo."
+  },
+  {
+    "level": 29,
+    "question": "Kis gunah ke baare mein aata hai ke yeh banday ki naikiyon ko is tarah kha jata hai jaise aag lakdi ko?",
+    "options": ["Hasad (Jealousy)", "Kanjusi", "Gussa", "Gharor"],
+    "correctAnswer": "Hasad (Jealousy)",
+    "explanation": "Nabi e Kareem ﷺ ne farmaya: 'Hasad se bacho, kyunki hasad naikiyon ko is tarah kha jata hai jaise aag khushk lakdi ko.'"
+  },
+  {
+    "level": 29,
+    "question": "Jang ke maidan se peeth dikha kar bhaagna (Desertion) Major Sins mein shamil hai. Ise kya kehte hain?",
+    "options": ["Al-Firar min al-Zahf", "Nifaq", "Kufar", "Riya"],
+    "correctAnswer": "Al-Firar min al-Zahf",
+    "explanation": "Nabi ﷺ ne jo 7 halaak karne wale bade gunah bataye the, unme se ek maidan-e-jang se bhaagna bhi hai."
+  },
+  {
+    "level": 29,
+    "question": "Gheebat (Backbiting) karne ko Quran mein kis buraey ke barabar qarar diya gaya hai?",
+    "options": ["Apne mare hue bhai ka gosht khana", "Kaba ko dhana", "Chori karna", "Zina karna"],
+    "correctAnswer": "Apne mare hue bhai ka gosht khana",
+    "explanation": "Surah Hujurat mein aata hai: 'Kya tum mein se koi pasand karega ke apne mare hue bhai ka gosht khaye? Tum isse krahit karte ho.'"
+  },
+  {
+    "level": 29,
+    "question": "Kis gunah ko 'Umm-ul-Kaba'ir' ya 'Umm-ul-Khaba'ith' (Tamam buraiyon ki maa) kaha gaya hai?",
+    "options": ["Sharab / Nasha (Alcohol)", "Jhoot", "Kanjusi", "Zulm"],
+    "correctAnswer": "Sharab / Nasha (Alcohol)",
+    "explanation": "Hadees ke mutabiq sharab tamam buraiyon ki jadd hai kyunki hosh khone ke baad insaan har bada gunah asani se kar leta hai."
+  },
+  {
+    "level": 29,
+    "question": "Yateem ka maal nahaq khana (Consuming Orphan's wealth) ke baare mein Quran kya kehta hai?",
+    "options": ["Wo apne pait mein aag bhar rahe hain", "Unka business doob jayega", "Unhe maut nahi aayegi", "Unka dil kaala ho jayega"],
+    "correctAnswer": "Wo apne pait mein aag bhar rahe hain",
+    "explanation": "Surah Nisa mein zikr hai ke jo log nahaq yateemon ka maal khate hain, wo darasal apne paiton mein aag ke angare bharte hain."
+  },
+  {
+    "level": 29,
+    "question": "Apne maa-baap ki na-shukri aur unki na-farmani karna kya kehlata hai?",
+    "options": ["Uqooq al-Walidain", "Sila-e-Rahmi", "Kibr", "Fisq"],
+    "correctAnswer": "Uqooq al-Walidain",
+    "explanation": "Uqooq al-Walidain kabeera gunahon mein sabsay oopar aata hai jo maa-baap ko dukh dene aur unhe chorney par lagta hai."
+  },
+  {
+    "level": 29,
+    "question": "Magic / Jadu (Sorcery) karne aur karwane wale ka Islam mein kya status hai?",
+    "options": ["Yeh Kufr hai aur Halaak karne wala gunah hai", "Yeh mubah hai", "Choti buraey hai", "Sirf makrooh hai"],
+    "correctAnswer": "Yeh Kufr hai aur Halaak karne wala gunah hai",
+    "explanation": "Shariat mein jadu seekhna, karna aur uspar yaqeen rakhna kufr aur kabeera gunah ke daere mein aata hai."
+  },
+  {
+    "level": 30,
+    "question": "Islamic finance mein 'Riba al-Nasiyah' se kya muraad hai?",
+    "options": ["Time delay par lagne wala interest (Sood)", "Barter exchange par sood", "Gift dena", "Profit share"],
+    "correctAnswer": "Time delay par lagne wala interest (Sood)",
+    "explanation": "Riba al-Nasiyah wo interest hai jo loan chukane ka time barhne par extra paise ki shart par lagaya jata hai, jo modern banks mein hota hai."
+  },
+  {
+    "level": 30,
+    "question": "Sone (Gold) par Zakat lagne ka buniyaadi Nisab kitna muqarrar hai?",
+    "options": ["7.5 Tola (87.48 grams)", "52.5 Tola", "10 Tola", "1 Tola"],
+    "correctAnswer": "7.5 Tola (87.48 grams)",
+    "explanation": "Gold ka nisab saade-saat (7.5) tola hai jabke chandi (Silver) ka nisab baawan-saade-baawan (52.5) tola hai."
+  },
+  {
+    "level": 30,
+    "question": "Islamic banking mein 'Mudarabah' contract se kya muraad hoti hai?",
+    "options": ["Ek taraf se paisa (Capital) aur doosri taraf se mehnat (Skill)", "Dono taraf se paisa", "Khas qisam ka loan", "Muft sakhawat"],
+    "correctAnswer": "Ek taraf se paisa (Capital) aur doosri taraf se mehnat (Skill)",
+    "explanation": "Mudarabah mein ek banda investor (Rabb-ul-Maal) hota hai aur doosra working partner (Mudarib) hota hai, profit pehle se teh shuda ratio par banta hai."
+  },
+  {
+    "level": 30,
+    "question": "Zakat ke total kitne Masarif (Categories of recipients) hain jin ka zikr Surah Tawbah mein hai?",
+    "options": ["8", "5", "7", "10"],
+    "correctAnswer": "8",
+    "explanation": "Surah Tawbah ki Ayat 60 ke mutabiq Zakat ke 8 masarif hain jisme Fuqara, Masakeen, Amileen, wagaira shamil hain."
+  },
+  {
+    "level": 30,
+    "question": "Zameen ki paidaish (Agricultural output) par jo Islami tax lagta hai, use kya kehte hain?",
+    "options": ["Ushr", "Kharaj", "Jizya", "Zakat"],
+    "correctAnswer": "Ushr",
+    "explanation": "Ushr ka matlab hai '10th part'. Barani zameen ki fasal par 10% aur khud paani lagane wali fasal par 5% tax hota hai."
+  },
+  {
+    "level": 30,
+    "question": "Islamic business laws mein 'Gharar' se kya muraad hai jisko nabi ﷺ ne mana farmaya?",
+    "options": ["Excessive Uncertainty / Dokha / Unclear deal", "Sood", "Halaal nfa", "Tijarat"],
+    "correctAnswer": "Excessive Uncertainty / Dokha / Unclear deal",
+    "explanation": "Gharar ka matlab hai aisi deal jisme dhoop-chaon ho ya cheez clear na ho, jaise samundar mein tairti machli ko pehle hi bech dena."
+  },
+  {
+    "level": 30,
+    "question": "Non-Muslims par unki hifazat aur military service se chhoot ke badle jo tax lagaya jata tha, use kya kehte hain?",
+    "options": ["Jizya", "Ushr", "Khums", "Zakat"],
+    "correctAnswer": "Jizya",
+    "explanation": "Jizya sirf un non-Muslims par lagta tha jo Islami saltanat mein rehte the aur unki jaan-o-maal ki zimmedari state leti thi."
+  },
+  {
+    "level": 30,
+    "question": "Islamic contracts mein 'Musharakah' se kya muraad hoti hai?",
+    "options": ["Joint Venture / Partnership jahan dono paisa lagayein", "Ek ka nuksan", "Soodi karobar", "Rent par imarat lena"],
+    "correctAnswer": "Joint Venture / Partnership jahan dono paisa lagayein",
+    "explanation": "Musharakah ek aisi partnership hai jahan tamam partners capital lagate hain aur profit o loss share karte hain."
+  },
+  {
+    "level": 30,
+    "question": "Ghanimat ka maal (War booty) jo jang mein milta hai, uske 5ve hisse ko kya kehte hain jo baitul maal jata hai?",
+    "options": ["Khums", "Fie", "Jizya", "Zakat"],
+    "correctAnswer": "Khums",
+    "explanation": "Khums ka matlab hai 'One-fifth' (20%). Yeh hissa Allah, Uske Rasool, khandan-e-rasool aur yateemon ke liye muqarrar hota hai."
+  },
+  {
+    "level": 30,
+    "question": "Aisi deal jisme bank asset khareed kar customer ko profit marjin ke sath kishton (Installments) par bechta hai, kya kehlati hai?",
+    "options": ["Murabahah", "Ijarah", "Istisna", "Sukuk"],
+    "correctAnswer": "Murabahah",
+    "explanation": "Murabahah cost-plus-profit sale ko kehte hain, jo aksar Islamic auto aur home financing mein use hoti hai."
+  },
+  {
+    "level": 31,
+    "question": "Sulah-e-Hudaibiyah (Treaty of Hudaybiyyah) kis Hijri saal mein likhi gayi thi?",
+    "options": ["6 Hijri", "5 Hijri", "7 Hijri", "8 Hijri"],
+    "correctAnswer": "6 Hijri",
+    "explanation": "Makkah ke qareeb Hudaibiyah ke muqam par 6 Hijri mein 10 saal ke aman ke liye yeh mashhoor muaahda hua."
+  },
+  {
+    "level": 31,
+    "question": "Sulah-e-Hudaibiyah ke waqt Quraish ki taraf se sabsay bada nalaenda kaun tha jiske kehne par Bismillah ke alfaaz badlay gaye?",
+    "options": ["Suhail bin Amr", "Abu Sufyan", "Ikrimah", "Safwan bin Umayyah"],
+    "correctAnswer": "Suhail bin Amr",
+    "explanation": "Suhail bin Amr ne 'Rahman' aur 'Rasoolullah' ke alfaaz par aitraz kiya tha, jise nabi ﷺ ne amann ki khatir badalwaya."
+  },
+  {
+    "level": 31,
+    "question": "Nabi ﷺ ne Madinah hijrat karne ke baad wahan ke Yahoodiyon aur Ansaar ke sath jo pehla Written Constitution banaya, use kya kehte hain?",
+    "options": ["Meesaq-e-Madinah (Charter of Madinah)", "Sulah-e-Madinah", "Khutbah Hajjat-ul-Wada", "Bai'at-e-Aqaba"],
+    "correctAnswer": "Meesaq-e-Madinah (Charter of Madinah)",
+    "explanation": "Meesaq-e-Madinah duniya ka sabsay pehla likha hua aeen (Written Constitution) mana jata hai jisme har shehri ko haqooq diye gaye the."
+  },
+  {
+    "level": 31,
+    "question": "Hijrat se pehle Madinah ke logon ne Makkah ke muqam par Nabi ﷺ ke haath par jo do mashhoor baitein kin, unhe kya kehte hain?",
+    "options": ["Bai'at-e-Aqaba (First & Second)", "Bai'at-e-Rizwan", "Meesaq-e-Makkah", "Hilf-ul-Fudool"],
+    "correctAnswer": "Bai'at-e-Aqaba (First & Second)",
+    "explanation": "Aqaba ki ghatiyan Makkah mein hain jahan Madinah ke logon ne chupp kar nabi ﷺ ko Madinah aane ki dawat aur hifazat ka wada diya."
+  },
+  {
+    "level": 31,
+    "question": "Sulah-e-Hudaibiyah ke mouqay par jab Hazrat Uthman ke qatal ki jhooti khabar aayi, toh nabi ﷺ ne drakht ke neeche jo baet li use kya kehte hain?",
+    "options": ["Bai'at-e-Rizwan", "Bai'at-e-Aqaba", "Hilf-ul-Fudool", "Bai'at-e-Jihad"],
+    "correctAnswer": "Bai'at-e-Rizwan",
+    "explanation": "Surah Fatah mein iska zikr hai ke Allah un momineen se razi (Rizwan) ho gaya jinhone darakh ke neeche jaan dene ki baet ki."
+  },
+  {
+    "level": 31,
+    "question": "Nabi ﷺ ne nubuwwat se pehle jawani mein mazloomon ki madad ke liye Makkah mein kis muaahda (Alliance) mein shirkat ki thi?",
+    "options": ["Hilf-ul-Fudool", "Meesaq-e-Makkah", "Alliance of Quraish", "Sulah-e-Fijar"],
+    "correctAnswer": "Hilf-ul-Fudool",
+    "explanation": "Hilf-ul-Fudool ek insaniyar dost muaahda tha jiske baare mein aap ﷺ ne nubuwwat ke baad bhi farmaya ke agar mujhe aaj bhi iske liye bulaya jaye toh mein jaoonga."
+  },
+  {
+    "level": 31,
+    "question": "Sulah-e-Hudaibiyah ki un sharton mein se ek kya thi jo zahiri taur par Musalmanon ke khilaf lagti thi?",
+    "options": ["Makkah ka koi banda agar madinah jaye toh use wapas kiya jayega", "Musalman kaba nahi dekh sakte", "Zakat makkah ko di jayegi", "Jang hamesha rahegi"],
+    "correctAnswer": "Makkah ka koi banda agar madinah jaye toh use wapas kiya jayega",
+    "explanation": "Shart yeh thi ke agar koi Makkah se bhaag kar Madinah jaye toh Musalman use wapas karenge, lekin Madinah se koi aaye toh Quraish wapas nahi karenge."
+  },
+  {
+    "level": 31,
+    "question": "Sulah-e-Hudaibiyah ka mautabar draft kis Sahabi ne apne haath se likha tha?",
+    "options": ["Hazrat Ali bin Abi Talib", "Hazrat Zaid bin Thabit", "Hazrat Abu Bakr", "Hazrat Uthman"],
+    "correctAnswer": "Hazrat Ali bin Abi Talib",
+    "explanation": "Hazrat Ali (RA) is muaahde ke scribe (likhne wale) the aur unhone hi nabi ﷺ ke kehne par alfaaz tehreer kiye."
+  },
+  {
+    "level": 31,
+    "question": "Quran Majeed ne kis muaahda / event ko 'Fatham Mubeen' (Khuli Fateh) qarar diya hai?",
+    "options": ["Sulah-e-Hudaibiyah", "Fatah-e-Makkah", "Ghazwa-e-Badr", "Ghazwa-e-Khaibar"],
+    "correctAnswer": "Sulah-e-Hudaibiyah",
+    "explanation": "Surah Fatah ki aayat 'Inna fatahna laka fatham mubeena' Sulah-e-Hudaibiyah ke mauqay par nazil hui kyunki isne aage chalkar Islam ke raste khole."
+  },
+  {
+    "level": 31,
+    "question": "Najran ke Isaiyon (Christians of Najran) ke sath nabi ﷺ ne jo treaty ki thi, usme unhe kya azaadi di gayi thi?",
+    "options": ["Apne mazhab aur churches ki poori hifazat", "Madinah mein rehne ki pabandi", "Islam qubool karna shart tha", "Churches gira diye jayenge"],
+    "correctAnswer": "Apne mazhab aur churches ki poori hifazat",
+    "explanation": "Nabi e Kareem ﷺ ne Najran ke delegation ko jizya ke badle unke deen, jaan aur ibadat-gahon ki poori protection ka written wada diya tha."
+  },
+  {
+    "level": 32,
+    "question": "Allah ke paak naam 'Al-Quddus' ka asal aur gehra matlab kya hai?",
+    "options": ["Har aeb, kamzori aur nuqs se paak", "Bohot reham karne wala", "Sabsay bada badshah", "Rizq dene wala"],
+    "correctAnswer": "Har aeb, kamzori aur nuqs se paak",
+    "explanation": "Al-Quddus ka matlab hai 'The Absolutely Pure', jo makhluqat ki tarah kisi bhi kamzori, neend, thakat ya aeb se pak ho."
+  },
+  {
+    "level": 32,
+    "question": "Allah ke naam 'Al-Muhaimin' se kya muraad hai?",
+    "options": ["Nigehban aur Poori kainaat ki hifazat karne wala", "Maut dene wala", "Hisaab lene wala", "Insaaf karne wala"],
+    "correctAnswer": "Nigehban aur Poori kainaat ki hifazat karne wala",
+    "explanation": "Al-Muhaimin ka matlab hai 'The Overseer / Guardian', jo har makhluq ki har harkat par nazar rakhta hai aur uski parwarish karta hai."
+  },
+  {
+    "level": 32,
+    "question": "Allah ka sabsay bada naam jise 'Ism-e-Azam' kehte hain, uski kya khusasiyat hadees mein aayi hai?",
+    "options": ["Iske zariye mangi gayi dua har haal mein qbool hoti hai", "Ise har koi janta hai", "Yeh sirf farishtay parhte hain", "Yeh shab-e-qadr ko gayb ho jata hai"],
+    "correctAnswer": "Iske zariye mangi gayi dua har haal mein qbool hoti hai",
+    "explanation": "Hadees ke mutabiq jab Allah ko uske Ism-e-Azam se pukara jaye aur dua ki jaye, toh wo zaroor ata farmata hai."
+  },
+  {
+    "level": 32,
+    "question": "Allah ke naam 'Al-Qayyum' ka buniyaadi darshnik (philosophical) matlab kya hai?",
+    "options": ["Jo khud hamesha se qaim hai aur sab ko qaim rakhe hue hai", "Bohot sunne wala", "Paida karne wala", "Maaf karne wala"],
+    "correctAnswer": "Jo khud hamesha se qaim hai aur sab ko qaim rakhe hue hai",
+    "explanation": "Al-Qayyum 'The Self-Sustaining'. Wo kisi ka mohtaj nahi balki poori kainaat uski wajah se thairi hui hai."
+  },
+  {
+    "level": 32,
+    "question": "Allah ke do naamon 'Al-Rahman' aur 'Al-Rahim' mein kya barweek aur bariyaari farq hai?",
+    "options": ["Al-Rahman sab ke liye (duniya me) aur Al-Rahim sirf momineen ke liye (aakhirat me)", "Dono bilkul same hain", "Al-Rahman chota hai", "Al-Rahim farishtay hain"],
+    "correctAnswer": "Al-Rahman sab ke liye (duniya me) aur Al-Rahim sirf momineen ke liye (aakhirat me)",
+    "explanation": "Al-Rahman ka matlab hai bohot josh marne wali rehmat jo duniya mein kafir aur momin sab par barasti hai. Al-Rahim khas aur mustaqil rehmat hai jo aakhirat mein sirf naik logon ko milegi."
+  },
+  {
+    "level": 32,
+    "question": "Allah ke paak naam 'Al-Khaliq', 'Al-Bari' aur 'Al-Musawwir' mein se 'Al-Musawwir' ka kya kaam hai?",
+    "options": ["Cheezon ko unki shakal o surat aur rang dena (The Shaper)", "Zero se paida karna", "Rizq banana", "Maut ka waqt likhna"],
+    "correctAnswer": "Cheezon ko unki shakal o surat aur rang dena (The Shaper)",
+    "explanation": "Al-Khaliq planning karta hai, Al-Bari use wajood deta hai, aur Al-Musawwir use khubsoorat design, rang aur features deta hai."
+  },
+  {
+    "level": 32,
+    "question": "Allah ke naam 'Al-Latif' ka kya matlab hota hai?",
+    "options": ["Bohot barweek been, meharban aur poshida cheezon ko janne wala", "Gussa karne wala", "Hawa chalane wala", "Badshah"],
+    "correctAnswer": "Bohot barweek been, meharban aur poshida cheezon ko janne wala",
+    "explanation": "Al-Latif (The Subtle / Gracious) wo hai jo itna meharban ho ke un raaston se nawaze jahan se insaan ka wehm o guman bhi na ho."
+  },
+  {
+    "level": 32,
+    "question": "Allah ka naam 'Al-Hakim' (The Wise) kya zahir karta hai?",
+    "options": ["Uska har faisla hikmat aur perfection par mabni hai", "Wo hisab lene wala hai", "Wo sakht saza deta hai", "Wo asmaan par rehta hai"],
+    "correctAnswer": "Uska har faisla hikmat aur perfection par mabni hai",
+    "explanation": "Al-Hakim ka matlab hai ke Allah ka koi bhi fail fuzool nahi hota, uske har kaam mein gehri hikmat hoti hai chahe insaan ko samajh aaye ya na aaye."
+  },
+  {
+    "level": 32,
+    "question": "Allah ke naam 'Al-Jabbar' ke do maani hote hain, ek hai 'Zabardast' aur doosra kya hai?",
+    "options": ["Toote hue dilon ko jodne wala (The Restorer)", "Rizq kam karne wala", "Bimar karne wala", "Saza rokne wala"],
+    "correctAnswer": "Toote hue dilon ko jodne wala (The Restorer)",
+    "explanation": "Arabic mein 'Jabr' ka ek matlab tooti hui haddi ya dil ko jorna aur sanwarna bhi hota hai, isliye Al-Jabbar dilon ke zakhm bharta hai."
+  },
+  {
+    "level": 32,
+    "question": "Allah ke kis naam ka matlab hai 'Sabsay pehle' jiske pehle kuch na tha aur 'Sabsay aakhri' jiske baad kuch na hoga?",
+    "options": ["Al-Awwal aur Al-Akhir", "Al-Zahir aur Al-Batin", "Al-Wahid aur Al-Ahad", "Al-Malik aur Al-Quddus"],
+    "correctAnswer": "Al-Awwal aur Al-Akhir",
+    "explanation": "Surah Hadeed mein aata hai: 'Huwal Awwalu wal Akhiru wal Zahiru wal Batinu', yani wo hi pehla aur aakhri hai."
+  },
+  {
+    "level": 33,
+    "question": "Islam ki sabsay pehli shaheed khatoon (First Female Martyr) kaun thin jinhe Abu Jahl ne shaheed kiya?",
+    "options": ["Hazrat Sumayyah (RA)", "Hazrat Umme Ammarah", "Hazrat Khansa", "Hazrat Fatima"],
+    "correctAnswer": "Hazrat Sumayyah (RA)",
+    "explanation": "Hazrat Sumayyah Hazrat Ammar bin Yasir ki maa thin, unhone zulm ke samne Islam chorne se inkar kiya aur Abu Jahl ke hathon shaheed huin."
+  },
+  {
+    "level": 33,
+    "question": "Ghazwa-e-Uhud mein talwar lekar nabi ﷺ ke badshah khari hone wali aur unki hifazat karne wali Sahabiyat kaun thin?",
+    "options": ["Hazrat Umme Ammarah (Nusaybah bint Ka'b)", "Hazrat Asma", "Hazrat Khadija", "Hazrat Umme Ayman"],
+    "correctAnswer": "Hazrat Umme Ammarah (Nusaybah bint Ka'b)",
+    "explanation": "Hazrat Umme Ammarah ne Uhud mein nabi ﷺ ke dfa mein zakhmi hone tak talwar aur teer chalaye, nabi ﷺ unki bahaduri ke qail the."
+  },
+  {
+    "level": 33,
+    "question": "Hazrat Abu Bakr ki beti 'Hazrat Asma (RA)' ko 'Zat-un-Nitqain' (Do kamr-band wali) ka laqab kyun mila tha?",
+    "options": ["Unhone ghar-e-thawr khana pohanchane ke liye apna nithaq (belt) phada tha", "Unke paas do talwarein thin", "Wo do joray pehnti thin", "Unhone do shadiyan ki thin"],
+    "correctAnswer": "Unhone ghar-e-thawr khana pohanchane ke liye apna nithaq (belt) phada tha",
+    "explanation": "Hijrat ke dauran unhone khane ka thaila bandhne ke liye apne kamar-band (belt) ke do tukde kiye the, jis par nabi ﷺ ne unhe yeh laqab diya."
+  },
+  {
+    "level": 33,
+    "question": "Tareekh-e-Islam ki sabsay mashhoor 'Shayarah' (Poetess) aur Sahabiyat kaun thin jinhone Karbala aur Qadisiyah mein apne 4 bete kurban kiye?",
+    "options": ["Hazrat Khansa (RA)", "Hazrat Shifaa bint Abdullah", "Hazrat Umme Sulaim", "Hazrat Khawlah bint al-Azwar"],
+    "correctAnswer": "Hazrat Khansa (RA)",
+    "explanation": "Hazrat Khansa apni khubsoorat Arabic shayari aur bahaduri ke liye mashhoor thin, unke 4 bete Jang-e-Qadisiyah mein shaheed hue the."
+  },
+  {
+    "level": 33,
+    "question": "Hazrat Umar (RA) ne apne daur-e-khilafat mein kis parhi-likhi Sahabiyat ko Madinah ke market ka Accountability Officer (Market Inspector) banaya tha?",
+    "options": ["Hazrat Shifaa bint Abdullah", "Hazrat Umme Salama", "Hazrat Fatima bint al-Khattab", "Hazrat Rufaida"],
+    "correctAnswer": "Hazrat Shifaa bint Abdullah",
+    "explanation": "Hazrat Shifaa bint Abdullah bohot parhi likhi aur intelligent thin, Hazrat Umar unse sifaat aur administrative matters par raye liya karte the."
+  },
+  {
+    "level": 33,
+    "question": "Islam ki sabsay pehli Nurse aur Surgeon aurat kaun thin jinhone Masjid-e-Nabwi mein zakhmiyon ke liye tent lagaya tha?",
+    "options": ["Hazrat Rufaida Al-Aslamia", "Hazrat Umme Warakah", "Hazrat Nusaybah", "Hazrat Zainab"],
+    "correctAnswer": "Hazrat Rufaida Al-Aslamia",
+    "explanation": "Hazrat Rufaida Al-Aslamia ko Islam ki pehli female doctor/nurse mana jata hai jo Ghazwat mein zakhmi sahaba ka ilaaj karti thin."
+  },
+  {
+    "level": 33,
+    "question": "Hazrat Anas bin Malik (RA) ki walda ka naam kya tha jinhone mahr mein sirf 'Islam qubool karna' manga tha?",
+    "options": ["Hazrat Umme Sulaim (RA)", "Hazrat Umme Hani", "Hazrat Fatima bint Asad", "Hazrat Hind bint Utbah"],
+    "correctAnswer": "Hazrat Umme Sulaim (RA)",
+    "explanation": "Hazrat Umme Sulaim ne Abu Talha se shadi ke liye shart rakhi thi ke agar wo buraey chor kar Islam layein toh wo hi unka mahr hoga."
+  },
+  {
+    "level": 33,
+    "question": "Nabi e Kareem ﷺ ki us fia (aunt) ka naam batayein jinhone Ghazwa-e-Khandaq mein ek Yahudi jasoos ko qatal kiya tha?",
+    "options": ["Hazrat Safiyyah bint Abdul Muttalib", "Hazrat Atika", "Hazrat Umme Hani", "Hazrat Arwa"],
+    "correctAnswer": "Hazrat Safiyyah bint Abdul Muttalib",
+    "explanation": "Hazrat Safiyyah Hazrat Hamza ki sagi behen aur Hazrat Zubair ki maa thin. Unhone aurton ke kile mein ghusne wale jasoos ko khud jhande se mara tha."
+  },
+  {
+    "level": 33,
+    "question": "Kis Sahabiyat ke baare mein aata hai ke unki tilawat-e-quran aur ilm ki wajah se nabi ﷺ ne unhe apne ghar ka Imam banaya tha?",
+    "options": ["Hazrat Umme Waraqah bint Abdullah", "Hazrat Shifaa", "Hazrat Aisha", "Hazrat Umme Salama"],
+    "correctAnswer": "Hazrat Umme Waraqah bint Abdullah",
+    "explanation": "Hazrat Umme Waraqah ko Quran bohot achi tarah yaad tha, nabi ﷺ ne unhe ijazat di thi ke wo apne ghar ke ahl-e-khana ki imamat karein."
+  },
+  {
+    "level": 33,
+    "question": "Hazrat Ali (RA) ki walda jinhone nabi ﷺ ko bachpan mein pala aur nabi ﷺ ne unki qabar mein khud lait kar barkat di thi, kaun thin?",
+    "options": ["Hazrat Fatima bint Asad (RA)", "Hazrat Aminah", "Hazrat Halimah Saadia", "Hazrat Umme Ayman"],
+    "correctAnswer": "Hazrat Fatima bint Asad (RA)",
+    "explanation": "Hazrat Fatima bint Asad Abu Talib ki bivi thin, unhone nabi ﷺ se sagi maa jaisa pyar kiya, unke wafat par aap ﷺ ne apna kurta unke kafan ke liye diya."
+  },
+  {
+    "level": 34,
+    "question": "Makki Surahs aur Madani Surahs ke darmiyan classification ka buniyaadi rule kya hai?",
+    "options": ["Hijrat se pehle nazil hone wali Makki aur baad wali Madani", "Jo makkah mein nazil hui wo makki", "Choti surahs makki badi madani", "Jo arabs ke liye thin wo makki"],
+    "correctAnswer": "Hijrat se pehle nazil hone wali Makki aur baad wali Madani",
+    "explanation": "Yeh location par nahi balki time par depend karta hai. Agar koi aayat Makkah ke safar mein Hijrat ke baad nazil hui, toh wo bhi Madani hi kehlayegi."
+  },
+  {
+    "level": 34,
+    "question": "Makki Surahs ka buniyaadi aur main topic kya hota hai?",
+    "options": ["Aqaid (Tauheed, Risalat, Aakhirat)", "Ahkam o Laws (Zakat, Nikah, Hudood)", "Jihad rules", "Islamic finance"],
+    "correctAnswer": "Aqaid (Tauheed, Risalat, Aakhirat)",
+    "explanation": "Makkah ke 13 saal mein logon ka iman majboot kiya gaya, isliye Makki surahs mein jannat, jahannam aur tauheed ka zikr zyada hai."
+  },
+  {
+    "level": 34,
+    "question": "Madani Surahs ki buniyaadi phechan (Characteristics) kya hoti hai?",
+    "options": ["Isme Shariat ke laws, social rules aur Munafiqon ka zikr hai", "Yeh bohot choti hoti hain", "Isme har jaga 'Ya ayyuhan-nas' hota hai", "Isme qabar ka zikr nahi hota"],
+    "correctAnswer": "Isme Shariat ke laws, social rules aur Munafiqon ka zikr hai",
+    "explanation": "Madinah mein Islami state ban chuki thi, isliye wahan law-making hui aur munafiqeen paida hue jin ka parda-faash Madani surahs mein hai."
+  },
+  {
+    "level": 34,
+    "question": "Quran Majeed mein total 114 Surahs hain, unme se Makki Surahs ki taudad kitni hai?",
+    "options": ["86", "28", "90", "114"],
+    "correctAnswer": "86",
+    "explanation": "Standard aur aksar ulema ke mutabiq 86 Surahs Makki hain aur 28 Surahs Madani hain."
+  },
+  {
+    "level": 34,
+    "question": "Quran Majeed ki sabsay pehli Surah 'Surah Al-Fatiha' kya hai?",
+    "options": ["Makki (Aksar raye)", "Madani", "Mix", "Nisf Makki Nisf Madani"],
+    "correctAnswer": "Makki (Aksar raye)",
+    "explanation": "Surah Al-Fatiha Makki hai, halanke kuch ulema kehte hain ke yeh do baar nazil hui (Makkah aur Madinah dono mein)."
+  },
+  {
+    "level": 34,
+    "question": "Jis Surah mein 'Sajda-e-Tilawat' shamil ho, wo aam taur par kaunsi Surah hoti hai?",
+    "options": ["Makki Surah", "Madani Surah", "Badi Surah", "Aakhri para ki Surah"],
+    "correctAnswer": "Makki Surah",
+    "explanation": "Sajda wale ayat aksar Makki surahs mein aati hain kyunki mushrikeen-e-makkah ko khuda ke samne jhukne ka challenge diya jata tha."
+  },
+  {
+    "level": 34,
+    "question": "Quran Majeed ki sabsay lambi Surah 'Surah Al-Baqarah' kis category mein aati hai?",
+    "options": ["Madani", "Makki", "Mix Surah", "Pre-Hijrah"],
+    "correctAnswer": "Madani",
+    "explanation": "Surah Al-Baqarah Madinah ke aghaaz mein nazil hona shuru hui jisme bohot saare kanoon (zakat, roza, sood) bayaan kiye gaye."
+  },
+  {
+    "level": 34,
+    "question": "Makki Surahs mein aam taur par mukhatab (address) karne ke liye kaunse alfaaz aate hain?",
+    "options": ["Ya Ayyuha al-Nas (O Mankind)", "Ya Ayyuha al-Ladhina Amanu", "Ya Ahle Madinah", "Ya Ahle Kitab"],
+    "correctAnswer": "Ya Ayyuha al-Nas (O Mankind)",
+    "explanation": "Makkah mein saare log Musalman nahi the, isliye 'Ya Ayyuha al-Nas' (Ay Logon!) se khitab hota hai. Madinah mein 'Ya Ayyuha al-Ladhina Amanu' (Ay Iman Walon!) aaya."
+  },
+  {
+    "level": 34,
+    "question": "Surah Al-Anfal aur Surah At-Tawbah jinme Ghazwat aur Jihad ka zikr hai, kis category ki hain?",
+    "options": ["Madani Surahs", "Makki Surahs", "Chronological Mix", "Abrogated Surahs"],
+    "correctAnswer": "Madani Surahs",
+    "explanation": "Jihad ke ahkam aur dushmanon se muaahde khatam karne ka silsila Madinah mein hua, isliye yeh pure Madani surahs hain."
+  },
+  {
+    "level": 34,
+    "question": "Surah Al-Alaq ki pehli 5 ayat jo Ghar-e-Hira mein nazil huin, kis classification mein aati hain?",
+    "options": ["Makki (Sabsay pehli)", "Madani", "Middle era", "Late Makki"],
+    "correctAnswer": "Makki (Sabsay pehli)",
+    "explanation": "Nubuwwat ka aghaaz hi Makkah se hua, isliye 'Iqra bi-ismi rabbika...' sabsay pehli Makki revelation hai."
+  },
+  {
+    "level": 35,
+    "question": "Qayamat ke din har insaan ke aamal (deeds) check karne ke liye jo Tarazu/Scale lagaya jayega, use kya kehte hain?",
+    "options": ["Meezan", "Sirat", "Haud", "Arsh"],
+    "correctAnswer": "Meezan",
+    "explanation": "Surah Al-Anbiya ke mutabiq Allah Qayamat ke din bilkul accurate 'Meezan' (Insaaf ka tarazu) rakhega jisme rae barabar aamal bhi tola jayega."
+  },
+  {
+    "level": 35,
+    "question": "Jahannam ke oopar banaya gaya baareek aur teiz rasta jise sab ko paar karna hoga, kya kehlata hai?",
+    "options": ["Pul-e-Sirat", "Meezan", "Kauthar", "Araf"],
+    "correctAnswer": "Pul-e-Sirat",
+    "explanation": "Pul-e-Sirat baareek aur talwar se zyada teiz hoga, naik log apne aamal ke mutabiq bijli ki tarah paar kar jayenge aur gunahgar jahannam mein gir jaenge."
+  },
+  {
+    "level": 35,
+    "question": "Qayamat ke din nabi ﷺ ko ek khas paani ka talaab diya jayega jiska paani peene ke baad kabhi pyaas nahi lagegi, uska naam kya hai?",
+    "options": ["Haud-e-Kauthar", "Zamzam", "Salsabeel", "Tasneem"],
+    "correctAnswer": "Haud-e-Kauthar",
+    "explanation": "Haud-e-Kauthar nabi ﷺ ko ata shuda talaab hai jiska paani doodh se zyada safaid aur shehad se zyada meetha hoga."
+  },
+  {
+    "level": 35,
+    "question": "Jannat aur Jahannam ke darmiyan unchi deewar/alaqay ko kya kehte hain jahan wo log honge jinki naikiyan aur buraiyan barabar hongi?",
+    "options": ["Al-A'raf", "Barzakh", "Illiyyin", "Sijjin"],
+    "correctAnswer": "Al-A'raf",
+    "explanation": "Surah A'raf mein iska zikr hai. Yeh log kuch arsa wahan thairne ke baad bil-aakhir Allah ki rehmat se jannat mein chale jayenge."
+  },
+  {
+    "level": 35,
+    "question": "Qayamat ke din sabsay pehle Sifaat (Intercession) karne ka haq aur ijazat kis hasti ko milegi?",
+    "options": ["Nabi e Kareem ﷺ", "Hazrat Adam", "Hazrat Jibrail", "Hazrat Ibrahim"],
+    "correctAnswer": "Nabi e Kareem ﷺ",
+    "explanation": "Sifaat-e-Kubra sirf nabi ﷺ ka muqam hoga jab saare log pareshan hokar Maidan-e-Mahshar mein aap ﷺ ke paas aayenge."
+  },
+  {
+    "level": 35,
+    "question": "Qayamat ke din buray aur badkaar logon ka aamal-nama kis haath mein diya jayega?",
+    "options": ["Baayein haath (Left hand) ya peechay se", "Daayein haath (Right hand)", "Dono haath mein", "Sarr par"],
+    "correctAnswer": "Baayein haath (Left hand) ya peechay se",
+    "explanation": "Quran ke mutabiq kamyab logon ko seedhe haath mein aur nakaam logon ko baayein haath ya peeth ke peechay se unka record milega."
+  },
+  {
+    "level": 35,
+    "question": "Naik aur sacche momineen ke rooh aur aamal-naame ko kis unche muqam par mahfooz rakha jata hai?",
+    "options": ["Illiyyin", "Sijjin", "Barzakh", "Araf"],
+    "correctAnswer": "Illiyyin",
+    "explanation": "Surah Mutaffifeen ke mutabiq 'Naik logon ka record Illiyyin mein hai', jo sabsay uncha aur pakiza muqam hai."
+  },
+  {
+    "level": 35,
+    "question": "Badkaar, kafir aur shateer logon ki rooh aur unka record kis nichle darjay mein qaid rakha jata hai?",
+    "options": ["Sijjin", "Illiyyin", "Hawiyah", "Jahannam"],
+    "correctAnswer": "Sijjin",
+    "explanation": "Surah Mutaffifeen mein zikr hai ke fujjaar (badkaaron) ka amaal-nama 'Sijjin' mein hai, jo ek tang aur gehra qaid-khana hai."
+  },
+  {
+    "level": 35,
+    "question": "Qayamat ke din Maidan-e-Mahshar mein suraj takreeban kitne fasle par aakar aag barsayega?",
+    "options": ["Ek Mile (One Mile)", "Sawa Naiza", "10 km", "Bohot door"],
+    "correctAnswer": "Ek Mile (One Mile)",
+    "explanation": "Hadees ke mutabiq suraj bilkul qareeb (ek mile ke fasle par) hoga aur log apne gunahon ke mutabiq paseene mein doobe honge."
+  },
+  {
+    "level": 35,
+    "question": "Mahshar ki unch-neech aur garmi mein wo kaunse khush-kismat log honge jinhe Allah ke Arsh ka saya (Shade) milega?",
+    "options": ["7 qisam ke log (Jaise adil badshah, jawani me ibadat karne wala)", "Sirf ameer log", "Sirf makkah wale", "Har koi"],
+    "correctAnswer": "7 qisam ke log (Jaise adil badshah, jawani me ibadat karne wala)",
+    "explanation": "Sahih Bukhari ki hadees ke mutabiq 7 logon ko us din khas saya milega jahan koi saya nahi hoga, jaise wo shakhs jo tanhai mein khuda ko yaad karke roye."
+  },
+  {
+    "level": 36,
+    "question": "Sunni Islam mein Fiqh (Jurisprudence) ke kitne main authentic legal schools (Madahib) dunya bhar mein follow kiye jate hain?",
+    "options": ["4", "5", "3", "7"],
+    "correctAnswer": "4",
+    "explanation": "Charon mashhoor Sunni madahib hain: Hanafi, Maliki, Shafi'i, aur Hanbali. Yeh sab aqaid mein ek hain lekin secondary laws mein ikhtilaf rakhte hain."
+  },
+  {
+    "level": 36,
+    "question": "Shia Islam ke sabsay bade aur main theological school ko kya kehte hain jo 12 Imamon par yaqeen rakhta hai?",
+    "options": ["Ithna Ashari (Twelvers)", "Zaydiyyah", "Ismailiyah", "Ibadi"],
+    "correctAnswer": "Ithna Ashari (Twelvers)",
+    "explanation": "Shia Ithna Ashari (Twelvers) sabsay bada Shia group hai jo Hazrat Ali se lekar Imam Mahdi tak 12 imamon ko maanta hai."
+  },
+  {
+    "level": 36,
+    "question": "Musalmanon ka wo purana sect (school) kaunsa tha jo itna extremist tha ke gunah-e-kabeera karne wale ko direct kafir aur wajib-ul-qatal kehta تھا?",
+    "options": ["Kharijites (Khawarij)", "Murji'ah", "Mu'tazila", "Ash'ari"],
+    "correctAnswer": "Kharijites (Khawarij)",
+    "explanation": "Khawarij wo log the jinhone Hazrat Ali aur Hazrat Muawiyah dono ke khilaf baghawat ki aur aam musalmanon ko kafir thairaya."
+  },
+  {
+    "level": 36,
+    "question": "Abbasid daur mein uruj pane wala 'Mu'tazila' sect kis cheez ko wahi (Revelation) par tarjeeh deta tha?",
+    "options": ["Aqal o Mantiq (Reason & Rationalism)", "Kashf", "Shayari", "Purani kitabein"],
+    "correctAnswer": "Aqal o Mantiq (Reason & Rationalism)",
+    "explanation": "Mu'tazila rationalist group tha jo har Islami aqeede ko sirf insani aqal se sabit karna chahta tha, unhone hi 'Khalq-e-Quran' ka masla uthaya tha."
+  },
+  {
+    "level": 36,
+    "question": "Sunni Islam ke buniyaadi Aqaid (Theology) ko codify karne wale do sabsay bade orthodox schools kaunse hain?",
+    "options": ["Ash'ari aur Maturidi", "Mu'tazila aur Hanafi", "Sufi aur Salafi", "Ibadi aur Khariji"],
+    "correctAnswer": "Ash'ari aur Maturidi",
+    "explanation": "Imam Abu al-Hasan al-Ash'ari aur Imam Abu Mansur al-Maturidi ne rationalism ka radd karke Sunni aqaid ko systemize kiya."
+  },
+  {
+    "level": 36,
+    "question": "Oman (Middle East) mein sabsay zyada follow kiya jane wala sect kaunsa hai jo na pure Sunni hai na Shia?",
+    "options": ["Ibadi", "Zaydi", "Ismaili", "Zaahiri"],
+    "correctAnswer": "Ibadi",
+    "explanation": "Ibadi sect Khawarij se shuruat mein alag hone wala ek moderate group hai jo aaj Oman ka main official sect hai."
+  },
+  {
+    "level": 36,
+    "question": "Yemen mein waqe Shia sect 'Zaydiyyah' ko baaki Shia se alag kyun mana jata hai buniyaadi taur par?",
+    "options": ["Wo Khulafa-e-Rashideen (Abu Bakr o Umar) par tabarra nahi karte aur Sunniyon ke qareeb hain", "Wo quran nahi maante", "Wo namaz nahi parhte", "Wo makkah nahi jate"],
+    "correctAnswer": "Wo Khulafa-e-Rashideen (Abu Bakr o Umar) par tabarra nahi karte aur Sunniyon ke qareeb hain",
+    "explanation": "Zaydi Shia Imam Zayd bin Ali ke follower hain, wo pehle khulafa ki khilafat ko jaiz maante hain aur fikh mein Hanafi ke kafi qareeb hain."
+  },
+  {
+    "level": 36,
+    "question": "Islamic mysticism, tazkiyah-e-nafs aur roohaniat ke nizaam ko academic terms mein kya kehte hain?",
+    "options": ["Tasawwuf (Sufism)", "Ilm al-Kalam", "Ijtihad", "Fiqh"],
+    "correctAnswer": "Tasawwuf (Sufism)",
+    "explanation": "Tasawwuf darasal Dil ki pakizgi, ihsan aur Allah se gehre taaluq ka naam hai jisme Chishtiyah, Qadiriyah silsile aate hain."
+  },
+  {
+    "level": 36,
+    "question": "Aisa fikr (School of thought) jo blind taqlid (blind following) ko radd karke direct Hadees par amal karne par zor deta hai, use aam taur par kya kehte hain?",
+    "options": ["Ahl-e-Hadees / Salafi", "Hanafi", "Deobandi", "Barelvi"],
+    "correctAnswer": "Ahl-e-Hadees / Salafi",
+    "explanation": "Salafi ya Ahl-e-Hadees kisi ek imam ki fiqhi taqlid nahi karte balki direct Sahaba ke tarz par sahih hadees ko follow karte hain."
+  },
+  {
+    "level": 36,
+    "question": "Sufism ke mashhoor 4 buniyaadi silsilon (Orders) mein se 'Suhrwardiyah' aur 'Chishtiyah' ke ilawa baaki do kaunse hain?",
+    "options": ["Qadiriyah aur Naqshbandiyah", "Ash'ari aur Hanafi", "Wahabi aur Shia", "Maliki aur Shafi'i"],
+    "correctAnswer": "Qadiriyah aur Naqshbandiyah",
+    "explanation": "Charon major Sufi orders hain: Qadiriyah (Sheikh Abdul Qadir Jilani), Naqshbandiyah, Chishtiyah aur Suhrwardiyah."
+  },
+  {
+    "level": 37,
+    "question": "Khulafa-e-Rashideen ke baad tareekh-e-Islam ki sabsay pehli Dynasty (Saltanat) kaunsi bani jiska capital Damascus tha?",
+    "options": ["Umayyad Caliphate (Banu Umayyah)", "Abbasid Caliphate", "Ottoman Empire", "Fatimid Caliphate"],
+    "correctAnswer": "Umayyad Caliphate (Banu Umayyah)",
+    "explanation": "Hazrat Muawiyah (RA) ne 41 Hijri mein Umayyad Caliphate ki buniyaad rakhi jisne takreeban 90 saal tak hukumat ki."
+  },
+  {
+    "level": 37,
+    "question": "Spain (Andalus) par 711 AD mein kis mashhoor Umayyad sipah-salar ne fatah hasil ki thi?",
+    "options": ["Tariq bin Ziyad", "Muhammad bin Qasim", "Qutaybah bin Muslim", "Musa bin Nusayr"],
+    "correctAnswer": "Tariq bin Ziyad",
+    "explanation": "Tariq bin Ziyad ne Gibraltar (Jabal-al-Tariq) par utar kar apni kashtiyan jala di thin aur Spain fatah kiya tha."
+  },
+  {
+    "level": 37,
+    "question": "Abbasid Caliphate (Banu Abbas) ka sabsay khubsoorat aur sunahri daur kis shehar ke tabah hone tak qaim raha?",
+    "options": ["Baghdad (Halagu Khan ke hamle tak)", "Damascus", "Cairo", "Istanbul"],
+    "correctAnswer": "Baghdad (Halagu Khan ke hamle tak)",
+    "explanation": "1258 AD mein Mongols ke sardaar Halagu Khan ne Baghdad ko poori tarah tabah kiya aur Abbasid khilafat ka sabsay bada markaz khatam kar diya."
+  },
+  {
+    "level": 37,
+    "question": "Banu Umayyah ke kis Caliph ko unki insaaf-pasandi aur taqwa ki wajah se 'Fifth Righteous Caliph' (Paanchwan Khalifa-e-Rashid) kaha jata hai?",
+    "options": ["Umar bin Abdul Aziz", "Marwan", "Walid I", "Hisham"],
+    "correctAnswer": "Umar bin Abdul Aziz",
+    "explanation": "Hazrat Umar bin Abdul Aziz ne apne chote se daur mein Khilafat-e-Rashidah ka adl o insaaf dobara zinda kar diya tha."
+  },
+  {
+    "level": 37,
+    "question": "Egypt (Misr) aur North Africa par hukumat karne wali mashhoor Shia saltanat ka kya naam tha jinhone Cairo shehar basaya?",
+    "options": ["Fatimid Caliphate (Ahl-e-Fatima)", "Ayyubid Dynasty", "Mamluk Sultanate", "Safavid Empire"],
+    "correctAnswer": "Fatimid Caliphate (Ahl-e-Fatima)",
+    "explanation": "Fatimids ne Al-Azhar Mosque banayi aur Cairo ko apna capital banaya, yeh saltanat Sultan Salahuddin Ayyubi ke hathon khatam hui."
+  },
+  {
+    "level": 37,
+    "question": "Crusaders (Isaiyon) se Jerusalem (Al-Quds) ko 1187 AD mein fatah karne wale sabsay mard-e-hur Muslim leader kaun the?",
+    "options": ["Sultan Salahuddin Ayyubi", "Sultan Nuruddin Zengi", "Sultan Baybars", "Alp Arslan"],
+    "correctAnswer": "Sultan Salahuddin Ayyubi",
+    "explanation": "Sultan Salahuddin Ayyubi ne Battle of Hattin mein Isaiyon ko harakar takreeban 88 saal baad Jerusalem dobara fatah kiya."
+  },
+  {
+    "level": 37,
+    "question": "Ottoman Empire (Saltanat-e-Usmania) ke kis young Sultan ne 1453 AD mein mashhoor Constantinople (Kustuntuniya/Istanbul) fatah kiya?",
+    "options": ["Sultan Mehmed II (The Conqueror)", "Sultan Suleiman the Magnificent", "Sultan Ertugrul", "Sultan Abdul Hamid II"],
+    "correctAnswer": "Sultan Mehmed II (The Conqueror)",
+    "explanation": "Sultan Mehmed Fateh ne sirf 21 saal ki umr mein Roman Empire ke sabsay mazboot capital Constantinople ko fatah karke nabi ﷺ ki bisharat poori ki."
+  },
+  {
+    "level": 37,
+    "question": "Sultan Suleiman the Magnificent ke daur mein Ottoman Empire ki sar-haddein Europe mein kahan tak pohanch gayi thin?",
+    "options": ["Vienna (Austria) tak", "London tak", "Paris tak", "Madrid tak"],
+    "correctAnswer": "Vienna (Austria) tak",
+    "explanation": "Sultan Suleiman ne Europe ke dil 'Vienna' ka muhasara (Siege of Vienna) kiya tha aur poora Eastern Europe Usmania saltanat ke tehat tha."
+  },
+  {
+    "level": 37,
+    "question": "Sub-continent (Hind) mein 1206 AD mein sabsay pehli Islami saltanat 'Sultanate of Delhi' ke baani kaun the?",
+    "options": ["Qutb-ud-din Aibak", "Mahmud Ghaznavi", "Muhammad Ghori", "Babur"],
+    "correctAnswer": "Qutb-ud-din Aibak",
+    "explanation": "Sultan Qutb-ud-din Aibak ne Delhi mein Slave Dynasty (Khandan-e-Ghulamah) ki buniyaad rakhi jahan se Delhi Sultanate shuru hui."
+  },
+  {
+    "level": 37,
+    "question": "Ottoman Khilafat (Usmania Caliphate) ko officially kis saal modern Turkey mein Mustafa Kemal Ataturk ne khatam kiya?",
+    "options": ["1924", "1914", "1947", "1930"],
+    "correctAnswer": "1924",
+    "explanation": "World War 1 ke baad, March 1924 mein Ataturk ne khilafat ka nizaam bilkul khatam karke Turkey ko secular republic bana diya."
+  },
+  {
+    "level": 38,
+    "question": "Waqia-e-Karbala kis Islami (Hijri) saal mein pesh aaya tha?",
+    "options": ["61 Hijri", "40 Hijri", "73 Hijri", "50 Hijri"],
+    "correctAnswer": "61 Hijri",
+    "explanation": "10 Muharram 61 Hijri ko Hazrat Imam Hussain (RA) aur unke khandaan ko Karbala ke maidan mein shaheed kiya gaya."
+  },
+  {
+    "level": 38,
+    "question": "Imam Hussain (RA) ko kis Umayyad ruler ke hukm aur baet na karne par shaheed kiya gaya?",
+    "options": ["Yazid bin Muawiyah", "Marwan", "Abdul Malik", "Walid"],
+    "correctAnswer": "Yazid bin Muawiyah",
+    "explanation": "Yazid ne apni baet lene ke liye Kufah ke governor Ibn Ziyad ko bheja, aur Imam Hussain ne us buraey ke nizaam par baet karne se saaf inkar kiya."
+  },
+  {
+    "level": 38,
+    "question": "Karbala ka maidan modern geography ke mutabiq kis mulk (Country) mein waqe hai?",
+    "options": ["Iraq", "Saudi Arabia", "Iran", "Syria"],
+    "correctAnswer": "Iraq",
+    "explanation": "Karbala Iraq ka ek mashhoor shehar hai jo Baghdad se takreeban 100 kilometer South-West mein hai."
+  },
+  {
+    "level": 38,
+    "question": "Karbala ke maidan mein Yazidi lashkar ka sabsay bada sipah-salar aur incharge kaun tha?",
+    "options": ["Umar ibn Sa'ad", "Shimr Ziljawshan", "Ubaidullah ibn Ziyad", "Hurr"],
+    "correctAnswer": "Umar ibn Sa'ad",
+    "explanation": "Umar ibn Sa'ad (jo ke Hazrat Saad bin Abi Waqas ka beta tha) Karbala mein Yazidi fauj ka main commander tha, jabke Shimr ne aakhri waar kiya tha."
+  },
+  {
+    "level": 38,
+    "question": "Karbala mein Yazidi lashkar se baghawat karke Imam Hussain ke sath shamil hone wale mashhoor commander kaun the?",
+    "options": ["Hurr ibn Yazid al-Tamimi", "Zuhair bin Qain", "Habib bin Mazahir", "Muslim bin Aqeel"],
+    "correctAnswer": "Hurr ibn Yazid al-Tamimi",
+    "explanation": "Hazrat Hurr pehle dushman fauj mein the, lekin sachaey ka ilm hone par wo 10 Muharram ki subah Imam Hussain ke sath mile aur shaheed hue."
+  },
+  {
+    "level": 38,
+    "question": "Imam Hussain (RA) ke sabsay chote 6 maah (6 months) ke bete ka naam kya tha jo tishna-kami (pyaas) mein teer lagne se shaheed hue?",
+    "options": ["Ali Asghar", "Ali Akbar", "Qasim", "Zain-ul-Abideen"],
+    "correctAnswer": "Ali Asghar",
+    "explanation": "Hazrat Ali Asghar sirf 6 mahine ke the, jab Imam Hussain unhe pyaas ki shiddat mein paani mangne laye toh Hurmula ne unke gale par teer mara."
+  },
+  {
+    "level": 38,
+    "question": "Imam Hussain ke bade bhai Hazrat Hasan (RA) ke kis jawan bete ki shadi ki riwayat Karbala se mansoor hai aur wo shaheed hue?",
+    "options": ["Hazrat Qasim bin Hasan", "Hazrat Abdullah", "Hazrat Akbar", "Hazrat Abbas"],
+    "correctAnswer": "Hazrat Qasim bin Hasan",
+    "explanation": "Hazrat Qasim Imam Hasan ke jawan aur haseen bete the jinhone Karbala mein bahaduri se ladte hue shahadat paayin."
+  },
+  {
+    "level": 38,
+    "question": "Karbala ke maidan mein Imam Hussain ke lashkar ka 'Alamdar' (Flag-bearer) kaun tha jo darya se paani lane gaye the?",
+    "options": ["Hazrat Abbas bin Ali", "Hazrat Jafar", "Hazrat Aun", "Hazrat Muhammad"],
+    "correctAnswer": "Hazrat Abbas bin Ali",
+    "explanation": "Hazrat Abbas (RA) jo ke 'Ghazee' ke naam se mashhoor hain, Hazrat Ali ke bete aur Imam Hussain ke bhai the, unke dono haath paani ki mashk laate hue kaat diye gaye."
+  },
+  {
+    "level": 38,
+    "question": "Karbala ke muqaddas shuhada mein se mardoon (Men) mein sabsay wahid zinda bachne wale hasti kaun thin jo bimar the?",
+    "options": ["Imam Ali Zain-ul-Abideen", "Imam Baqir", "Hazrat Abbas", "Hazrat Muhammad al-Hanafiyyah"],
+    "correctAnswer": "Imam Ali Zain-ul-Abideen",
+    "explanation": "Imam Zain-ul-Abideen (Hazrat Ali bin Hussain) sakht bimar the isliye jang na kar sake, unhi se aage Saadat/Ahle-Bait ki nasal chali."
+  },
+  {
+    "level": 38,
+    "question": "Karbala ke baad Yazid ke darbar (Damascus) mein khade hokar khutba dene wali aur Karbala ka paigham zinda rakhne wali Sher-dil khatoon kaun thin?",
+    "options": ["Hazrat Zainab bint Ali", "Hazrat Umme Kulthoom", "Hazrat Fatimah Sughra", "Hazrat Rubab"],
+    "correctAnswer": "Hazrat Zainab bint Ali",
+    "explanation": "Hazrat Zainab (RA) jo Imam Hussain ki sagi behen thin, unhone Kufah aur Damascus ke darbaron mein Yazid ke zulm ko lalkara aur khutbe diye jo tareekh ka hissa hain."
+  },
+  {
+    "level": 39,
+    "question": "Islam ki shuruati dawat ke baad, Sahaba ne pehli hijrat kis mulk ki taraf ki thi?",
+    "options": ["Habsha (Abyssinia)", "Misr (Egypt)", "Iran", "Yaman"],
+    "correctAnswer": "Habsha (Abyssinia)",
+    "explanation": "Makkah ke kuffar ke zulm se bachne ke liye Sahaba ne pehli hijrat Habsha ki taraf ki thi."
+  },
+  {
+    "level": 39,
+    "question": "Kis Khalifa ke daur mein Islam Arab se nikal kar Iran, Iraq aur Misr tak phaila?",
+    "options": ["Hazrat Abu Bakr (RA)", "Hazrat Umar (RA)", "Hazrat Usman (RA)", "Hazrat Ali (RA)"],
+    "correctAnswer": "Hazrat Umar (RA)",
+    "explanation": "Hazrat Umar Farooq (RA) ke daur-e-khilafat mein Islamic State ka sab se zyada expansion hua."
+  },
+  {
+    "level": 39,
+    "question": "Spain (Andalusia) ko fatah karne wale mashhoor Muslim sipah-salar ka naam kya tha?",
+    "options": ["Tariq bin Ziyad", "Muhammad bin Qasim", "Salahuddin Ayyubi", "Khalid bin Walid"],
+    "correctAnswer": "Tariq bin Ziyad",
+    "explanation": "Tariq bin Ziyad ne 711 AD mein Spain fatah kiya aur kashtiyan jala kar tareekh raqam ki."
+  },
+  {
+    "level": 39,
+    "question": "Subcontinent (Sindh) mein Islam ka rasta kis ne khola?",
+    "options": ["Mahmud Ghaznavi", "Muhammad bin Qasim", "Shahabuddin Ghauri", "Kutbuddin Aibak"],
+    "correctAnswer": "Muhammad bin Qasim",
+    "explanation": "Muhammad bin Qasim ne 712 AD mein Raja Dahir ko shikast de kar Sindh mein Islam ka rasta khola."
+  },
+  {
+    "level": 39,
+    "question": "Central Asia aur Bukhara ke ilaqaon mein Islam kis sadi mein tezi se phaila?",
+    "options": ["5th Century", "8th Century", "12th Century", "15th Century"],
+    "correctAnswer": "8th Century",
+    "explanation": "Umayyad daur (8th Century) mein Qutayba bin Muslim ki qiyadat mein Central Asia tak Islam phaila."
+  },
+  {
+    "level": 39,
+    "question": "Jerusalem (Al-Quds) ko Crusader se dobara azad karwane wale Muslim leader kaun the?",
+    "options": ["Sultan Salahuddin Ayyubi", "Sultan Baybars", "Nuruddin Zengi", "Alp Arslan"],
+    "correctAnswer": "Sultan Salahuddin Ayyubi",
+    "explanation": "Sultan Salahuddin Ayyubi ne Battle of Hattin (1187) ke baad Jerusalem ko dobara azad karwaya."
+  },
+  {
+    "level": 39,
+    "question": "Constantinople (Istanbul) ko fatah karne wale Ottoman Sultan ka naam kya tha?",
+    "options": ["Sultan Suleiman", "Sultan Mehmed II (Fatih)", "Sultan Murad", "Sultan Selim"],
+    "correctAnswer": "Sultan Mehmed II (Fatih)",
+    "explanation": "Sultan Mehmed II ne 1453 mein Constantinople fatah kiya aur unhein 'Al-Fatih' kaha jata hai."
+  },
+  {
+    "level": 39,
+    "question": "Africa ke kis mashhoor shehar ko Islamic learning aur trade ka bada markaz mana jata tha?",
+    "options": ["Timbuktu", "Cairo", "Marrakech", "Tripoli"],
+    "correctAnswer": "Timbuktu",
+    "explanation": "Mali Empire ka shehar Timbuktu apni badi universities aur Islamic manuscripts ke liye mashhoor tha."
+  },
+  {
+    "level": 39,
+    "question": "Southeast Asia (Indonesia aur Malaysia) mein Islam ke phailne ki sab se badi wajah kya thi?",
+    "options": ["Jang (War)", "Tijarat aur Sufiya (Trade & Sufism)", "Siyasi Muahde", "Sarkari Hukm"],
+    "correctAnswer": "Tijarat aur Sufiya (Trade & Sufism)",
+    "explanation": "Muslim tajiron aur Sufi-e-Karam ke behtareen akhlaq ki wajah se Southeast Asia mein Islam phaila."
+  },
+  {
+    "level": 39,
+    "question": "Islamic Architecture ka behtareen Shahkar 'Alhambra Palace' kis mulk mein waqe hai?",
+    "options": ["Turkey", "Egypt", "Spain", "Morocco"],
+    "correctAnswer": "Spain",
+    "explanation": "Alhambra Palace Granada (Spain) mein waqe hai, jo Moorish architecture ki nishani hai."
+  },
+  {
+    "level": 40,
+    "question": "Algebra ka baani (Founder) kis Muslim scientist ko mana jata hai?",
+    "options": ["Al-Khwarizmi", "Ibn Sina", "Al-Biruni", "Al-Razi"],
+    "correctAnswer": "Al-Khwarizmi",
+    "explanation": "Muhammad ibn Musa al-Khwarizmi ne 'Kitab al-Jabr' likhi, jahan se Algebra ka aghaaz hua."
+  },
+  {
+    "level": 40,
+    "question": "Medical science ki mashhoor kitab 'The Canon of Medicine' kis ne likhi jise Europe mein sadiyon tak padhaya gaya?",
+    "options": ["Ibn al-Haytham", "Ibn Sina (Avicenna)", "Al-Kindi", "Jabir ibn Hayyan"],
+    "correctAnswer": "Ibn Sina (Avicenna)",
+    "explanation": "Ibn Sina ko West mein Avicenna kaha jata hai aur unki medical book sadiyon tak standard bani rahi."
+  },
+  {
+    "level": 40,
+    "question": "Modern Optics (Camera obscura/Pin-hole camera) ka concept kis Muslim scientist ne diya?",
+    "options": ["Ibn al-Haytham", "Al-Zahrawi", "Al-Battani", "Ibn Rushd"],
+    "correctAnswer": "Ibn al-Haytham",
+    "explanation": "Ibn al-Haytham (Alhazen) ne 'Kitab al-Manazir' mein light aur vision ke laws banye."
+  },
+  {
+    "level": 40,
+    "question": "Father of Chemistry kis Muslim scientist ko kaha jata hai?",
+    "options": ["Jabir ibn Hayyan", "Al-Farabi", "Ibn Khaldun", "Al-Masudi"],
+    "correctAnswer": "Jabir ibn Hayyan",
+    "explanation": "Jabir ibn Hayyan (Geber) ne crystallization, distillation aur filtration jaise chemical processes ijad kiye."
+  },
+  {
+    "level": 40,
+    "question": "Duniya ki sab se pehli degree-granting University (University of al-Qarawiyyin) kis ne banayi thi?",
+    "options": ["Fatima al-Fihri", "Sultan Harun al-Rashid", "Imam Ghazali", "Razia Sultana"],
+    "correctAnswer": "Fatima al-Fihri",
+    "explanation": "Fatima al-Fihri ne 859 AD mein Morocco ke shehar Fez mein yeh university qaim ki thi."
+  },
+  {
+    "level": 40,
+    "question": "Abbasid daur mein Baghdad mein qaim kiye gaye mashhoor Intellectual Center ka naam kya tha?",
+    "options": ["Bayt al-Hikma (House of Wisdom)", "Dar al-Uloom", "Jamia Azhar", "Bayt al-Mal"],
+    "correctAnswer": "Bayt al-Hikma (House of Wisdom)",
+    "explanation": "Bayt al-Hikma mein duniya bhar ki kitabon ko ik इकट्ठा karke unka Arabic translation kiya jata tha."
+  },
+  {
+    "level": 40,
+    "question": "Father of Surgery kis Muslim scientist ko mana jata hai, jinhone bohot se surgical instruments ijad kiye?",
+    "options": ["Al-Zahrawi (Abulcasis)", "Ibn Nafis", "Al-Razi", "Ibn Zuhr"],
+    "correctAnswer": "Al-Zahrawi (Abulcasis)",
+    "explanation": "Al-Zahrawi ne 'Al-Tasrif' kitab likhi jismein unhone 200 se zyada surgical tools design kiye the."
+  },
+  {
+    "level": 40,
+    "question": "Duniya mein sab se pehle Insani Blood Circulation (Pneumatic/Pulmonary) ko kis ne sahi se explain kiya?",
+    "options": ["Ibn al-Nafis", "Ibn Sina", "Al-Biruni", "Galen"],
+    "correctAnswer": "Ibn al-Nafis",
+    "explanation": "Ibn al-Nafis ne sadiyon pehle blood circulation ka bilkul darust scientific bayaan diya tha."
+  },
+  {
+    "level": 40,
+    "question": "Sociology aur Historiography (History writing) ka baani kis Muslim thinker ko mana jata hai?",
+    "options": ["Ibn Khaldun", "Al-Ghazali", "Ibn Rushd", "Al-Mawardi"],
+    "correctAnswer": "Ibn Khaldun",
+    "explanation": "Ibn Khaldun ne apni mashhoor kitab 'Muqaddimah' mein social sciences ki buniyad rakhi."
+  },
+  {
+    "level": 40,
+    "question": "Kis Muslim scientist ne Earth ka radius (size) bilkul accurate calculate kiya tha?",
+    "options": ["Al-Biruni", "Al-Khwarizmi", "Omar Khayyam", "Ulugh Beg"],
+    "correctAnswer": "Al-Biruni",
+    "explanation": "Al-Biruni ne Pind Dadan Khan (Pakistan) ke muqam par trigonometric formulas se zameen ka size napa tha."
   }
 ]
