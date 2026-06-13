@@ -11,6 +11,7 @@ import pictureRoutes from './routes/pictureRoutes.js'
 import aalimRoutes from './routes/aalimRoutes.js'
 import getQuiz from './routes/getQuiz.js'
 import tajweedRoutes from './routes/tajweedRoutes.js'
+import counterRoutes from './routes/counterRoutes.js'
 import storiesRoutes from './routes/storiesRoutes.js'
 import notificationRoutes from "./routes/notificationRoutes.js";
 
@@ -47,6 +48,7 @@ app.use('/api/getdua', duaRoutes);
 app.use('/api/user',pictureRoutes);
 app.use('/api/aalim',aalimRoutes);
 app.use('/api/stories',storiesRoutes);
+app.use('/api/counter',counterRoutes);
 app.use('/get-quiz',getQuiz);
 app.use('/tajweed',tajweedRoutes);
 app.use("/api/notifications", notificationRoutes);

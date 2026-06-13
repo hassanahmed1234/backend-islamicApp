@@ -3,6 +3,7 @@ import { TajweedRule, WordPool } from '../models/TajweedGame.js';
 
 export const getGameData = async (req, res) => {
   try {
+    
     // Database se dono collections ka data parallel fetch karein
     const [rules, words] = await Promise.all([
       TajweedRule.find({}),

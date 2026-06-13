@@ -1,0 +1,122 @@
+[
+  {
+    "id": "qalqalah",
+    "name": "Qalqalah (Echoing)",
+    "color": "#4ADE80",
+    "bgColor": "#DCFCE7"
+  },
+  {
+    "id": "ghunnah",
+    "name": "Ghunnah (Nasal)",
+    "color": "#A78BFA",
+    "bgColor": "#F3E8FF"
+  },
+  {
+    "id": "madd",
+    "name": "Madd (Elongation)",
+    "color": "#F43F5E",
+    "bgColor": "#FFE4E6"
+  },
+  {
+    "id": "ikhfa",
+    "name": "Ikhfa (Concealment)",
+    "color": "#3B82F6",
+    "bgColor": "#DBEAFE"
+  },
+  {
+    "id": "idgham",
+    "name": "Idgham (Merging)",
+    "color": "#F59E0B",
+    "bgColor": "#FEF3C7"
+  },
+  {
+    "id": "iqlab",
+    "name": "Iqlab (Conversion)",
+    "color": "#10B981",
+    "bgColor": "#D1FAE5"
+  },
+  {
+    "id": "izhar",
+    "name": "Izhar (Clear Pronunciation)",
+    "color": "#EF4444",
+    "bgColor": "#FEE2E2"
+  },
+  {
+    "id": "tafkheem",
+    "name": "Tafkheem (Heavy Letters)",
+    "color": "#8B5CF6",
+    "bgColor": "#EDE9FE"
+  },
+  {
+    "id": "tarqeeq",
+    "name": "Tarqeeq (Light Pronunciation)",
+    "color": "#06B6D4",
+    "bgColor": "#CFFAFE"
+  },
+  {
+    "id": "madd_asli",
+    "name": "Madd Asli (Natural Stretch)",
+    "color": "#EC4899",
+    "bgColor": "#FCE7F3"
+  },
+  {
+    "id": "madd_munfasil",
+    "name": "Madd Munfasil (Separated Stretch)",
+    "color": "#14B8A6",
+    "bgColor": "#CCFBF1"
+  },
+  {
+    "id": "madd_muttasil",
+    "name": "Madd Muttasil (Connected Stretch)",
+    "color": "#F97316",
+    "bgColor": "#FED7AA"
+  },
+  {
+    "id": "idgham_ghunnah",
+    "name": "Idgham with Ghunnah",
+    "color": "#6366F1",
+    "bgColor": "#E0E7FF"
+  },
+  {
+    "id": "idgham_no_ghunnah",
+    "name": "Idgham without Ghunnah",
+    "color": "#D946EF",
+    "bgColor": "#FAE8FF"
+  },
+  {
+    "id": "ikhfa_shafawi",
+    "name": "Ikhfa Shafawi",
+    "color": "#22C55E",
+    "bgColor": "#DCFCE7"
+  },
+  {
+    "id": "idgham_shafawi",
+    "name": "Idgham Shafawi",
+    "color": "#EAB308",
+    "bgColor": "#FEF9C3"
+  },
+  {
+    "id": "izhar_shafawi",
+    "name": "Izhar Shafawi",
+    "color": "#0EA5E9",
+    "bgColor": "#E0F2FE"
+  },
+  {
+    "id": "lam_shamsiyyah",
+    "name": "Lam Shamsiyyah (Solar Lam)",
+    "color": "#F43F5E",
+    "bgColor": "#FFE4E6"
+  },
+  {
+    "id": "lam_qamariyyah",
+    "name": "Lam Qamariyyah (Moon Lam)",
+    "color": "#84CC16",
+    "bgColor": "#ECFCCB"
+  },
+  {
+    "id": "waqf",
+    "name": "Waqf (Stopping)",
+    "color": "#64748B",
+    "bgColor": "#F1F5F9"
+  }
+]

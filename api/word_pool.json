@@ -1,0 +1,67 @@
+[
+  { "text": "وَالضُّحَى", "rule": "tafkheem", "explanation": "Daad (ض) is a heavy letter." },
+  { "text": "الصِّرَاطَ", "rule": "tafkheem", "explanation": "Saad (ص) is pronounced heavily." },
+  { "text": "الطَّامَّةُ", "rule": "tafkheem", "explanation": "Taa (ط) is a heavy letter." },
+  { "text": "الْقَارِعَةُ", "rule": "tafkheem", "explanation": "Qaaf (ق) is a heavy letter." },
+  { "text": "غَفُورٌ", "rule": "tafkheem", "explanation": "Ghain (غ) is a heavy letter." },
+
+  { "text": "إِنَّا", "rule": "ghunnah", "explanation": "Noon Mushaddad requires Ghunnah." },
+  { "text": "إِنَّهُ", "rule": "ghunnah", "explanation": "Noon Mushaddad is pronounced with Ghunnah." },
+  { "text": "جَنَّاتٍ", "rule": "ghunnah", "explanation": "Noon Mushaddad requires Ghunnah." },
+  { "text": "عَمَّ", "rule": "ghunnah", "explanation": "Meem Mushaddad requires Ghunnah." },
+  { "text": "ثُمَّ", "rule": "ghunnah", "explanation": "Meem Mushaddad requires Ghunnah." },
+
+  { "text": "قَالُوا", "rule": "madd", "explanation": "Alif creates Madd." },
+  { "text": "جَاءَ", "rule": "madd", "explanation": "Madd letter lengthens the sound." },
+  { "text": "السَّمَاءِ", "rule": "madd", "explanation": "Madd is present before Hamzah." },
+  { "text": "قِيلَ", "rule": "madd", "explanation": "Yaa Maddiyyah extends the sound." },
+  { "text": "يَقُولُ", "rule": "madd", "explanation": "Waw Maddiyyah extends the sound." },
+
+  { "text": "مِنْ شَرِّ", "rule": "ikhfa", "explanation": "Noon Sakinah before Sheen requires Ikhfa." },
+  { "text": "مِنْ صُدُورِ", "rule": "ikhfa", "explanation": "Noon Sakinah before Saad requires Ikhfa." },
+  { "text": "مِنْ تَحْتِهَا", "rule": "ikhfa", "explanation": "Noon Sakinah before Taa requires Ikhfa." },
+  { "text": "مِنْ فَضْلِهِ", "rule": "ikhfa", "explanation": "Noon Sakinah before Faa requires Ikhfa." },
+  { "text": "مِنْ كُلِّ", "rule": "ikhfa", "explanation": "Noon Sakinah before Kaaf requires Ikhfa." },
+
+  { "text": "مِنْ يَوْمٍ", "rule": "idgham", "explanation": "Noon Sakinah before Yaa requires Idgham." },
+  { "text": "مِنْ مَالٍ", "rule": "idgham", "explanation": "Noon Sakinah before Meem requires Idgham." },
+  { "text": "مِنْ نِعْمَةٍ", "rule": "idgham", "explanation": "Noon Sakinah before Noon requires Idgham." },
+  { "text": "غَفُورٌ وَدُودٌ", "rule": "idgham", "explanation": "Tanween before Waw requires Idgham." },
+  { "text": "هُدًى لِلْمُتَّقِينَ", "rule": "idgham", "explanation": "Tanween before Laam requires Idgham." },
+
+  { "text": "مِنْ بَعْدِ", "rule": "iqlab", "explanation": "Noon Sakinah before Baa requires Iqlab." },
+  { "text": "سَمِيعٌ بَصِيرٌ", "rule": "iqlab", "explanation": "Tanween before Baa requires Iqlab." },
+  { "text": "عَلِيمٌ بِذَاتِ", "rule": "iqlab", "explanation": "Tanween before Baa requires Iqlab." },
+  { "text": "أَنْبِئْهُمْ", "rule": "iqlab", "explanation": "Noon before Baa changes to Meem sound." },
+  { "text": "مُنْبَثًّا", "rule": "iqlab", "explanation": "Noon before Baa requires Iqlab." },
+
+  { "text": "مِنْ آمَنَ", "rule": "izhar", "explanation": "Noon Sakinah before Hamzah requires Izhar." },
+  { "text": "مِنْ عِلْمٍ", "rule": "izhar", "explanation": "Noon Sakinah before Ain requires Izhar." },
+  { "text": "مِنْ حَكِيمٍ", "rule": "izhar", "explanation": "Noon Sakinah before Haa requires Izhar." },
+  { "text": "مِنْ غِلٍّ", "rule": "izhar", "explanation": "Noon Sakinah before Ghain requires Izhar." },
+  { "text": "مِنْ خَيْرٍ", "rule": "izhar", "explanation": "Noon Sakinah before Khaa requires Izhar." },
+
+  { "text": "اقْرَأْ", "rule": "qalqalah", "explanation": "Qaaf (ق) carries Sukoon." },
+  { "text": "يَجْعَلْ", "rule": "qalqalah", "explanation": "Jeem (ج) carries Sukoon." },
+  { "text": "أَحَدْ", "rule": "qalqalah", "explanation": "Daal (د) carries Sukoon when stopping." },
+  { "text": "تَبَّتْ", "rule": "qalqalah", "explanation": "Baa (ب) carries Sukoon when stopping." },
+  { "text": "الْفَلَقْ", "rule": "qalqalah", "explanation": "Qaaf (ق) carries Sukoon when stopping." },
+
+  { "text": "الشَّمْسِ", "rule": "lam_shamsiyyah", "explanation": "Sheen is a solar letter." },
+  { "text": "النَّاسِ", "rule": "lam_shamsiyyah", "explanation": "Noon is a solar letter." },
+  { "text": "الصَّابِرِينَ", "rule": "lam_shamsiyyah", "explanation": "Saad is a solar letter." },
+  { "text": "الرَّحْمٰنِ", "rule": "lam_shamsiyyah", "explanation": "Raa is a solar letter." },
+  { "text": "التَّوَّابُ", "rule": "lam_shamsiyyah", "explanation": "Taa is a solar letter." },
+
+  { "text": "الْقَمَرِ", "rule": "lam_qamariyyah", "explanation": "Lam is pronounced clearly before Qaaf." },
+  { "text": "الْكِتَابُ", "rule": "lam_qamariyyah", "explanation": "Lam is pronounced clearly before Kaaf." },
+  { "text": "الْفَلَقِ", "rule": "lam_qamariyyah", "explanation": "Lam is pronounced clearly before Faa." },
+  { "text": "الْوَاحِدُ", "rule": "lam_qamariyyah", "explanation": "Lam is pronounced clearly before Waw." },
+  { "text": "الْحَكِيمُ", "rule": "lam_qamariyyah", "explanation": "Lam is pronounced clearly before Haa." },
+
+  { "text": "فِرْعَوْنَ", "rule": "tarqeeq", "explanation": "Raa is pronounced lightly." },
+  { "text": "رِزْقًا", "rule": "tarqeeq", "explanation": "Raa carries Kasrah, making it light." },
+  { "text": "رِجَالٌ", "rule": "tarqeeq", "explanation": "Raa is pronounced lightly." },
+  { "text": "فِرْدَوْسٍ", "rule": "tarqeeq", "explanation": "Raa is pronounced lightly." },
+  { "text": "مِرْيَةٍ", "rule": "tarqeeq", "explanation": "Raa is pronounced lightly due to Kasrah." }
+]
