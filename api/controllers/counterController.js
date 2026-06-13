@@ -1,4 +1,4 @@
-import Counter from "../models/Counter.js";
+import {Counter} from "../models/Counter.js";
 
 
 export const getCount = async (req, res) => {
